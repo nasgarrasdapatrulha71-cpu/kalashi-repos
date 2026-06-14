@@ -1,0 +1,76 @@
+name: Update Feather Repo from Nabzclan
+
+on:
+  schedule:
+    # Executa todo dia às 12:00 UTC
+    - cron: '0 12 * * *'
+  workflow_dispatch:  # Permite rodar manualmente também
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout do repositório
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Baixar JSON original (formato AltStore)
+      run: |
+        curl -o nabzclan.original.json \
+          "https://raw.githubusercontent.com/nasgarrasdapatrulha71-cpu/kalashi-repos/refs/heads/main/nabzclan.altstore.json"
+    
+    - name: Converter para formato Feather
+      run: |
+        python3 -c "
+        import json, sys
+        
+        with open('nabzclan.original.json', 'r') as f:
+            original = json.load(f)
+        
+        # Criar estrutura do Feather
+        feather = {
+            'name': original.get('name', 'Nabzclan Feather Repo'),
+            'identifier': original.get('identifier', 'com.nabzclan.feather'),
+            'iconURL': original.get('iconURL', ''),
+            'apps': []
+        }
+        
+        for app in original.get('apps', []):
+            # Pega a primeira versão disponível (mais recente)
+            versions = app.get('versions', [])
+            if not versions:
+                continue
+            
+            latest_version = versions[0]
+            
+            feather_app = {
+                'name': app.get('name'),
+                'bundleIdentifier': app.get('bundleIdentifier'),
+                'developerName': app.get('developerName', 'Nabzclan'),
+                'version': latest_version.get('version'),
+                'versionDate': latest_version.get('date', '2025-06-01'),
+                'downloadURL': latest_version.get('downloadURL'),
+                'iconURL': app.get('iconURL', ''),
+                'size': latest_version.get('size', 0)
+            }
+            feather['apps'].append(feather_app)
+        
+        with open('nabzclan.feather.json', 'w') as f:
+            json.dump(feather, f, indent=2, ensure_ascii=False)
+        "
+    
+    - name: Verificar se houve mudanças
+      id: check_changes
+      run: |
+        git diff --quiet nabzclan.feather.json || echo "changed=true" >> $GITHUB_OUTPUT
+    
+    - name: Commitar e enviar atualizações
+      if: steps.check_changes.outputs.changed == 'true'
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+        git add nabzclan.feather.json
+        git commit -m "Auto-update feather repo: $(date -u +'%Y-%m-%d %H:%M:%S')"
+        git push
