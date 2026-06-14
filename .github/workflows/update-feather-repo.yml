@@ -33,6 +33,7 @@ print(f'Convertidos {len(feather['apps'])} apps')
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
+          git pull --rebase
           git add nabzclan.feather.json
           git diff --staged --quiet || git commit -m "auto: atualiza repo feather"
           git push
