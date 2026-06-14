@@ -6,31 +6,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Fetch and convert
-        run: |
-          curl -s https://repos.gabrx.eu.org/nabzclan.json > original.json
-          python3 -c "
-import json
-with open('original.json') as f:
-    o = json.load(f)
-feather = {'name': 'Nabzclan Feather Repo', 'identifier': 'com.nabzclan.feather', 'iconURL': 'https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg', 'apps': []}
-for app in o.get('apps', []):
-    if app.get('down'):
-        feather['apps'].append({
-            'name': app.get('name'),
-            'bundleIdentifier': app.get('bundleID'),
-            'developerName': 'Nabzclan',
-            'version': app.get('version'),
-            'versionDate': app.get('versionDate', ''),
-            'downloadURL': app.get('down'),
-            'iconURL': app.get('iconURL', ''),
-            'size': app.get('size', 0)
-        })
-with open('nabzclan.feather.json', 'w') as f:
-    json.dump(feather, f, indent=2)
-print(f'Convertidos {len(feather['apps'])} apps')
-"
-      - name: Commit and push
+      - name: Baixar JSON original
+        run: curl -s https://repos.gabrx.eu.org/nabzclan.json > original.json
+      - name: Converter para Feather
+        run: python3 converter.py
+      - name: Commit e push
         run: |
           git config user.name "github-actions[bot]"
           git pull --rebase
