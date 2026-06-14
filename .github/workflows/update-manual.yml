@@ -9,11 +9,16 @@ jobs:
       - name: Fetch and convert
         run: |
           curl -s https://repos.gabrx.eu.org/nabzclan.json > original.json
-          python3 -c "
+          python3 << 'EOF'
 import json
 with open('original.json') as f:
     o = json.load(f)
-feather = {'name': 'Nabzclan Feather Repo', 'identifier': 'com.nabzclan.feather', 'iconURL': 'https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg', 'apps': []}
+feather = {
+    'name': 'Nabzclan Feather Repo',
+    'identifier': 'com.nabzclan.feather',
+    'iconURL': 'https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg',
+    'apps': []
+}
 for app in o.get('apps', []):
     if app.get('down'):
         feather['apps'].append({
@@ -29,7 +34,7 @@ for app in o.get('apps', []):
 with open('nabzclan.feather.json', 'w') as f:
     json.dump(feather, f, indent=2)
 print(f'Convertidos {len(feather['apps'])} apps')
-"
+EOF
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
