@@ -11,33 +11,33 @@ jobs:
       - name: Fetch and convert
         run: |
           curl -s https://repos.gabrx.eu.org/nabzclan.json > original.json
-          python3 -c "
+          python3 -c '
 import json
-with open('original.json') as f:
+with open("original.json") as f:
     data = json.load(f)
 result = {
-    'name': 'Nabzclan Feather',
-    'identifier': 'com.nabzclan.feather',
-    'iconURL': 'https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg',
-    'apps': []
+    "name": "Nabzclan Feather",
+    "identifier": "com.nabzclan.feather",
+    "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
+    "apps": []
 }
-for app in data.get('apps', []):
-    if app.get('down'):
-        result['apps'].append({
-            'name': app.get('name'),
-            'bundleIdentifier': app.get('bundleID'),
-            'version': app.get('version'),
-            'downloadURL': app.get('down'),
-            'iconURL': app.get('iconURL', ''),
-            'size': app.get('size', 0)
+for app in data.get("apps", []):
+    if app.get("down"):
+        result["apps"].append({
+            "name": app.get("name"),
+            "bundleIdentifier": app.get("bundleID"),
+            "version": app.get("version"),
+            "downloadURL": app.get("down"),
+            "iconURL": app.get("iconURL", ""),
+            "size": app.get("size", 0)
         })
-with open('nabzclan.feather.json', 'w') as f:
+with open("nabzclan.feather.json", "w") as f:
     json.dump(result, f, indent=2)
-print(f'Converted {len(result['apps'])} apps')
-"
+print(f"Converted {len(result['apps'])} apps")
+'
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git add nabzclan.feather.json
-          git diff --staged --quiet || git commit -m "Auto-update feather repo"
+          git diff --staged --quiet || git commit -m "auto: atualiza repo feather"
           git push
