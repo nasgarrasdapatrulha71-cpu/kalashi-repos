@@ -6,36 +6,35 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Download and convert
+      - name: Download and Convert
         run: |
           curl -o original.json https://repos.gabrx.eu.org/nabzclan.json
           python3 -c '
 import json
 with open("original.json") as f:
-    o = json.load(f)
+    data = json.load(f)
 result = {
     "name": "Nabzclan Feather Repo",
     "identifier": "com.nabzclan.feather",
     "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
     "apps": []
 }
-for app in o.get("apps", []):
+for app in data.get("apps", []):
     if app.get("down"):
         result["apps"].append({
             "name": app.get("name"),
             "bundleIdentifier": app.get("bundleID"),
             "version": app.get("version"),
             "downloadURL": app.get("down"),
-            "iconURL": app.get("iconURL", ""),
             "size": app.get("size", 0)
         })
 with open("nabzclan.feather.json", "w") as f:
     json.dump(result, f, indent=2)
-print(f"OK: {len(result['apps'])} apps")
+print(f"Done: {len(result['apps'])} apps")
 '
       - name: Push changes
         run: |
-          git config user.name "github-actions[bot]"
+          git config user.name github-actions
           git add nabzclan.feather.json
-          git diff --staged --quiet || git commit -m "Update repo"
+          git diff --staged --quiet || git commit -m "Manual update"
           git push
