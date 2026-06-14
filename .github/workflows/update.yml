@@ -2,15 +2,15 @@ name: Manual Update
 on:
   workflow_dispatch:
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Download and Convert
+      - name: Download and convert
         run: |
-          curl -o original.json https://repos.gabrx.eu.org/nabzclan.json
+          curl -s https://repos.gabrx.eu.org/nabzclan.json > original.json
           python3 -c '
-import json
+import json, sys
 with open("original.json") as f:
     data = json.load(f)
 result = {
@@ -26,15 +26,17 @@ for app in data.get("apps", []):
             "bundleIdentifier": app.get("bundleID"),
             "version": app.get("version"),
             "downloadURL": app.get("down"),
+            "iconURL": app.get("iconURL", ""),
             "size": app.get("size", 0)
         })
 with open("nabzclan.feather.json", "w") as f:
     json.dump(result, f, indent=2)
-print(f"Done: {len(result['apps'])} apps")
+print(f"OK: {len(result['apps'])} apps")
 '
       - name: Push changes
         run: |
-          git config user.name github-actions
+          git config user.name "github-actions[bot]"
+          git pull --rebase
           git add nabzclan.feather.json
           git diff --staged --quiet || git commit -m "Manual update"
           git push
