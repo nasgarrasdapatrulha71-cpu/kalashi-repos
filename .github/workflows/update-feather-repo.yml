@@ -1,42 +1,43 @@
-name: Update Feather Repo from Nabzclan
-
+name: Update Feather Repo
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 */12 * * *'
-  workflow_dispatch:
-
 jobs:
-  update:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Baixar JSON original
+      - name: Fetch and convert
         run: |
-          curl -o original.json https://repos.gabrx.eu.org/nabzclan.json
-      - name: Converter para Feather
-        run: |
-          python3 -c "
+          curl -s https://repos.gabrx.eu.org/nabzclan.json > original.json
+          python3 - <<EOF
 import json
 with open('original.json') as f:
-    o = json.load(f)
-feather = {'name': 'Nabzclan Feather', 'identifier': 'com.nabzclan.feather', 'iconURL': 'https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg', 'apps': []}
-for app in o.get('apps', []):
+    data = json.load(f)
+result = {
+    "name": "Nabzclan Feather",
+    "identifier": "com.nabzclan.feather",
+    "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
+    "apps": []
+}
+for app in data.get('apps', []):
     if app.get('down'):
-        feather['apps'].append({
-            'name': app.get('name'),
-            'bundleIdentifier': app.get('bundleID'),
-            'version': app.get('version'),
-            'downloadURL': app.get('down'),
-            'iconURL': app.get('iconURL', ''),
-            'size': app.get('size', 0)
+        result['apps'].append({
+            "name": app.get('name'),
+            "bundleIdentifier": app.get('bundleID'),
+            "version": app.get('version'),
+            "downloadURL": app.get('down'),
+            "iconURL": app.get('iconURL', ''),
+            "size": app.get('size', 0)
         })
 with open('nabzclan.feather.json', 'w') as f:
-    json.dump(feather, f, indent=2)
-print(f'Convertidos {len(feather['apps'])} apps')
-"
-      - name: Commit e push
+    json.dump(result, f, indent=2)
+print(f"Converted {len(result['apps'])} apps")
+EOF
+      - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git add nabzclan.feather.json
-          git diff --cached --quiet || git commit -m "auto: atualiza repo feather"
+          git diff --staged --quiet || git commit -m "Auto-update feather repo"
           git push
