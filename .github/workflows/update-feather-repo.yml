@@ -11,30 +11,30 @@ jobs:
       - name: Fetch and convert
         run: |
           curl -s https://repos.gabrx.eu.org/nabzclan.json > original.json
-          python3 - <<EOF
+          python3 -c "
 import json
 with open('original.json') as f:
     data = json.load(f)
 result = {
-    "name": "Nabzclan Feather",
-    "identifier": "com.nabzclan.feather",
-    "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
-    "apps": []
+    'name': 'Nabzclan Feather',
+    'identifier': 'com.nabzclan.feather',
+    'iconURL': 'https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg',
+    'apps': []
 }
 for app in data.get('apps', []):
     if app.get('down'):
         result['apps'].append({
-            "name": app.get('name'),
-            "bundleIdentifier": app.get('bundleID'),
-            "version": app.get('version'),
-            "downloadURL": app.get('down'),
-            "iconURL": app.get('iconURL', ''),
-            "size": app.get('size', 0)
+            'name': app.get('name'),
+            'bundleIdentifier': app.get('bundleID'),
+            'version': app.get('version'),
+            'downloadURL': app.get('down'),
+            'iconURL': app.get('iconURL', ''),
+            'size': app.get('size', 0)
         })
 with open('nabzclan.feather.json', 'w') as f:
     json.dump(result, f, indent=2)
-print(f"Converted {len(result['apps'])} apps")
-EOF
+print(f'Converted {len(result['apps'])} apps')
+"
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
