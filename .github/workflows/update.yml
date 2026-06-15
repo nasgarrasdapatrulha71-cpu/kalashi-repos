@@ -14,7 +14,8 @@ jobs:
         run: python3 converter.py
       - name: Commit and push
         run: |
-          git config user.name "github-actions[bot]"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add nabzclan.feather.json
           git diff --staged --quiet || git commit -m "Manual update"
           git pull --rebase
