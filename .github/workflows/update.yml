@@ -16,7 +16,8 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin
+          git reset --soft origin/main
           git add nabzclan.feather.json
-          git diff --staged --quiet || git commit -m "Manual update"
-          git pull --rebase
-          git push
+          git commit -m "Manual update"
+          git push --force-with-lease
