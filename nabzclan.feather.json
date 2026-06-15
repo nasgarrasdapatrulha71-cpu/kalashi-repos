@@ -4,12 +4,68 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Roothide Dopamine 2",
+      "bundleIdentifier": "roothidedopamine2",
+      "version": "2.4.9.25",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1988",
+      "iconURL": "https://appstore.sidelix.vip/images/1775069607.jpeg",
+      "size": 54816344
+    },
+    {
+      "name": "Carrion (hacked)",
+      "bundleIdentifier": "com.devolverdigital.carrion",
+      "version": "1.5",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2061",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a2efeda11347.jpg",
+      "size": 123460892
+    },
+    {
+      "name": "Banana Kong (hacked)",
+      "bundleIdentifier": "com.FDGEntertainment.BananaKong",
+      "version": "1.9.20",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2060",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a2efaf8478b5.jpg",
+      "size": 85555041
+    },
+    {
+      "name": "My Perfect Hotel (hacked)",
+      "bundleIdentifier": "com.master.hotelmaster",
+      "version": "1.34.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2059",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a2ee90804eec.jpg",
+      "size": 196392379
+    },
+    {
+      "name": "Alien Invasion: RPG Idle Space (hacked)",
+      "bundleIdentifier": "com.multicastgames.venomSurvive",
+      "version": "4.41.00",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2058",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a2ee57492c9b.jpg",
+      "size": 169791600
+    },
+    {
+      "name": "Flow Free+ (Apple arcade games)",
+      "bundleIdentifier": "com.bigduckgames.flowplus",
+      "version": "1.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2057",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a2edb9b8a987.jpg",
+      "size": 11581696
+    },
+    {
+      "name": "Discord - Enmity",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "version": "2.2.6",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2056",
+      "iconURL": "https://appstore.sidelix.vip/images/1781454269.png",
+      "size": 95269728
+    },
+    {
       "name": "8 Ball Pool (hacked #3)",
       "bundleIdentifier": "com.miniclip.8ballpoolmult",
       "version": "56.25.1",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2055",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a2db7d5da9a0.jpg",
-      "size": 104890068
+      "size": 104642646
     },
     {
       "name": "Bazaart (hacked)",
@@ -274,62 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2036",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a2b45d2aece9.jpg",
       "size": 2554298294
-    },
-    {
-      "name": "Poppy Playtime Chapter 1 (free paid & Hacked)",
-      "bundleIdentifier": "com.MOBGames.PoppyMobileChapterOne",
-      "version": "2.2",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2035",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a2b4537cd969.jpg",
-      "size": 953500206
-    },
-    {
-      "name": "Instagram - IGFormat",
-      "bundleIdentifier": "com.burbn.instagram",
-      "version": "433.0.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2034",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a2b41978d226.jpg",
-      "size": 279820688
-    },
-    {
-      "name": "Money Pro: Personal Finance AR (free paid)",
-      "bundleIdentifier": "com.ibearsoft.moneypro",
-      "version": "2.11.28",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2033",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a2b22960456c.jpg",
-      "size": 170952672
-    },
-    {
-      "name": "Mimpi Dreams (free paid)",
-      "bundleIdentifier": "com.siliconjelly.mimpi2",
-      "version": "6.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2032",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a2b21422c776.jpg",
-      "size": 77249285
-    },
-    {
-      "name": "AnkiMobile Flashcards (free paid)",
-      "bundleIdentifier": "net.ichi2.anki",
-      "version": "25.09",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2031",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a2b204f225ce.jpg",
-      "size": 15584655
-    },
-    {
-      "name": "MapleRead SE (free paid)",
-      "bundleIdentifier": "com.maplepop.bmsea",
-      "version": "6.4",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2030",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a2b1f3ab7fc7.jpg",
-      "size": 21258961
-    },
-    {
-      "name": "Max Payne Mobile (free paid)",
-      "bundleIdentifier": "com.rockstargames.maxpayne",
-      "version": "2.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2029",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a29973934d2b.jpg",
-      "size": 1165738570
     }
   ]
 }
