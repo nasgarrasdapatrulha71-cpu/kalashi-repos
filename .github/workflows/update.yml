@@ -2,7 +2,7 @@ name: Manual Update
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 0,6,12,18 * * *'
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -20,8 +20,15 @@ jobs:
           git checkout -b temp-branch
           rm -f original.json
           git add nabzclan.feather.json
+          if git diff --staged --quiet; then
+            echo "Nenhuma mudança detectada. Saindo."
+            git checkout main
+            git branch -D temp-branch
+            exit 0
+          fi
           git commit -m "Manual update"
           git push origin temp-branch --force
           git checkout main
           git merge temp-branch --strategy-option theirs --no-edit
           git push origin main --force
+          git branch -D temp-branch
