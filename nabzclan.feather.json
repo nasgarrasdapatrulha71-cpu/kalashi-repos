@@ -4,6 +4,30 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "PDF Expert - (Hacked)",
+      "bundleIdentifier": "com.readdle.PDFExpert5",
+      "version": "7.25.6",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1945",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_691a93e376753.jpg",
+      "size": 165827011
+    },
+    {
+      "name": "LEGO Ninjago: Rise of the Snakes (removed from app store)",
+      "bundleIdentifier": "Ninjago-ROTS",
+      "version": "2.2.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2062",
+      "iconURL": "https://appstore.sidelix.vip/images/1781545192.png",
+      "size": 0
+    },
+    {
+      "name": "8 Ball Pool (hacked #3)",
+      "bundleIdentifier": "com.miniclip.8ballpoolmult",
+      "version": "56.25.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2055",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a2db7d5da9a0.jpg",
+      "size": 107196375
+    },
+    {
       "name": "Roothide Dopamine 2",
       "bundleIdentifier": "roothidedopamine2",
       "version": "2.4.9.25",
@@ -58,14 +82,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2056",
       "iconURL": "https://appstore.sidelix.vip/images/1781454269.png",
       "size": 95269728
-    },
-    {
-      "name": "8 Ball Pool (hacked #3)",
-      "bundleIdentifier": "com.miniclip.8ballpoolmult",
-      "version": "56.25.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2055",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a2db7d5da9a0.jpg",
-      "size": 104642646
     },
     {
       "name": "Bazaart (hacked)",
@@ -314,22 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2037",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a2bee117b0d7.jpg",
       "size": 49718019
-    },
-    {
-      "name": "Poppy Playtime Chapter 2",
-      "bundleIdentifier": "com.PoppyMobileChapterTwo.PoppyPlaytimeChapterTwo",
-      "version": "2.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1884",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6903b4822a80d.jpg",
-      "size": 1321433853
-    },
-    {
-      "name": "Poppy Playtime Chapter 3 (free paid)",
-      "bundleIdentifier": "com.MobEntertainment.PoppyPlaytimeChapter3",
-      "version": "1.01",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2036",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a2b45d2aece9.jpg",
-      "size": 2554298294
     }
   ]
 }
