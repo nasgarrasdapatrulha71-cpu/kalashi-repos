@@ -2,7 +2,7 @@ name: Manual Update
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: '0 */6 * * *'
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -18,6 +18,7 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git fetch origin
           git checkout -b temp-branch
+          rm -f original.json
           git add nabzclan.feather.json
           git commit -m "Manual update"
           git push origin temp-branch --force
