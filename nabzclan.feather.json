@@ -4,6 +4,14 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Smash Hit (hacked)",
+      "bundleIdentifier": "com.mediocre.smashhit",
+      "version": "1.5.8",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2063",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a31462e1e48f.jpg",
+      "size": 62238726
+    },
+    {
       "name": "PDF Expert - (Hacked)",
       "bundleIdentifier": "com.readdle.PDFExpert5",
       "version": "7.25.6",
@@ -322,14 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1966",
       "iconURL": "https://appstore.sidelix.vip/images/icon_698f2e170d6e6.jpg",
       "size": 115037235
-    },
-    {
-      "name": "Coin ID: Coin Value Identifier (hacked)",
-      "bundleIdentifier": "com.aiby.wtcoin",
-      "version": "1.25",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2037",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a2bee117b0d7.jpg",
-      "size": 49718019
     }
   ]
 }
