@@ -4,20 +4,148 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Roblox - DotSight Crosshair",
+      "bundleIdentifier": "com.roblox.robloxmobile",
+      "version": "2.726.1138",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2098",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a35c49424935.jpg",
+      "size": 0
+    },
+    {
+      "name": "Bring You Home (Paid app)",
+      "bundleIdentifier": "com.alikestudio.BYHgame",
+      "version": "1.0.4",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2097",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a35a8829186b.jpg",
+      "size": 394823099
+    },
+    {
+      "name": "Boxes: Lost Fragments (Hacked)",
+      "bundleIdentifier": "com.snapbreak.boxes",
+      "version": "1.52",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2096",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a35a7998ffa7.jpg",
+      "size": 690049116
+    },
+    {
+      "name": "Aerofly FS Global",
+      "bundleIdentifier": "com.aerofly.aerofly-fs-g1-ios",
+      "version": "1.6.5",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1873",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a35a4ce46fad.jpg",
+      "size": 2462507452
+    },
+    {
+      "name": "Jelly Splash: Fun Puzzle Game (Hacked)",
+      "bundleIdentifier": "net.wooga.jellysplash",
+      "version": "3.56.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2095",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a35a085a51e6.jpg",
+      "size": 103363707
+    },
+    {
+      "name": "WorldBox - God Sandbox (Hacked)",
+      "bundleIdentifier": "com.mkarpenko.worldbox",
+      "version": "0.51.4",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2094",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a359fccae28a.jpg",
+      "size": 147197252
+    },
+    {
+      "name": "Cooking Diary Restaurant Game - Hacked",
+      "bundleIdentifier": "com.mytonallc.cookingdiary",
+      "version": "2.54.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2093",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a359ef52c711.jpg",
+      "size": 425094526
+    },
+    {
+      "name": "Kid-E-Cats Educational Games (Hacked)",
+      "bundleIdentifier": "com.edujoy.kidecats2",
+      "version": "12.8",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2092",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a359e7f01722.jpg",
+      "size": 45060853
+    },
+    {
+      "name": "Adult Coloring Book - Pigment (Hack)",
+      "bundleIdentifier": "com.pixite.pigment",
+      "version": "3.12.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2091",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a359b5395de1.jpg",
+      "size": 142934846
+    },
+    {
+      "name": "Block\u00a0Blast - No ads",
+      "bundleIdentifier": "com.blockpuzzle.us.ios",
+      "version": "7.2.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1958",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a359ac960fe6.jpg",
+      "size": 95014829
+    },
+    {
+      "name": "Pinterest - Hacked",
+      "bundleIdentifier": "pinterest",
+      "version": "14.23",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2090",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a359a3e3ab16.jpg",
+      "size": 140864452
+    },
+    {
+      "name": "Crossy Road (Hack)",
+      "bundleIdentifier": "com.hipsterwhale.crossy",
+      "version": "7.12",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2089",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a35990190fce.jpg",
+      "size": 134846993
+    },
+    {
+      "name": "Parking Jam 3D (Hacked)",
+      "bundleIdentifier": "com.uqxuwtxbbu.parkingjam",
+      "version": "232.0.4",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2087",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3598d607471.jpg",
+      "size": 229358711
+    },
+    {
+      "name": "Magic Sort! (Hacked)",
+      "bundleIdentifier": "com.grandgames.magicsort",
+      "version": "26.84",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2070",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3597305a465.jpg",
+      "size": 204818772
+    },
+    {
+      "name": "Egg, Inc - (Hacked)",
+      "bundleIdentifier": "com.auxbrain.egginc",
+      "version": "1.36",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2088",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a35964c7792b.jpg",
+      "size": 57918000
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "version": "1.26.30",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1834",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a35879f77bd5.jpg",
+      "size": 688877825
+    },
+    {
+      "name": "Dune! (Mod menu)",
+      "bundleIdentifier": "io.voodoo.dune",
+      "version": "5.6.06",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2086",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a355bc05f73a.jpg",
+      "size": 96404663
+    },
+    {
       "name": "Dune! - hacked",
       "bundleIdentifier": "io.voodoo.dune",
       "version": "5.6.06",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2085",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a34a5ddb3226.jpg",
       "size": 96325420
-    },
-    {
-      "name": "Block\u00a0Blast - No ads",
-      "bundleIdentifier": "com.blockpuzzle.us.ios",
-      "version": "7.1.9",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1958",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a34a5b3b7958.jpg",
-      "size": 88679565
     },
     {
       "name": "Suicide Squad: Special Ops - (Removed from App Store)",
@@ -148,14 +276,6 @@
       "size": 332177255
     },
     {
-      "name": "Magic Sort! (Hacked)",
-      "bundleIdentifier": "com.grandgames.magicsort",
-      "version": "26.84",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2070",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a344411017bb.jpg",
-      "size": 212902310
-    },
-    {
       "name": "TV Remote - Universal Control (Hacked)",
       "bundleIdentifier": "evolly.app.rokuremote",
       "version": "2.1.0",
@@ -210,126 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1929",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6903dd43f1e0e.jpg",
       "size": 124692092
-    },
-    {
-      "name": "NFC Tools (Hacked)",
-      "bundleIdentifier": "com.wakdev.wdnfc",
-      "version": "2.40",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2049",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a2d89377fec7.jpg",
-      "size": 10363879
-    },
-    {
-      "name": "Smash Hit (hacked)",
-      "bundleIdentifier": "com.mediocre.smashhit",
-      "version": "1.5.8",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2063",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a31462e1e48f.jpg",
-      "size": 62238726
-    },
-    {
-      "name": "PDF Expert - (Hacked)",
-      "bundleIdentifier": "com.readdle.PDFExpert5",
-      "version": "7.25.6",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1945",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_691a93e376753.jpg",
-      "size": 165827011
-    },
-    {
-      "name": "LEGO Ninjago: Rise of the Snakes (removed from app store)",
-      "bundleIdentifier": "Ninjago-ROTS",
-      "version": "2.2.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2062",
-      "iconURL": "https://appstore.sidelix.vip/images/1781545192.png",
-      "size": 0
-    },
-    {
-      "name": "8 Ball Pool (hacked #3)",
-      "bundleIdentifier": "com.miniclip.8ballpoolmult",
-      "version": "56.25.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2055",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a2db7d5da9a0.jpg",
-      "size": 107196375
-    },
-    {
-      "name": "Roothide Dopamine 2",
-      "bundleIdentifier": "roothidedopamine2",
-      "version": "2.4.9.25",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1988",
-      "iconURL": "https://appstore.sidelix.vip/images/1775069607.jpeg",
-      "size": 54816344
-    },
-    {
-      "name": "Carrion (hacked)",
-      "bundleIdentifier": "com.devolverdigital.carrion",
-      "version": "1.5",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2061",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a2efeda11347.jpg",
-      "size": 123460892
-    },
-    {
-      "name": "Banana Kong (hacked)",
-      "bundleIdentifier": "com.FDGEntertainment.BananaKong",
-      "version": "1.9.20",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2060",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a2efaf8478b5.jpg",
-      "size": 85555041
-    },
-    {
-      "name": "My Perfect Hotel (hacked)",
-      "bundleIdentifier": "com.master.hotelmaster",
-      "version": "1.34.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2059",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a2ee90804eec.jpg",
-      "size": 196392379
-    },
-    {
-      "name": "Alien Invasion: RPG Idle Space (hacked)",
-      "bundleIdentifier": "com.multicastgames.venomSurvive",
-      "version": "4.41.00",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2058",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a2ee57492c9b.jpg",
-      "size": 169791600
-    },
-    {
-      "name": "Flow Free+ (Apple arcade games)",
-      "bundleIdentifier": "com.bigduckgames.flowplus",
-      "version": "1.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2057",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a2edb9b8a987.jpg",
-      "size": 11581696
-    },
-    {
-      "name": "Discord - Enmity",
-      "bundleIdentifier": "com.hammerandchisel.discord",
-      "version": "2.2.6",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2056",
-      "iconURL": "https://appstore.sidelix.vip/images/1781454269.png",
-      "size": 95269728
-    },
-    {
-      "name": "Bazaart (hacked)",
-      "bundleIdentifier": "co.bazaart.app",
-      "version": "26.3.5",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1975",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_69b7486dc66d3.jpg",
-      "size": 101016123
-    },
-    {
-      "name": "Aloha VPN (hacked)",
-      "bundleIdentifier": "com.alohabrowser.vpn",
-      "version": "2.6.2",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2054",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a2d8d4e4ba0a.jpg",
-      "size": 166023816
-    },
-    {
-      "name": "FL Studio Mobile (Hacked)",
-      "bundleIdentifier": "com.imageline.FLStudioMobileHD",
-      "version": "4.10.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1846",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6901d75a6e103.jpg",
-      "size": 371886176
     }
   ]
 }
