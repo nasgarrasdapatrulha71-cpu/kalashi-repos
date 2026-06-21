@@ -4,6 +4,150 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Solitaire Associations Journey (hacked)",
+      "bundleIdentifier": "com.hitappsgames.wordsolitaire",
+      "version": "1.15.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2110",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3705e07a77f.jpg",
+      "size": 145492892
+    },
+    {
+      "name": "Reddit - Apollo",
+      "bundleIdentifier": "com.reddit.Reddit",
+      "version": "2026.24.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2109",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3702ffa13a3.jpg",
+      "size": 113310329
+    },
+    {
+      "name": "Telegram - (Teledark)",
+      "bundleIdentifier": "ph.telegra.Telegraph",
+      "version": "12.8",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2009",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a370277f2375.jpg",
+      "size": 82251135
+    },
+    {
+      "name": "Five Nights at Freddy's Hw (free paid)",
+      "bundleIdentifier": "FiveNightsatFreddys.Hw",
+      "version": "1.1.3",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2108",
+      "iconURL": "https://appstore.sidelix.vip/images/1781989675.png",
+      "size": 598202523
+    },
+    {
+      "name": "FNaF 6: Pizzeria Simulator (paid app)",
+      "bundleIdentifier": "com.clickteam.freddyfazbearspizzeriasimulator",
+      "version": "1.0.3",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2107",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a36fef23fab2.jpg",
+      "size": 162790111
+    },
+    {
+      "name": "Facebook - Glow",
+      "bundleIdentifier": "com.facebook.Facebook",
+      "version": "566.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1868",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a36f57971349.jpg",
+      "size": 216070606
+    },
+    {
+      "name": "YouTube Plus",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "version": "21.24.3",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1824",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a36f45e2b721.jpg",
+      "size": 158021185
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "version": "26.31",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1834",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a36dcff0ece1.jpg",
+      "size": 687832564
+    },
+    {
+      "name": "Cytus (Free paid)",
+      "bundleIdentifier": "com.rayark.Cytus.full",
+      "version": "10.1.5",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2106",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a36d9162eab0.jpg",
+      "size": 870989225
+    },
+    {
+      "name": "Terraria (paid app)",
+      "bundleIdentifier": "com.505games.terraria",
+      "version": "1.4.5.6",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2105",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a36d8bfa83df.jpg",
+      "size": 192003757
+    },
+    {
+      "name": "Bully: Anniversary Edition (Free paid)",
+      "bundleIdentifier": "com.rockstargames.bully",
+      "version": "1.4.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2104",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a36d7f452e3f.jpg",
+      "size": 1762259965
+    },
+    {
+      "name": "Unpacking (paid app)",
+      "bundleIdentifier": "com.humblebundle.unpacking",
+      "version": "1.04",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2103",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a36d0d4139c6.jpg",
+      "size": 317679743
+    },
+    {
+      "name": "Stardew Valley+ (Apple Arcade)",
+      "bundleIdentifier": "com.concernedape.stardewvalleyarcade",
+      "version": "1.6.15.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2102",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a36cfcf1b6aa.jpg",
+      "size": 321661548
+    },
+    {
+      "name": "Townsmen Premium (paid app)",
+      "bundleIdentifier": "com.hg.townsmen7",
+      "version": "1.14.8",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2101",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a36cec835416.jpg",
+      "size": 99120371
+    },
+    {
+      "name": "LCSign - (new signing tool)",
+      "bundleIdentifier": "com.huami.LoadController",
+      "version": "1.1.6",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2040",
+      "iconURL": "https://appstore.sidelix.vip/images/1781280155.webp",
+      "size": 20811872
+    },
+    {
+      "name": "LEGO Jurassic World (paid app)",
+      "bundleIdentifier": "com.wb.LEGOJurassicWorld",
+      "version": "2.2.3",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2100",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a36ad37689ca.jpg",
+      "size": 944928669
+    },
+    {
+      "name": "Geometry Dash (paid)",
+      "bundleIdentifier": "com.robtop.geometryjump",
+      "version": "2.208",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2008",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a36ab92a834c.jpg",
+      "size": 147397175
+    },
+    {
+      "name": "Townscaper (paid app)",
+      "bundleIdentifier": "com.rawfury.townscaper",
+      "version": "1.04",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2099",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a36aa1aa6aa0.jpg",
+      "size": 30886335
+    },
+    {
       "name": "Roblox - DotSight Crosshair",
       "bundleIdentifier": "com.roblox.robloxmobile",
       "version": "2.726.1138",
@@ -124,14 +268,6 @@
       "size": 57918000
     },
     {
-      "name": "Minecraft",
-      "bundleIdentifier": "com.mojang.minecraftpe",
-      "version": "1.26.30",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1834",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a35879f77bd5.jpg",
-      "size": 688877825
-    },
-    {
       "name": "Dune! (Mod menu)",
       "bundleIdentifier": "io.voodoo.dune",
       "version": "5.6.06",
@@ -194,142 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2079",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a34557c881d2.jpg",
       "size": 1009350374
-    },
-    {
-      "name": "Dungeon Tracer (Paid app)",
-      "bundleIdentifier": "com.rootgames.dungeonraidresurrection",
-      "version": "2.0.9",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2078",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3454600d578.jpg",
-      "size": 146447144
-    },
-    {
-      "name": "Blasphemous",
-      "bundleIdentifier": "com.thegamekitchen.blasphemous",
-      "version": "1.9",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1907",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6903cda1e7c4c.jpg",
-      "size": 830938599
-    },
-    {
-      "name": "Cash App (ivglitched prop old)",
-      "bundleIdentifier": "cashappby ivglitched",
-      "version": "1.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2077",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a34508085251.jpg",
-      "size": 3397123
-    },
-    {
-      "name": "Cash App - v5 trial",
-      "bundleIdentifier": "com.fakecassapp.jay",
-      "version": "v5 trial",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/335",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_68fc477d36b35.jpg",
-      "size": 9485118
-    },
-    {
-      "name": "Travel Town - Merge Adventure (Hacked))",
-      "bundleIdentifier": "io.randomco.travel",
-      "version": "2.12.1241",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2076",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a344c2bb654a.jpg",
-      "size": 132990368
-    },
-    {
-      "name": "Dehancer Film Emulation (Hacked)",
-      "bundleIdentifier": "com.dehancer.film.ios-app",
-      "version": "5.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2075",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a344aab4d2ea.jpg",
-      "size": 193013718
-    },
-    {
-      "name": "Easy Anatomy 3D with Voice AI (Hacked)",
-      "bundleIdentifier": "AB.iOsteology",
-      "version": "5.24.2",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2074",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3449db48e81.jpg",
-      "size": 1205729522
-    },
-    {
-      "name": "IPTV - Opus Player (Hacked)",
-      "bundleIdentifier": "com.handy.optus",
-      "version": "1.7.2",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2073",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a34460444ae2.jpg",
-      "size": 58769694
-    },
-    {
-      "name": "SquareDude - Square Fit Photo (Hacked)",
-      "bundleIdentifier": "tech.miidii.SquareDude",
-      "version": "1.5.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2072",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a34456814adf.jpg",
-      "size": 21873603
-    },
-    {
-      "name": "Stick War: Saga (Hacked)",
-      "bundleIdentifier": "com.maxgames.stickwar3",
-      "version": "2025.5.2288",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2071",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3444937840d.jpg",
-      "size": 332177255
-    },
-    {
-      "name": "TV Remote - Universal Control (Hacked)",
-      "bundleIdentifier": "evolly.app.rokuremote",
-      "version": "2.1.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2069",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3443b604cdc.jpg",
-      "size": 85029464
-    },
-    {
-      "name": "Stick War: Legacy (Hacked)",
-      "bundleIdentifier": "com.stickpage.stickwar",
-      "version": "2026.1.787",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2068",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a34425200796.jpg",
-      "size": 107793006
-    },
-    {
-      "name": "Koala Sampler \u2022 Beat Maker (Hacked)",
-      "bundleIdentifier": "com.elf-audio.koala",
-      "version": "1.4145",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2067",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3441ea370c4.jpg",
-      "size": 59169950
-    },
-    {
-      "name": "Knight Lancer (hacked)",
-      "bundleIdentifier": "com.ToweringTower.KnightLancer",
-      "version": "1.57",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2066",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a344182c3924.jpg",
-      "size": 108743687
-    },
-    {
-      "name": "ToonMe: AI Cartoon Face Maker (Hacked)",
-      "bundleIdentifier": "com.informelab.toonme",
-      "version": "0.11.31",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2065",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a343e5c02f88.jpg",
-      "size": 133505512
-    },
-    {
-      "name": "Draw it (Hacked)",
-      "bundleIdentifier": "com.kwalee.drawit",
-      "version": "2.1.4",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1991",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_69cd71334aca3.jpg",
-      "size": 152904040
-    },
-    {
-      "name": "Roblox - Delta",
-      "bundleIdentifier": "com.roblox.robloxmobile",
-      "version": "2.725.1142",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1929",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6903dd43f1e0e.jpg",
-      "size": 124692092
     }
   ]
 }
