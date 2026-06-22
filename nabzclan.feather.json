@@ -4,6 +4,22 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Twitch - TwitchAdBlock",
+      "bundleIdentifier": "tv.twitch",
+      "version": "29.7",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1863",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a386b28031d6.jpg",
+      "size": 130960783
+    },
+    {
+      "name": "LCSign - (new signing tool)",
+      "bundleIdentifier": "com.huami.LoadController",
+      "version": "1.1.6",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2040",
+      "iconURL": "https://appstore.sidelix.vip/images/1781280155.webp",
+      "size": 20811872
+    },
+    {
       "name": "Solitaire Associations Journey (hacked)",
       "bundleIdentifier": "com.hitappsgames.wordsolitaire",
       "version": "1.15.0",
@@ -114,14 +130,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2101",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a36cec835416.jpg",
       "size": 99120371
-    },
-    {
-      "name": "LCSign - (new signing tool)",
-      "bundleIdentifier": "com.huami.LoadController",
-      "version": "1.1.6",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2040",
-      "iconURL": "https://appstore.sidelix.vip/images/1781280155.webp",
-      "size": 20811872
     },
     {
       "name": "LEGO Jurassic World (paid app)",
@@ -322,14 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2080",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a34684e14c14.jpg",
       "size": 365343460
-    },
-    {
-      "name": "TABS Pocket Edition (paid app)",
-      "bundleIdentifier": "com.landfall.tabspocketedition",
-      "version": "1.1.06",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2079",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a34557c881d2.jpg",
-      "size": 1009350374
     }
   ]
 }
