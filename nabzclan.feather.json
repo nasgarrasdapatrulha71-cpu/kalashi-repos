@@ -4,15 +4,39 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
-      "name": "Twitch - TwitchAdBlock",
-      "bundleIdentifier": "tv.twitch",
-      "version": "29.7",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1863",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a386b28031d6.jpg",
-      "size": 130960783
+      "name": "YouTube Plus",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "version": "21.25.5",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1824",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a39e2c4a55e3.jpg",
+      "size": 159720523
     },
     {
-      "name": "LCSign - (new signing tool)",
+      "name": "Twitch - TwitchAdBlock",
+      "bundleIdentifier": "tv.twitch",
+      "version": "29.8",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1863",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a39967067287.jpg",
+      "size": 132721558
+    },
+    {
+      "name": "Clash Royale - nulls royal",
+      "bundleIdentifier": "com.supercell.scroll",
+      "version": "15.535.13",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1861",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3994829020d.jpg",
+      "size": 766786740
+    },
+    {
+      "name": "Smash Hit (Mod Menu)",
+      "bundleIdentifier": "com.mediocre.smashhit",
+      "version": "1.5.8",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2111",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3960b68b107.jpg",
+      "size": 66324138
+    },
+    {
+      "name": "LCSign",
       "bundleIdentifier": "com.huami.LoadController",
       "version": "1.1.6",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2040",
@@ -66,14 +90,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1868",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a36f57971349.jpg",
       "size": 216070606
-    },
-    {
-      "name": "YouTube Plus",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "version": "21.24.3",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1824",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a36f45e2b721.jpg",
-      "size": 158021185
     },
     {
       "name": "Minecraft",
@@ -314,22 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2081",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a347a5248863.jpg",
       "size": 1273797948
-    },
-    {
-      "name": "Instagram - instagram Regram",
-      "bundleIdentifier": "com.burbn.instagram",
-      "version": "431.0.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1856",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3476e5782d0.jpg",
-      "size": 314819638
-    },
-    {
-      "name": "Good Pizza, Great Pizza+ (Apple arcade games)",
-      "bundleIdentifier": "com.tapblaze.pizzabusinessplus",
-      "version": "1.0.4",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2080",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a34684e14c14.jpg",
-      "size": 365343460
     }
   ]
 }
