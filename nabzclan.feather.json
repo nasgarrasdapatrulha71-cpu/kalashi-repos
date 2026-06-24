@@ -4,6 +4,38 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Stone Grass: Lawn Mower Game (hacked)",
+      "bundleIdentifier": "com.frph.stonegrass",
+      "version": "1.36.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2114",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3a99938e265.jpg",
+      "size": 108538613
+    },
+    {
+      "name": "Car Match - Traffic Puzzle (hacked)",
+      "bundleIdentifier": "com.grandgames.carmatch",
+      "version": "8.27",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2113",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3a916ed8f4a.jpg",
+      "size": 196328567
+    },
+    {
+      "name": "SnoreLab : Record Your Snoring (hacked)",
+      "bundleIdentifier": "com.revivasoftworks.Snore-Lab",
+      "version": "6.3.8",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2112",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3a8f46f317a.jpg",
+      "size": 161118817
+    },
+    {
+      "name": "Smash Hit (Mod Menu)",
+      "bundleIdentifier": "com.mediocre.smashhit",
+      "version": "1.5.9",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2111",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3a292695093.jpg",
+      "size": 65346935
+    },
+    {
       "name": "YouTube Plus",
       "bundleIdentifier": "com.google.ios.youtube",
       "version": "21.25.5",
@@ -26,14 +58,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1861",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a3994829020d.jpg",
       "size": 766786740
-    },
-    {
-      "name": "Smash Hit (Mod Menu)",
-      "bundleIdentifier": "com.mediocre.smashhit",
-      "version": "1.5.8",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2111",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3960b68b107.jpg",
-      "size": 66324138
     },
     {
       "name": "LCSign",
@@ -306,30 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2085",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a34a5ddb3226.jpg",
       "size": 96325420
-    },
-    {
-      "name": "Suicide Squad: Special Ops - (Removed from App Store)",
-      "bundleIdentifier": "Suicide-SquadSpecial-Ops.app",
-      "version": "1.1.2",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2084",
-      "iconURL": "https://appstore.sidelix.vip/images/1781825279.jpeg",
-      "size": 175024486
-    },
-    {
-      "name": "SoundCloud - NexaSC",
-      "bundleIdentifier": "com.soundcloud.TouchApp",
-      "version": "8.65.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2083",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a347d5476683.jpg",
-      "size": 113624900
-    },
-    {
-      "name": "Dead Cells+ (Apple arcade games)",
-      "bundleIdentifier": "com.playdigious.deadcells.applearcade",
-      "version": "3.5.6",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2081",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a347a5248863.jpg",
-      "size": 1273797948
     }
   ]
 }
