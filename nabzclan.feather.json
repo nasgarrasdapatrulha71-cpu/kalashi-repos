@@ -4,6 +4,30 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Punch Kick Duck+ (Apple Arcade)",
+      "bundleIdentifier": "com.pipsqueakgames.punchkickduckplus",
+      "version": "1.14.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2116",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3c50df79fc3.jpg",
+      "size": 90887028
+    },
+    {
+      "name": "Reddit - Apollo",
+      "bundleIdentifier": "com.reddit.Reddit",
+      "version": "2026.25.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2109",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3c4cfe1618f.jpg",
+      "size": 94982312
+    },
+    {
+      "name": "Idle Miner",
+      "bundleIdentifier": "com.fluffyfairygames.idleminertycoon",
+      "version": "5.57.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2115",
+      "iconURL": "https://appstore.sidelix.vip/images/https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/54/4f/d8544fab-d2ad-f8d0-31dc-4deb3690f447/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "size": 148810733
+    },
+    {
       "name": "Stone Grass: Lawn Mower Game (hacked)",
       "bundleIdentifier": "com.frph.stonegrass",
       "version": "1.36.2",
@@ -74,14 +98,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2110",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a3705e07a77f.jpg",
       "size": 145492892
-    },
-    {
-      "name": "Reddit - Apollo",
-      "bundleIdentifier": "com.reddit.Reddit",
-      "version": "2026.24.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2109",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3702ffa13a3.jpg",
-      "size": 113310329
     },
     {
       "name": "Telegram - (Teledark)",
@@ -314,22 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2088",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a35964c7792b.jpg",
       "size": 57918000
-    },
-    {
-      "name": "Dune! (Mod menu)",
-      "bundleIdentifier": "io.voodoo.dune",
-      "version": "5.6.06",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2086",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a355bc05f73a.jpg",
-      "size": 96404663
-    },
-    {
-      "name": "Dune! - hacked",
-      "bundleIdentifier": "io.voodoo.dune",
-      "version": "5.6.06",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2085",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a34a5ddb3226.jpg",
-      "size": 96325420
     }
   ]
 }
