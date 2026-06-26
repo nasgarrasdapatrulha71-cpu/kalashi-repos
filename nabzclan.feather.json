@@ -4,6 +4,22 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Roblox - DotSight Crosshair",
+      "bundleIdentifier": "com.roblox.robloxmobile",
+      "version": "2.726.1138",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2098",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3da1bb313f8.jpg",
+      "size": 117757025
+    },
+    {
+      "name": "Fractal Space (paid app)",
+      "bundleIdentifier": "com.aze.spacerun",
+      "version": "2.631",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2117",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3d5e050caa4.jpg",
+      "size": 153496623
+    },
+    {
       "name": "Punch Kick Duck+ (Apple Arcade)",
       "bundleIdentifier": "com.pipsqueakgames.punchkickduckplus",
       "version": "1.14.1",
@@ -212,14 +228,6 @@
       "size": 30886335
     },
     {
-      "name": "Roblox - DotSight Crosshair",
-      "bundleIdentifier": "com.roblox.robloxmobile",
-      "version": "2.726.1138",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2098",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a35c49424935.jpg",
-      "size": 0
-    },
-    {
       "name": "Bring You Home (Paid app)",
       "bundleIdentifier": "com.alikestudio.BYHgame",
       "version": "1.0.4",
@@ -322,14 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2070",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a3597305a465.jpg",
       "size": 204818772
-    },
-    {
-      "name": "Egg, Inc - (Hacked)",
-      "bundleIdentifier": "com.auxbrain.egginc",
-      "version": "1.36",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2088",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a35964c7792b.jpg",
-      "size": 57918000
     }
   ]
 }
