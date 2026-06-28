@@ -4,6 +4,54 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Space Frontier (Hacked)",
+      "bundleIdentifier": "com.ketchapp.spacefrontier",
+      "version": "1.3.24",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2138",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3fdc4784cc0.jpg",
+      "size": 70632730
+    },
+    {
+      "name": "AI Calorie Counter: Eatlike (Hacked)",
+      "bundleIdentifier": "eatlike.ai.calorie.tracker",
+      "version": "1.2.23",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2137",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3fdb640b246.jpg",
+      "size": 137684328
+    },
+    {
+      "name": "Race Master 3D: Car Racing (Hacked)",
+      "bundleIdentifier": "com.easygames.race",
+      "version": "3.15.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2136",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3fdb0a35902.jpg",
+      "size": 317921220
+    },
+    {
+      "name": "Voloco: Vocal Recording Studio (Hacked)",
+      "bundleIdentifier": "com.resonantcavity.Voloco",
+      "version": "9.16.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2134",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3fd1bb9775b.jpg",
+      "size": 123446655
+    },
+    {
+      "name": "Bill Tracker Pro (Hacked)",
+      "bundleIdentifier": "com.unofficialcalculators.payplan",
+      "version": "4.1.96",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2127",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3fd19d7fa2d.jpg",
+      "size": 156710060
+    },
+    {
+      "name": "Podcast App (Hacked)",
+      "bundleIdentifier": "com.evolve.podcast",
+      "version": "7.8.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2133",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3fd0f82bb84.jpg",
+      "size": 59253915
+    },
+    {
       "name": "djay - DJ App & AI Mixer (Hacked)",
       "bundleIdentifier": "com.algoriddim.djay-iphone-free",
       "version": "5.6.6",
@@ -66,14 +114,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2059",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a3f2d20d1cd7.jpg",
       "size": 204249974
-    },
-    {
-      "name": "Bill Tracker Pro (Hacked)",
-      "bundleIdentifier": "com.unofficialcalculators.payplan",
-      "version": "4.1.95",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2127",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3f2c9783742.jpg",
-      "size": 158483329
     },
     {
       "name": "Bookshelf: Book Tracker & List (Hacked)",
@@ -290,46 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2009",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a370277f2375.jpg",
       "size": 82251135
-    },
-    {
-      "name": "Five Nights at Freddy's Hw (free paid)",
-      "bundleIdentifier": "FiveNightsatFreddys.Hw",
-      "version": "1.1.3",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2108",
-      "iconURL": "https://appstore.sidelix.vip/images/1781989675.png",
-      "size": 598202523
-    },
-    {
-      "name": "FNaF 6: Pizzeria Simulator (paid app)",
-      "bundleIdentifier": "com.clickteam.freddyfazbearspizzeriasimulator",
-      "version": "1.0.3",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2107",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a36fef23fab2.jpg",
-      "size": 162790111
-    },
-    {
-      "name": "Facebook - Glow",
-      "bundleIdentifier": "com.facebook.Facebook",
-      "version": "566.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1868",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a36f57971349.jpg",
-      "size": 216070606
-    },
-    {
-      "name": "Cytus (Free paid)",
-      "bundleIdentifier": "com.rayark.Cytus.full",
-      "version": "10.1.5",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2106",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a36d9162eab0.jpg",
-      "size": 870989225
-    },
-    {
-      "name": "Terraria (paid app)",
-      "bundleIdentifier": "com.505games.terraria",
-      "version": "1.4.5.6",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2105",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a36d8bfa83df.jpg",
-      "size": 192003757
     }
   ]
 }
