@@ -4,6 +4,70 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Water Sort Puzzle (Hacked)",
+      "bundleIdentifier": "com.gma.water.sort.puzzle",
+      "version": "32.0.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2140",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a445bf788809.jpg",
+      "size": 124026384
+    },
+    {
+      "name": "Youtube - YouTube Plus",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "version": "21.26.4",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1824",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a445b34385f7.jpg",
+      "size": 160697273
+    },
+    {
+      "name": "LCSign",
+      "bundleIdentifier": "com.huami.LoadController",
+      "version": "1.2.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2040",
+      "iconURL": "https://appstore.sidelix.vip/images/1781280155.webp",
+      "size": 21480075
+    },
+    {
+      "name": "Magic Sort! (Hacked)",
+      "bundleIdentifier": "com.grandgames.magicsort",
+      "version": "27.29",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2070",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a43d1f09e33e.jpg",
+      "size": 205968057
+    },
+    {
+      "name": "Clash of Clans -nulls clash",
+      "bundleIdentifier": "com.supercell.magic",
+      "version": "18.400.7",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1860",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a43d162ea015.jpg",
+      "size": 465885070
+    },
+    {
+      "name": "Instagram - RyukGram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "version": "435.1.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2139",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a417086d4e63.jpg",
+      "size": 308206330
+    },
+    {
+      "name": "EeveeSpotify - Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "version": "9.1.60",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1821",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a416163e5e01.jpg",
+      "size": 127825669
+    },
+    {
+      "name": "X - Twitter BHX",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "version": "12.3",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1865",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a4161b2b585a.jpg",
+      "size": 233803971
+    },
+    {
       "name": "Space Frontier (Hacked)",
       "bundleIdentifier": "com.ketchapp.spacefrontier",
       "version": "1.3.24",
@@ -266,70 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2113",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a3a916ed8f4a.jpg",
       "size": 196328567
-    },
-    {
-      "name": "SnoreLab : Record Your Snoring (hacked)",
-      "bundleIdentifier": "com.revivasoftworks.Snore-Lab",
-      "version": "6.3.8",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2112",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3a8f46f317a.jpg",
-      "size": 161118817
-    },
-    {
-      "name": "Smash Hit (Mod Menu)",
-      "bundleIdentifier": "com.mediocre.smashhit",
-      "version": "1.5.9",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2111",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3a292695093.jpg",
-      "size": 65346935
-    },
-    {
-      "name": "YouTube Plus",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "version": "21.25.5",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1824",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a39e2c4a55e3.jpg",
-      "size": 159720523
-    },
-    {
-      "name": "Twitch - TwitchAdBlock",
-      "bundleIdentifier": "tv.twitch",
-      "version": "29.8",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1863",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a39967067287.jpg",
-      "size": 132721558
-    },
-    {
-      "name": "Clash Royale - nulls royal",
-      "bundleIdentifier": "com.supercell.scroll",
-      "version": "15.535.13",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1861",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3994829020d.jpg",
-      "size": 766786740
-    },
-    {
-      "name": "LCSign",
-      "bundleIdentifier": "com.huami.LoadController",
-      "version": "1.1.6",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2040",
-      "iconURL": "https://appstore.sidelix.vip/images/1781280155.webp",
-      "size": 20811872
-    },
-    {
-      "name": "Solitaire Associations Journey (hacked)",
-      "bundleIdentifier": "com.hitappsgames.wordsolitaire",
-      "version": "1.15.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2110",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3705e07a77f.jpg",
-      "size": 145492892
-    },
-    {
-      "name": "Telegram - (Teledark)",
-      "bundleIdentifier": "ph.telegra.Telegraph",
-      "version": "12.8",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2009",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a370277f2375.jpg",
-      "size": 82251135
     }
   ]
 }
