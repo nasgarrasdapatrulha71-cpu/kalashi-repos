@@ -4,6 +4,30 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Roblox - DotSight Crosshair",
+      "bundleIdentifier": "com.roblox.robloxmobile",
+      "version": "2.727.1204",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2098",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a45429294d5c.jpg",
+      "size": 124593152
+    },
+    {
+      "name": "Roblox - Delta",
+      "bundleIdentifier": "com.roblox.robloxmobile",
+      "version": "2.727.1204",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1929",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a4538c124ab3.jpg",
+      "size": 130411677
+    },
+    {
+      "name": "HTTPBot (Hacked)",
+      "bundleIdentifier": "com.behindtechlines.HTTPBot",
+      "version": "2026.5.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2141",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a448cc3ec3ee.jpg",
+      "size": 41542882
+    },
+    {
       "name": "Water Sort Puzzle (Hacked)",
       "bundleIdentifier": "com.gma.water.sort.puzzle",
       "version": "32.0.0",
@@ -276,14 +300,6 @@
       "size": 687822930
     },
     {
-      "name": "Roblox - DotSight Crosshair",
-      "bundleIdentifier": "com.roblox.robloxmobile",
-      "version": "2.726.1138",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2098",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3da1bb313f8.jpg",
-      "size": 117757025
-    },
-    {
       "name": "Fractal Space (paid app)",
       "bundleIdentifier": "com.aze.spacerun",
       "version": "2.631",
@@ -314,22 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2115",
       "iconURL": "https://appstore.sidelix.vip/images/https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/54/4f/d8544fab-d2ad-f8d0-31dc-4deb3690f447/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "size": 148810733
-    },
-    {
-      "name": "Stone Grass: Lawn Mower Game (hacked)",
-      "bundleIdentifier": "com.frph.stonegrass",
-      "version": "1.36.2",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2114",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3a99938e265.jpg",
-      "size": 108538613
-    },
-    {
-      "name": "Car Match - Traffic Puzzle (hacked)",
-      "bundleIdentifier": "com.grandgames.carmatch",
-      "version": "8.27",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2113",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3a916ed8f4a.jpg",
-      "size": 196328567
     }
   ]
 }
