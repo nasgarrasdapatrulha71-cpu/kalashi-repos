@@ -4,6 +4,150 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Oniri - Your Dream Journal (Hacked)",
+      "bundleIdentifier": "com.sublime.capture",
+      "version": "6.0.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2157",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a49aa6ba6cf8.jpg",
+      "size": 112569272
+    },
+    {
+      "name": "Sunset Predictions: Alpenglow (Hacked)",
+      "bundleIdentifier": "com.andydev.alpenglow",
+      "version": "11.2.7",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2156",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a49aa41c3f96.jpg",
+      "size": 70463353
+    },
+    {
+      "name": "Napper: Baby Sleep Tracker (Hacked)",
+      "bundleIdentifier": "com.napper",
+      "version": "6.59.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2155",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a49a9f952e75.jpg",
+      "size": 56542635
+    },
+    {
+      "name": "SCRL: Photo Collage Maker (Hacked)",
+      "bundleIdentifier": "com.dopedevelopment.Panels",
+      "version": "9.44",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2130",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a49a97eed2ad.jpg",
+      "size": 73755428
+    },
+    {
+      "name": "Voice Recorder AI Notes: Spiik (Hacked)",
+      "bundleIdentifier": "io.fadel.Spiik",
+      "version": "1.0.131",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2154",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a49a942e2705.jpg",
+      "size": 39368310
+    },
+    {
+      "name": "Open: Breathwork + Meditation (Hacked)",
+      "bundleIdentifier": "com.o-p-e-n.open",
+      "version": "26.27",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2153",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a49a90c89083.jpg",
+      "size": 132385957
+    },
+    {
+      "name": "Planta: Plant & Garden Care (Hacked)",
+      "bundleIdentifier": "com.stromming.Plants",
+      "version": "3.117.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2152",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a49a8ce226f9.jpg",
+      "size": 135478237
+    },
+    {
+      "name": "StepsApp Pedometer (Hacked)",
+      "bundleIdentifier": "com.gunthermarktl.stepapp",
+      "version": "8.11.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2151",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a49a833edaf3.jpg",
+      "size": 226653803
+    },
+    {
+      "name": "Recipe Keeper & Saver - Recify (Hacked)",
+      "bundleIdentifier": "com.bakeryscent.recipeai",
+      "version": "1.7.5",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2150",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a49a7c2242b1.jpg",
+      "size": 44090065
+    },
+    {
+      "name": "Noise Machine - Brown, White (Hacked)",
+      "bundleIdentifier": "com.awave.noisemachine",
+      "version": "6.2.6",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2149",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a49a799d70c8.jpg",
+      "size": 59941991
+    },
+    {
+      "name": "Voicepal: your AI Ghostwriter",
+      "bundleIdentifier": "com.choiceapps.recipesfdw",
+      "version": "2.2.10",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1828",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a49a6fe652b3.jpg",
+      "size": 54561336
+    },
+    {
+      "name": "Lemmings: Strategy & Puzzle (Hacked)",
+      "bundleIdentifier": "com.sadpuppy.lemmings",
+      "version": "9.4.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2148",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a49a6d9b5a96.jpg",
+      "size": 132676070
+    },
+    {
+      "name": "BeFreed: Personalized Learning (Hacked)",
+      "bundleIdentifier": "ai.befreed.freed-frontend-rn",
+      "version": "4.5.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2147",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a49a6a23107b.jpg",
+      "size": 77823979
+    },
+    {
+      "name": "Ahead: Emotional Companion (Hacked)",
+      "bundleIdentifier": "com.aheadsolutions.aHead",
+      "version": "1.60.26",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2146",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a49a64e278fd.jpg",
+      "size": 195820349
+    },
+    {
+      "name": "MusicHarbor - Track New Music (Hacked)",
+      "bundleIdentifier": "br.com.marcosatanaka.music-harbor",
+      "version": "5.3.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2145",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a49a61b9330c.jpg",
+      "size": 56759714
+    },
+    {
+      "name": "Brain Test: Tricky Puzzles (Hacked)",
+      "bundleIdentifier": "com.unicostudio.braintest",
+      "version": "2.768.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2144",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a49a5eac2734.jpg",
+      "size": 152786574
+    },
+    {
+      "name": "Live Transcribe (Hacked)",
+      "bundleIdentifier": "com.robnorback.LiveTranscribe",
+      "version": "2.65",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2123",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a49a57f84122.jpg",
+      "size": 59765492
+    },
+    {
+      "name": "Forza Football - Live Scores - (Hacked)",
+      "bundleIdentifier": "com.footballaddicts.livescoreaddicts",
+      "version": "7.0.5",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2128",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a49a5678c328.jpg",
+      "size": 143275999
+    },
+    {
       "name": "TikTok - plus (douyin)",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "version": "45.8.0",
@@ -186,150 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2133",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a3fd0f82bb84.jpg",
       "size": 59253915
-    },
-    {
-      "name": "djay - DJ App & AI Mixer (Hacked)",
-      "bundleIdentifier": "com.algoriddim.djay-iphone-free",
-      "version": "5.6.6",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2132",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3f30645398e.jpg",
-      "size": 201699659
-    },
-    {
-      "name": "MySwimPro: #1 Swim Workout App (Hacked)",
-      "bundleIdentifier": "com.myswimpro.apps.MySwimPro",
-      "version": "9.0.7",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2131",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3f2f5eb9a79.jpg",
-      "size": 54352577
-    },
-    {
-      "name": "AI Background Editor - Ereasy (Hacked)",
-      "bundleIdentifier": "background.remover.bg.eraser",
-      "version": "2.16.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1827",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3f2f3fc486c.jpg",
-      "size": 96263471
-    },
-    {
-      "name": "SCRL: Photo Collage Maker (Hacked)",
-      "bundleIdentifier": "com.dopedevelopment.Panels",
-      "version": "9.42",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2130",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3f2ec41b39d.jpg",
-      "size": 72607736
-    },
-    {
-      "name": "Hill Climb Racing (Hacked)",
-      "bundleIdentifier": "com.fingersoft.hillclimbracing",
-      "version": "1.70.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1951",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3f2e9749fba.jpg",
-      "size": 133695239
-    },
-    {
-      "name": "I Am Sober (Hacked)",
-      "bundleIdentifier": "com.thehungrywasp.iamsober",
-      "version": "8.6.8",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2129",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3f2e5fee6ac.jpg",
-      "size": 45987920
-    },
-    {
-      "name": "Forza Football - Live Scores - (Hacked)",
-      "bundleIdentifier": "com.footballaddicts.livescoreaddicts",
-      "version": "7.0.4",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2128",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3f2dc872707.jpg",
-      "size": 126640700
-    },
-    {
-      "name": "My Perfect Hotel (hacked)",
-      "bundleIdentifier": "com.master.hotelmaster",
-      "version": "1.34.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2059",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3f2d20d1cd7.jpg",
-      "size": 204249974
-    },
-    {
-      "name": "Bookshelf: Book Tracker & List (Hacked)",
-      "bundleIdentifier": "alexgerrese.summarize",
-      "version": "2.18.16",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2126",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3f2b94aaa62.jpg",
-      "size": 221776612
-    },
-    {
-      "name": "Petty: Petrol Prices AU + UK (Hacked)",
-      "bundleIdentifier": "zachsim.one.Petty",
-      "version": "8.1.3",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2125",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3f2ad5ce855.jpg",
-      "size": 21911838
-    },
-    {
-      "name": "Tappy: Sensory Fidget & Focus (Hacked)",
-      "bundleIdentifier": "cameronnazemi.Tappy",
-      "version": "5.6.2",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2124",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3f2a6f1eb5c.jpg",
-      "size": 246657856
-    },
-    {
-      "name": "Live Transcribe (Hacked)",
-      "bundleIdentifier": "com.robnorback.LiveTranscribe",
-      "version": "2.64.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2123",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3f29ca4fe5f.jpg",
-      "size": 58987584
-    },
-    {
-      "name": "The Way - Guided Meditation (Hacked)",
-      "bundleIdentifier": "com.thewayapp.mobile",
-      "version": "1.20.4",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2122",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3f29428fcfb.jpg",
-      "size": 102938477
-    },
-    {
-      "name": "Reframe: Drink Less & Thrive (Hacked)",
-      "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
-      "version": "3.9.72",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2121",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3f27d189f4f.jpg",
-      "size": 248373216
-    },
-    {
-      "name": "VDIT - Video Caption Editor (Hacked)",
-      "bundleIdentifier": "me.imgbase.videoday",
-      "version": "4.1.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2120",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3f275c2f266.jpg",
-      "size": 226430531
-    },
-    {
-      "name": "Parking Jam 3D (Hacked)",
-      "bundleIdentifier": "com.uqxuwtxbbu.parkingjam",
-      "version": "232.0.5",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2087",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3f23ea2ec03.jpg",
-      "size": 229118840
-    },
-    {
-      "name": "Moon Phase Calendar Plus (hacked)",
-      "bundleIdentifier": "nz.co.petesmith.moonphasefree",
-      "version": "8.6.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2119",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3f22c186b95.jpg",
-      "size": 27881063
-    },
-    {
-      "name": "Eden: Daily Routine Planner (hacked)",
-      "bundleIdentifier": "com.mfagency.nurture",
-      "version": "5.3.2",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2118",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3f21063d135.jpg",
-      "size": 172136658
     }
   ]
 }
