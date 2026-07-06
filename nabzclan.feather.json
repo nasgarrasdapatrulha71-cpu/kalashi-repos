@@ -4,6 +4,46 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "X - Twitter - Plus",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "version": "12.5.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2161",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a4a9a370be2c.jpg",
+      "size": 240630685
+    },
+    {
+      "name": "Lingora (Hacked)",
+      "bundleIdentifier": "com.stebtech.lingora",
+      "version": "6.1.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2160",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a4a9939a3fea.jpg",
+      "size": 50976424
+    },
+    {
+      "name": "Astra - Life Advice (Hacked)",
+      "bundleIdentifier": "com.vertventures.stella",
+      "version": "3.12.30",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2159",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a4a990d1bc6c.jpg",
+      "size": 86714876
+    },
+    {
+      "name": "MoneyCoach: Budget Planner (Hacked)",
+      "bundleIdentifier": "com.duuro.moneyCoach",
+      "version": "11.4.4",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2158",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a4a98e69cfbc.jpg",
+      "size": 113912749
+    },
+    {
+      "name": "StadioMax",
+      "bundleIdentifier": "com.stadiomax.ios",
+      "version": "1.0.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2143",
+      "iconURL": "https://appstore.sidelix.vip/images/1783190981.png",
+      "size": 5132291
+    },
+    {
       "name": "Oniri - Your Dream Journal (Hacked)",
       "bundleIdentifier": "com.sublime.capture",
       "version": "6.0.2",
@@ -84,7 +124,7 @@
       "size": 59941991
     },
     {
-      "name": "Voicepal: your AI Ghostwriter",
+      "name": "Voicepal: your AI Ghostwriter (Hacked)",
       "bundleIdentifier": "com.choiceapps.recipesfdw",
       "version": "2.2.10",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1828",
@@ -196,14 +236,6 @@
       "size": 90327648
     },
     {
-      "name": "Roblox - DotSight Crosshair",
-      "bundleIdentifier": "com.roblox.robloxmobile",
-      "version": "2.727.1204",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2098",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a45429294d5c.jpg",
-      "size": 124593152
-    },
-    {
       "name": "Roblox - Delta",
       "bundleIdentifier": "com.roblox.robloxmobile",
       "version": "2.727.1204",
@@ -298,38 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2137",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a3fdb640b246.jpg",
       "size": 137684328
-    },
-    {
-      "name": "Race Master 3D: Car Racing (Hacked)",
-      "bundleIdentifier": "com.easygames.race",
-      "version": "3.15.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2136",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3fdb0a35902.jpg",
-      "size": 317921220
-    },
-    {
-      "name": "Voloco: Vocal Recording Studio (Hacked)",
-      "bundleIdentifier": "com.resonantcavity.Voloco",
-      "version": "9.16.2",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2134",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3fd1bb9775b.jpg",
-      "size": 123446655
-    },
-    {
-      "name": "Bill Tracker Pro (Hacked)",
-      "bundleIdentifier": "com.unofficialcalculators.payplan",
-      "version": "4.1.96",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2127",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3fd19d7fa2d.jpg",
-      "size": 156710060
-    },
-    {
-      "name": "Podcast App (Hacked)",
-      "bundleIdentifier": "com.evolve.podcast",
-      "version": "7.8.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2133",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3fd0f82bb84.jpg",
-      "size": 59253915
     }
   ]
 }
