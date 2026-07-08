@@ -4,6 +4,14 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "LCSign",
+      "bundleIdentifier": "com.huami.LoadController",
+      "version": "1.2.4",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2040",
+      "iconURL": "https://appstore.sidelix.vip/images/1781280155.webp",
+      "size": 19553682
+    },
+    {
       "name": "Crossword Master - Word Puzzle (Hacked)",
       "bundleIdentifier": "com.easybrain.crossword.puzzles",
       "version": "2.1.0",
@@ -322,14 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2038",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a4700bbf1dcb.jpg",
       "size": 106397150
-    },
-    {
-      "name": "Pinterest - Hacked",
-      "bundleIdentifier": "pinterest",
-      "version": "14.25",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2090",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a470075096d4.jpg",
-      "size": 142895543
     }
   ]
 }
