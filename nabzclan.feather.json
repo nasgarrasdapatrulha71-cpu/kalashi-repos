@@ -4,6 +4,86 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Magic Sort! (Hacked)",
+      "bundleIdentifier": "com.grandgames.magicsort",
+      "version": "27.91",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2070",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a502c8a0d605.jpg",
+      "size": 205013425
+    },
+    {
+      "name": "Liftoff - Ranked Gym Workouts (Hacked)",
+      "bundleIdentifier": "com.gymbros.app",
+      "version": "2.13.23",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2192",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a502c608b7a4.jpg",
+      "size": 169900988
+    },
+    {
+      "name": "HiiKER: The Hiking Maps App (Hacked)",
+      "bundleIdentifier": "com.hiiker.hiiker",
+      "version": "26.72",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2191",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a502c15a474c.jpg",
+      "size": 127132006
+    },
+    {
+      "name": "Ochi: Block Websites & Apps (Hacked)",
+      "bundleIdentifier": "au.com.michaeltigas.Ochi",
+      "version": "1.8",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2190",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a502bdcce526.jpg",
+      "size": 50137215
+    },
+    {
+      "name": "MusicSmart - Liner Notes (Hacked)",
+      "bundleIdentifier": "br.com.marcosatanaka.musicwhiz",
+      "version": "2.3.3",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2189",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a502b98e9c53.jpg",
+      "size": 33978072
+    },
+    {
+      "name": "MusicBox - MP3 Player&Offline (Hacked)",
+      "bundleIdentifier": "com.playmusic.boxi",
+      "version": "1.1.8",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2188",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a502b67339d7.jpg",
+      "size": 37569177
+    },
+    {
+      "name": "Smart Receipts: Expenses & Tax (Hacked)",
+      "bundleIdentifier": "co.smartreceipts.ios",
+      "version": "5.18.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2187",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a502b1fd807a.jpg",
+      "size": 51655806
+    },
+    {
+      "name": "SCRL: Photo Collage Maker (Hacked)",
+      "bundleIdentifier": "com.dopedevelopment.Panels",
+      "version": "9.44.3",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2130",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a502b0358c31.jpg",
+      "size": 75464389
+    },
+    {
+      "name": "SnoreLab : Record Your Snoring (hacked)",
+      "bundleIdentifier": "com.revivasoftworks.Snore-Lab",
+      "version": "6.4.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2112",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a502ab75e3a6.jpg",
+      "size": 163406783
+    },
+    {
+      "name": "Oniri - Your Dream Journal (Hacked)",
+      "bundleIdentifier": "com.sublime.capture",
+      "version": "6.0.3",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2157",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a502a9eca410.jpg",
+      "size": 114114900
+    },
+    {
       "name": "MangaBoxs -ComicsBox (Hacked)",
       "bundleIdentifier": "com.yjs.aimxw",
       "version": "1.3.1",
@@ -250,86 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2166",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a4c28064be28.jpg",
       "size": 137553609
-    },
-    {
-      "name": "To Do List - Reminders & Tasks (Hacked)",
-      "bundleIdentifier": "app.monelyze.ToDo",
-      "version": "7.2.6",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2165",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a4c279355420.jpg",
-      "size": 36070773
-    },
-    {
-      "name": "Elevate - Brain Training Games (Hacked)",
-      "bundleIdentifier": "com.elevateapp.elevate",
-      "version": "5.246.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2163",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a4c26e3c9a01.jpg",
-      "size": 406797397
-    },
-    {
-      "name": "Invoice Simple: Invoice Maker (Hacked)",
-      "bundleIdentifier": "com.logicalengine.qsei",
-      "version": "6.6.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2162",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a4c263118d43.jpg",
-      "size": 98656120
-    },
-    {
-      "name": "X - Twitter - Plus",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "version": "12.5.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2161",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a4a9a370be2c.jpg",
-      "size": 240630685
-    },
-    {
-      "name": "Lingora (Hacked)",
-      "bundleIdentifier": "com.stebtech.lingora",
-      "version": "6.1.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2160",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a4a9939a3fea.jpg",
-      "size": 50976424
-    },
-    {
-      "name": "MoneyCoach: Budget Planner (Hacked)",
-      "bundleIdentifier": "com.duuro.moneyCoach",
-      "version": "11.4.4",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2158",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a4a98e69cfbc.jpg",
-      "size": 113912749
-    },
-    {
-      "name": "StadioMax",
-      "bundleIdentifier": "com.stadiomax.ios",
-      "version": "1.0.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2143",
-      "iconURL": "https://appstore.sidelix.vip/images/1783190981.png",
-      "size": 5132291
-    },
-    {
-      "name": "Oniri - Your Dream Journal (Hacked)",
-      "bundleIdentifier": "com.sublime.capture",
-      "version": "6.0.2",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2157",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a49aa6ba6cf8.jpg",
-      "size": 112569272
-    },
-    {
-      "name": "Sunset Predictions: Alpenglow (Hacked)",
-      "bundleIdentifier": "com.andydev.alpenglow",
-      "version": "11.2.7",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2156",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a49aa41c3f96.jpg",
-      "size": 70463353
-    },
-    {
-      "name": "Napper: Baby Sleep Tracker (Hacked)",
-      "bundleIdentifier": "com.napper",
-      "version": "6.59.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2155",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a49a9f952e75.jpg",
-      "size": 56542635
     }
   ]
 }
