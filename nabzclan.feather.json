@@ -4,6 +4,14 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Esign (no logs)",
+      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "version": "5.0.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2193",
+      "iconURL": "https://appstore.sidelix.vip/images/1783697129.webp",
+      "size": 8352288
+    },
+    {
       "name": "Magic Sort! (Hacked)",
       "bundleIdentifier": "com.grandgames.magicsort",
       "version": "27.91",
@@ -82,14 +90,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2157",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a502a9eca410.jpg",
       "size": 114114900
-    },
-    {
-      "name": "MangaBoxs -ComicsBox (Hacked)",
-      "bundleIdentifier": "com.yjs.aimxw",
-      "version": "1.3.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2186",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a4de4c4a074e.jpg",
-      "size": 142683495
     },
     {
       "name": "Paraphrasing Tool: Rewriter (Hacked)",
