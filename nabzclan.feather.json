@@ -4,6 +4,46 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "GTA 5 Mobile - (Fan made)",
+      "bundleIdentifier": "com.NGC.GTAV",
+      "version": "0.5",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2223",
+      "iconURL": "https://appstore.sidelix.vip/images/1783825764.png",
+      "size": 1463351297
+    },
+    {
+      "name": "Wasteland Life: Survival Idle",
+      "bundleIdentifier": "com.wasteland.heart",
+      "version": "3.0.5",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2222",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a52fe4be285b.jpg",
+      "size": 355523658
+    },
+    {
+      "name": "Infuse - plus",
+      "bundleIdentifier": "com.firecore.infuse",
+      "version": "8.4.8",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2221",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a52f7063a0a1.jpg",
+      "size": 98345402
+    },
+    {
+      "name": "Elevate - Brain Training Games (Hacked)",
+      "bundleIdentifier": "com.elevateapp.elevate",
+      "version": "5.247.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2163",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a52f6d7cc94a.jpg",
+      "size": 410190993
+    },
+    {
+      "name": "PUBG MOBILE (Hack 1 - mod menu) - GLOBAL",
+      "bundleIdentifier": "com.tencent.ig",
+      "version": "4.5.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2220",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a52f44bbe03f.jpg",
+      "size": 3755821704
+    },
+    {
       "name": "Invoice Simple: Invoice Maker (Hacked)",
       "bundleIdentifier": "com.logicalengine.qsei",
       "version": "6.6.1",
@@ -290,46 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2080",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a529a17e4d6f.jpg",
       "size": 365938549
-    },
-    {
-      "name": "Flow Free+ (Apple arcade games)",
-      "bundleIdentifier": "com.bigduckgames.flowplus",
-      "version": "1.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2057",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5299b6bde74.jpg",
-      "size": 14186048
-    },
-    {
-      "name": "Bill Tracker Pro (Hacked)",
-      "bundleIdentifier": "com.unofficialcalculators.payplan",
-      "version": "4.2.2",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2127",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a52999291e36.jpg",
-      "size": 161467041
-    },
-    {
-      "name": "Bookshelf: Book Tracker & List (Hacked)",
-      "bundleIdentifier": "alexgerrese.summarize",
-      "version": "2.18.17",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2126",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a529979c4f1a.jpg",
-      "size": 221581937
-    },
-    {
-      "name": "Astra - Life Advice (Hacked)",
-      "bundleIdentifier": "com.vertventures.stella",
-      "version": "3.12.35",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2159",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a529964e8970.jpg",
-      "size": 86720438
-    },
-    {
-      "name": "MusicBox - MP3 Player&Offline (Hacked)",
-      "bundleIdentifier": "com.playmusic.boxi",
-      "version": "1.1.8",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2188",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a529545dea29.jpg",
-      "size": 37588712
     }
   ]
 }
