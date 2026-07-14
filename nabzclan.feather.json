@@ -4,6 +4,158 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "CoCoSign",
+      "bundleIdentifier": "com.cococloudteam.cocosign",
+      "version": "beta 0.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2232",
+      "iconURL": "https://appstore.sidelix.vip/images/1783980309.png",
+      "size": 18861617
+    },
+    {
+      "name": "Getting Over It (Apple arcade)",
+      "bundleIdentifier": "net.foddy.gettingoveritplus",
+      "version": "1.14",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2231",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a555d710b392.jpg",
+      "size": 136118245
+    },
+    {
+      "name": "Getting Over It",
+      "bundleIdentifier": "net.Foddy.GettingOverIt",
+      "version": "1.14",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1872",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a555d4211fe3.jpg",
+      "size": 120468908
+    },
+    {
+      "name": "Blasphemous",
+      "bundleIdentifier": "com.thegamekitchen.blasphemous",
+      "version": "1.9",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1907",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a555bd6c8edf.jpg",
+      "size": 829925668
+    },
+    {
+      "name": "TikTok - GTok",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "version": "46.0.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2214",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5553e39fefb.jpg",
+      "size": 411904156
+    },
+    {
+      "name": "Photoroom: AI Photo Editor (Hacked)",
+      "bundleIdentifier": "com.dr1ven.eraser",
+      "version": "2026.29.01",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2230",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5552b9b1f69.jpg",
+      "size": 199059095
+    },
+    {
+      "name": "Inflow - Manage Your ADHD (Hacked)",
+      "bundleIdentifier": "com.inflow.app",
+      "version": "3.2.12",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2170",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5552a45a396.jpg",
+      "size": 52008808
+    },
+    {
+      "name": "Scanner App: Genius Scan (Hacked)",
+      "bundleIdentifier": "com.geniussoftware.GeniusScan",
+      "version": "8.13",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2229",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a555287605c9.jpg",
+      "size": 65488794
+    },
+    {
+      "name": "SCRL: Photo Collage Maker (Hacked)",
+      "bundleIdentifier": "com.dopedevelopment.Panels",
+      "version": "9.45",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2130",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5552632f79a.jpg",
+      "size": 73397425
+    },
+    {
+      "name": "Summary - AI Note Taker (Hacked)",
+      "bundleIdentifier": "io.labhouse.audioapp",
+      "version": "2.18.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2228",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a555244b228c.jpg",
+      "size": 112045938
+    },
+    {
+      "name": "World Clock Time Zone Widget (Hacked)",
+      "bundleIdentifier": "com.lasmit.World-Time",
+      "version": "2026.7",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2227",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a55522225af9.jpg",
+      "size": 44275541
+    },
+    {
+      "name": "Detail: AI Video Editor (Hacked)",
+      "bundleIdentifier": "co.detail.duo",
+      "version": "5.6",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2226",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5551f3841d3.jpg",
+      "size": 231775701
+    },
+    {
+      "name": "MySwimPro: #1 Swim Workout App (Hacked)",
+      "bundleIdentifier": "com.myswimpro.apps.MySwimPro",
+      "version": "9.1.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2131",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5551dc41b0c.jpg",
+      "size": 54788342
+    },
+    {
+      "name": "Balance: Meditation & Sleep (Hacked)",
+      "bundleIdentifier": "com.elevateapp.kamino.kamino",
+      "version": "1.204.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2225",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a555181afffb.jpg",
+      "size": 124664387
+    },
+    {
+      "name": "Elevate - Brain Training Games (Hacked)",
+      "bundleIdentifier": "com.elevateapp.elevate",
+      "version": "5.248.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2163",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a55516bb98c3.jpg",
+      "size": 409186585
+    },
+    {
+      "name": "Podcast App (Hacked)",
+      "bundleIdentifier": "com.evolve.podcast",
+      "version": "7.11.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2133",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5551413a899.jpg",
+      "size": 59294907
+    },
+    {
+      "name": "Fishbrain - Fishing App (Hacked)",
+      "bundleIdentifier": "com.fishbrain.app",
+      "version": "9.58.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2224",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a554b40da15d.jpg",
+      "size": 112093993
+    },
+    {
+      "name": "Youtube - YouTube Plus",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "version": "21.28.3",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1824",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a553103d24a6.jpg",
+      "size": 164013907
+    },
+    {
+      "name": "I Am Sober (Hacked)",
+      "bundleIdentifier": "com.thehungrywasp.iamsober",
+      "version": "8.7.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2129",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a55304c87b54.jpg",
+      "size": 48225510
+    },
+    {
       "name": "GTA 5 Mobile - (Fan made)",
       "bundleIdentifier": "com.NGC.GTAV",
       "version": "0.5",
@@ -26,14 +178,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2221",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a52f7063a0a1.jpg",
       "size": 98345402
-    },
-    {
-      "name": "Elevate - Brain Training Games (Hacked)",
-      "bundleIdentifier": "com.elevateapp.elevate",
-      "version": "5.247.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2163",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a52f6d7cc94a.jpg",
-      "size": 410190993
     },
     {
       "name": "PUBG MOBILE (Hack 1 - mod menu) - GLOBAL",
@@ -148,14 +292,6 @@
       "size": 326487180
     },
     {
-      "name": "TikTok - GTok",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "version": "46.0.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2214",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a52ad3512fab.jpg",
-      "size": 427380144
-    },
-    {
       "name": "SnoreLab : Record Your Snoring (hacked)",
       "bundleIdentifier": "com.revivasoftworks.Snore-Lab",
       "version": "6.4.2",
@@ -194,142 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2212",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a52a76a046e1.jpg",
       "size": 164088665
-    },
-    {
-      "name": "Pro Snooker & Pool 2025+",
-      "bundleIdentifier": "asg.iwaredesigns.prosnookerandpool",
-      "version": "1.43",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2211",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a52a73edcce7.jpg",
-      "size": 168988488
-    },
-    {
-      "name": "Worms3 (Paid App)",
-      "bundleIdentifier": "com.team17.worms3",
-      "version": "1.24",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2210",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a52a6f927edf.jpg",
-      "size": 142556864
-    },
-    {
-      "name": "FINAL FANTASY+ (Apple Arcade)",
-      "bundleIdentifier": "com.square-enix.FFPRArcade",
-      "version": "1.2.2",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2209",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a52a69a0a5d1.jpg",
-      "size": 331816934
-    },
-    {
-      "name": "Skate City: New York (Apple Arcade)",
-      "bundleIdentifier": "com.snowman.skatecitynewyork",
-      "version": "1.82",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2204",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a52a5d20ec2e.jpg",
-      "size": 397616150
-    },
-    {
-      "name": "Alto's Adventure \u2014 Remastered (Apple arcade)",
-      "bundleIdentifier": "com.snowman.altos-adventure.the-spirit-of-the-mountain",
-      "version": "1.0.7",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2208",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a52a4d0a67a3.jpg",
-      "size": 88417501
-    },
-    {
-      "name": "Alto's Odyssey \u2014 Remastered (Apple arcade)",
-      "bundleIdentifier": "com.snowman.altos-odyssey.lost-city",
-      "version": "1.1.8",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2207",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a52a479617fc.jpg",
-      "size": 134589416
-    },
-    {
-      "name": "Lost in Play+ (Apple Arcade)",
-      "bundleIdentifier": "com.snapbreak.lipaa",
-      "version": "1.0.2",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2206",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a52a43c38013.jpg",
-      "size": 636900672
-    },
-    {
-      "name": "Leo's Fortune (Apple Arcade)",
-      "bundleIdentifier": "com.leosfortune",
-      "version": "1.0.3",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2205",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a52a3a4e1c4e.jpg",
-      "size": 620313282
-    },
-    {
-      "name": "Old Man\u2019s Journey+ (Apple Arcade)",
-      "bundleIdentifier": "es.brokenrul.oldmansjourney.plus",
-      "version": "1.22",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2203",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a529eb64b43d.jpg",
-      "size": 1458372036
-    },
-    {
-      "name": "Tiny Wings+ (Apple Arcade)",
-      "bundleIdentifier": "com.andreasilliger.tinywingsarcade",
-      "version": "1.2.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2202",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a529cd352fd6.jpg",
-      "size": 50330100
-    },
-    {
-      "name": "WHAT THE CAR? (Apple Arcade)",
-      "bundleIdentifier": "net.triband.what-the-speed",
-      "version": "5.19.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2201",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a529ca34a462.jpg",
-      "size": 400431206
-    },
-    {
-      "name": "Stardew Valley+ (Apple Arcade)",
-      "bundleIdentifier": "com.concernedape.stardewvalleyarcade",
-      "version": "1.6.15.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2102",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a529c0e6ccbc.jpg",
-      "size": 321945866
-    },
-    {
-      "name": "Cozy Caravan (Apple Arcade)",
-      "bundleIdentifier": "com.5livesstudios.cozycaravan",
-      "version": "1.4.22803",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2200",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a529bc6a7e4c.jpg",
-      "size": 749797530
-    },
-    {
-      "name": "Sneaky Sasquatch (Apple Arcade)",
-      "bundleIdentifier": "com.rac7.SneakySasquatch",
-      "version": "2.1.9",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2199",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a529b6bdaef0.jpg",
-      "size": 340246961
-    },
-    {
-      "name": "Japanese Rural Life Adventure (Apple Arcade)",
-      "bundleIdentifier": "jp.gamestart.japaneserural",
-      "version": "1.22.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2198",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a529ab5a1716.jpg",
-      "size": 66497033
-    },
-    {
-      "name": "WorldBox - God Sandbox (Hacked)",
-      "bundleIdentifier": "com.mkarpenko.worldbox",
-      "version": "0.51.4",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2094",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a529a3d01728.jpg",
-      "size": 146667247
-    },
-    {
-      "name": "Good Pizza, Great Pizza+ (Apple arcade games)",
-      "bundleIdentifier": "com.tapblaze.pizzabusinessplus",
-      "version": "1.0.3",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2080",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a529a17e4d6f.jpg",
-      "size": 365938549
     }
   ]
 }
