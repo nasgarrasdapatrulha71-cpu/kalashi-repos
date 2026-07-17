@@ -4,6 +4,14 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "CoCoSign",
+      "bundleIdentifier": "com.cococloudteam.cocosign",
+      "version": "beta 0.4",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2232",
+      "iconURL": "https://appstore.sidelix.vip/images/1783980309.png",
+      "size": 19157891
+    },
+    {
       "name": "Instagram - IGFormat",
       "bundleIdentifier": "com.burbn.instagram",
       "version": "435.0.0",
@@ -322,14 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2127",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a57b971abce8.jpg",
       "size": 160078424
-    },
-    {
-      "name": "Sofascore: Live Sports Scores (Hacked)",
-      "bundleIdentifier": "com.SofaScore.iOS",
-      "version": "26.07.07",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2164",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a57b95eb9c4c.jpg",
-      "size": 103039345
     }
   ]
 }
