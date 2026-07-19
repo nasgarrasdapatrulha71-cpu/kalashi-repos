@@ -4,6 +4,126 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "LEGO Jurassic World (paid app)",
+      "bundleIdentifier": "com.wb.LEGOJurassicWorld",
+      "version": "2.2.3",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2100",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5bdcaa05a31.jpg",
+      "size": 944915854
+    },
+    {
+      "name": "Max Payne Mobile (free paid)",
+      "bundleIdentifier": "com.rockstargames.maxpayne",
+      "version": "2.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2029",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5bd90f855ae.jpg",
+      "size": 1167553270
+    },
+    {
+      "name": "Religion inc. God Simulator (Paid App)",
+      "bundleIdentifier": "com.gamefirst.religioninc",
+      "version": "1.2.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2267",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5bd6ab84748.jpg",
+      "size": 79516842
+    },
+    {
+      "name": "The Escapists: Prison Escape (Paid App)",
+      "bundleIdentifier": "com.team17.escapists",
+      "version": "1.12",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2266",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5bd66354659.jpg",
+      "size": 99534062
+    },
+    {
+      "name": "Escapists 2: Pocket Breakout (Paid App)",
+      "bundleIdentifier": "com.Team17.TheEscapists2",
+      "version": "1.11",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2265",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5bd6362783d.jpg",
+      "size": 621305014
+    },
+    {
+      "name": "Subnautica (Paid App)",
+      "bundleIdentifier": "com.UnknownWorlds.Subnautica",
+      "version": "1.2.4",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2264",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5bd5527dd6f.jpg",
+      "size": 1796397492
+    },
+    {
+      "name": "Monoposto",
+      "bundleIdentifier": "com.gabama.monoposto",
+      "version": "4.93",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1823",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5bd51354b61.jpg",
+      "size": 284674724
+    },
+    {
+      "name": "Papers, Please (Paid App)",
+      "bundleIdentifier": "co.3909.papersplease",
+      "version": "1.4.12",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2263",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5bd4ec26cff.jpg",
+      "size": 30916527
+    },
+    {
+      "name": "Overwinter Survival (Paid App)",
+      "bundleIdentifier": "com.fatih.survival",
+      "version": "2.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2262",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5bd44af1941.jpg",
+      "size": 56170403
+    },
+    {
+      "name": "Machinarium (Paid App)",
+      "bundleIdentifier": "net.machinarium.Machinarium",
+      "version": "3.0.9",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2261",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5bd3f571a63.jpg",
+      "size": 314857706
+    },
+    {
+      "name": "Rebel Inc. (Paid App)",
+      "bundleIdentifier": "com.ndemiccreations.peaceinc",
+      "version": "1.16",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2260",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5bd3a37d180.jpg",
+      "size": 130550471
+    },
+    {
+      "name": "After Inc.",
+      "bundleIdentifier": "com.ndemiccreations.survivors",
+      "version": "1.12.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1906",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5bd38f1d615.jpg",
+      "size": 123626212
+    },
+    {
+      "name": "Lyfta: Gym Workout Tracker Log (Hacked)",
+      "bundleIdentifier": "com.lyftaios",
+      "version": "1.150",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2259",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5bd234a367d.jpg",
+      "size": 58882696
+    },
+    {
+      "name": "MealPrepPro Planner & Recipes (Hacked)",
+      "bundleIdentifier": "com.nibbleapps.MealPrepPro",
+      "version": "3.142",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2166",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5bd1eb6c2a7.jpg",
+      "size": 139080129
+    },
+    {
+      "name": "Car Match - Traffic Puzzle (hacked)",
+      "bundleIdentifier": "com.grandgames.carmatch",
+      "version": "9.62",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2113",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5bd18d66075.jpg",
+      "size": 205588069
+    },
+    {
       "name": "CoCoSign",
       "bundleIdentifier": "com.cococloudteam.cocosign",
       "version": "beta 0.4.0.1",
@@ -210,126 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2250",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a57c4792b126.jpg",
       "size": 83443582
-    },
-    {
-      "name": "Tide Guide: Charts & Tables (Hacked)",
-      "bundleIdentifier": "com.condor.digital.Tide-Over",
-      "version": "7.3.12",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2249",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a57c419673f6.jpg",
-      "size": 183857498
-    },
-    {
-      "name": "Soundscape: Focus & Deep Sleep (Hacked)",
-      "bundleIdentifier": "com.soundscape.music",
-      "version": "10.1.45",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2174",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a57c403315cb.jpg",
-      "size": 81517211
-    },
-    {
-      "name": "Dumb Phone (dp) (Hacked)",
-      "bundleIdentifier": "au.com.michaeltigas.MiniOS",
-      "version": "1.12",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2248",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a57c3dd67e5a.jpg",
-      "size": 300858396
-    },
-    {
-      "name": "Focus Tomato - Let's focus now (Hacked)",
-      "bundleIdentifier": "com.claushuang.FocusTomato",
-      "version": "6.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2247",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a57c3b51862c.jpg",
-      "size": 122129253
-    },
-    {
-      "name": "Pillow: Sleep Tracker (Hacked)",
-      "bundleIdentifier": "com.neybox.Pillow",
-      "version": "6.5",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2246",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a57c38f36b9c.jpg",
-      "size": 565785238
-    },
-    {
-      "name": "Brass - Icon Themes & Widgets (Hacked)",
-      "bundleIdentifier": "com.gorilla.brass",
-      "version": "3.1.81",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2245",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a57c351b7792.jpg",
-      "size": 105281206
-    },
-    {
-      "name": "Quiche Browser (Hacked)",
-      "bundleIdentifier": "org.quiche.Browser",
-      "version": "1.71",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2178",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a57c33a9e787.jpg",
-      "size": 93226995
-    },
-    {
-      "name": "Mesmerize - Visual Meditation (Hacked)",
-      "bundleIdentifier": "com.rockwellventures.mesmerize",
-      "version": "2.43",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2243",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a57c2e0587b8.jpg",
-      "size": 242311353
-    },
-    {
-      "name": "Liftoff - Ranked Gym Workouts (Hacked)",
-      "bundleIdentifier": "com.gymbros.app",
-      "version": "2.14.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2192",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a57c2c213df0.jpg",
-      "size": 160186954
-    },
-    {
-      "name": "To Do List - Reminders & Tasks (Hacked)",
-      "bundleIdentifier": "app.monelyze.ToDo",
-      "version": "7.2.8",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2165",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a57c20592b98.jpg",
-      "size": 34208885
-    },
-    {
-      "name": "Moon Phase Calendar Plus (hacked)",
-      "bundleIdentifier": "nz.co.petesmith.moonphasefree",
-      "version": "8.8.8",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2119",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a57c1f357116.jpg",
-      "size": 32737167
-    },
-    {
-      "name": "Crouton: Recipe Manager (Hacked)",
-      "bundleIdentifier": "com.meal.plan.ios",
-      "version": "2026.1.2",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2172",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a57c1b98fb16.jpg",
-      "size": 340578234
-    },
-    {
-      "name": "NoteCircle: To-Do List (Hacked)",
-      "bundleIdentifier": "com.thegenau.NoteCircle",
-      "version": "4.12",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2242",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a57c19983018.jpg",
-      "size": 24038867
-    },
-    {
-      "name": "Lunatask: A Better To-Do List (Hacked)",
-      "bundleIdentifier": "com.mikekreeki.tasks",
-      "version": "2.36.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2241",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a57c178719fb.jpg",
-      "size": 30206300
-    },
-    {
-      "name": "INTVL (Hacked)",
-      "bundleIdentifier": "com.intvl.app",
-      "version": "4.0.2",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2168",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a57c163f1d28.jpg",
-      "size": 102020590
     }
   ]
 }
