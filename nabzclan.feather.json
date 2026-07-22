@@ -4,12 +4,36 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "TikTok - TiktokBH",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "version": "46.1.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1833",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5fa879e2e3e.jpg",
+      "size": 442694744
+    },
+    {
+      "name": "Cooking Diary Restaurant Game - Hacked",
+      "bundleIdentifier": "com.mytonallc.cookingdiary",
+      "version": "2.55.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2093",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5f8c06be607.jpg",
+      "size": 427676458
+    },
+    {
       "name": "The Binding of Isaac: Rebirth (Paid App)",
       "bundleIdentifier": "com.Nicalis.Isaac-iOS",
       "version": "1.4",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2316",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5ece94ae73d.jpg",
-      "size": 2169409333
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5ed46cb9173.jpg",
+      "size": 2161333833
+    },
+    {
+      "name": "Stack (Hacked)",
+      "bundleIdentifier": "com.ketchapp.stack",
+      "version": "4.0.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2317",
+      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a5ed12fdd289.jpg",
+      "size": 88009358
     },
     {
       "name": "Roblox - Delta",
@@ -306,30 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2171",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a5d4abfd77e6.jpg",
       "size": 22632873
-    },
-    {
-      "name": "Gronda: Recipes for Chefs (Hacked)",
-      "bundleIdentifier": "gronda.gmbh",
-      "version": "8.27.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2181",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5d4a718a82e.jpg",
-      "size": 59671772
-    },
-    {
-      "name": "Paraphrasing Tool: Rewriter (Hacked)",
-      "bundleIdentifier": "com.tr.paraphrasingtool.rewritertool.textrewriter",
-      "version": "1.7.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2184",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5d4a567bf8f.jpg",
-      "size": 18419600
-    },
-    {
-      "name": "Smart Receipts: Expenses & Tax (Hacked)",
-      "bundleIdentifier": "co.smartreceipts.ios",
-      "version": "5.19.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2187",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5d4aacd9541.jpg",
-      "size": 51761847
     }
   ]
 }
