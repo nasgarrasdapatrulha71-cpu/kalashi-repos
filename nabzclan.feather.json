@@ -4,6 +4,30 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Soundscape: Focus & Deep Sleep (Hacked)",
+      "bundleIdentifier": "com.soundscape.music",
+      "version": "10.1.51",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2174",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a62b433884a1.jpg",
+      "size": 81615412
+    },
+    {
+      "name": "Riverside Podcast Video Studio (Hacked)",
+      "bundleIdentifier": "RVS-Riverside.fm",
+      "version": "4.17.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2318",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a62b3b1144ab.jpg",
+      "size": 126209684
+    },
+    {
+      "name": "Offline Games (Hacked)",
+      "bundleIdentifier": "com.JindoBlu.OfflineGamesIOS",
+      "version": "3.13.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2286",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a62b2f126036.jpg",
+      "size": 109369295
+    },
+    {
       "name": "TikTok - TiktokBH",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "version": "46.1.0",
@@ -306,30 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2160",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a5d4aaa01cac.jpg",
       "size": 49158792
-    },
-    {
-      "name": "Invoice Simple: Invoice Maker (Hacked)",
-      "bundleIdentifier": "com.logicalengine.qsei",
-      "version": "6.8.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2162",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5d4a854379a.jpg",
-      "size": 101295246
-    },
-    {
-      "name": "To Do List - Reminders & Tasks (Hacked)",
-      "bundleIdentifier": "app.monelyze.ToDo",
-      "version": "7.3.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2165",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5da0d4e0eb1.jpg",
-      "size": 37438115
-    },
-    {
-      "name": "VocaCircle: Flashcards & Vocab (Hacked)",
-      "bundleIdentifier": "com.genau.MemoryCircle",
-      "version": "3.2.9",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2171",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5d4abfd77e6.jpg",
-      "size": 22632873
     }
   ]
 }
