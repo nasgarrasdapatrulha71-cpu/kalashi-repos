@@ -4,6 +4,102 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Stack (Hacked)",
+      "bundleIdentifier": "com.ketchapp.stack",
+      "version": "4.0.3",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2317",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a70fde531b42.jpg",
+      "size": 88318260
+    },
+    {
+      "name": "My Perfect Hotel (hacked)",
+      "bundleIdentifier": "com.master.hotelmaster",
+      "version": "1.36.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2059",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a70fddeeaaf9.jpg",
+      "size": 206475952
+    },
+    {
+      "name": "Summary - AI Note Taker (Hacked)",
+      "bundleIdentifier": "io.labhouse.audioapp",
+      "version": "2.18.3",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2228",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a70fdd8893d3.jpg",
+      "size": 112380916
+    },
+    {
+      "name": "Carbon (Hacked)",
+      "bundleIdentifier": "com.joincarbon.nutrition",
+      "version": "2.76.5966",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2285",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a70a603dbddb.jpg",
+      "size": 56973552
+    },
+    {
+      "name": "Accountit",
+      "bundleIdentifier": "DesignTech-SIA.Spendit",
+      "version": "2.6.13",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1393",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a70a5fce81d3.jpg",
+      "size": 74771018
+    },
+    {
+      "name": "Combyne - your perfect Outfit (Hacked)",
+      "bundleIdentifier": "com.pungme.combyne",
+      "version": "8.10.3",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2256",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a70a5f5b3ef2.jpg",
+      "size": 66451370
+    },
+    {
+      "name": "Solid Starts: Baby First Foods (Hacked)",
+      "bundleIdentifier": "com.digitas.solidstarts",
+      "version": "6.0.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2183",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a704e21c0839.jpg",
+      "size": 76952626
+    },
+    {
+      "name": "SolarWatch (Hacked)",
+      "bundleIdentifier": "com.fifteenjugglers.solarwatch",
+      "version": "2026.26",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2284",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a704e1ba7482.jpg",
+      "size": 66317166
+    },
+    {
+      "name": "365Scores: Live Sports Scores (Hacked)",
+      "bundleIdentifier": "com.365scores.365scroesapp",
+      "version": "6.6.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2234",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a704e12970ca.jpg",
+      "size": 92549263
+    },
+    {
+      "name": "GymStreak",
+      "bundleIdentifier": "com.gymstreak.GymStreakAI",
+      "version": "6.4.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1611",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6ff63c7fa8d.jpg",
+      "size": 115945292
+    },
+    {
+      "name": "Photoroom: AI Photo Editor (Hacked)",
+      "bundleIdentifier": "com.dr1ven.eraser",
+      "version": "2026.31.01",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2230",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6ff635d2185.jpg",
+      "size": 241405798
+    },
+    {
+      "name": "Focus Tomato - Let's focus now (Hacked)",
+      "bundleIdentifier": "com.claushuang.FocusTomato",
+      "version": "6.1.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2247",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6ff62f249f9.jpg",
+      "size": 125281600
+    },
+    {
       "name": "Hunter Assassin (Hacked)",
       "bundleIdentifier": "com.rubygames.assassin",
       "version": "2.043",
@@ -234,102 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2216",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a6e3ebdb67fe.jpg",
       "size": 205166763
-    },
-    {
-      "name": "Poppy Playtime Chapter 4 (Paid App)",
-      "bundleIdentifier": "com.MobEntertainment.PoppyPlaytimeChapter4",
-      "version": "1.01",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1888",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6e3b411e60f.jpg",
-      "size": 1983496354
-    },
-    {
-      "name": "My Dear Farm+ (Apple Arcade)",
-      "bundleIdentifier": "com.hyperbeard.mydearfarmplus",
-      "version": "1.11.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2212",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6e299854c5c.jpg",
-      "size": 192900420
-    },
-    {
-      "name": "Japanese Rural Life Adventure (Apple Arcade)",
-      "bundleIdentifier": "jp.gamestart.japaneserural",
-      "version": "1.22.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2198",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6e2981e66c3.jpg",
-      "size": 65762949
-    },
-    {
-      "name": "Rest: Fix Your Sleep For Good (Hacked)",
-      "bundleIdentifier": "com.evolve.helm",
-      "version": "3.197.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2180",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6de6e5c95af.jpg",
-      "size": 135493108
-    },
-    {
-      "name": "Sunlitt",
-      "bundleIdentifier": "eu.sun.litt",
-      "version": "4.10.6",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1425",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6de6dea7945.jpg",
-      "size": 126961546
-    },
-    {
-      "name": "Liftoff - Ranked Gym Workouts (Hacked)",
-      "bundleIdentifier": "com.gymbros.app",
-      "version": "2.15.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2192",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6de6d854bf3.jpg",
-      "size": 149140136
-    },
-    {
-      "name": "Astra - Life Advice (Hacked)",
-      "bundleIdentifier": "com.vertventures.stella",
-      "version": "3.12.43",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2159",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6d8f0fa2b02.jpg",
-      "size": 90280306
-    },
-    {
-      "name": "Napper: Baby Sleep Tracker (Hacked)",
-      "bundleIdentifier": "com.napper",
-      "version": "6.63.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2155",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6d8f0928ec1.jpg",
-      "size": 58198135
-    },
-    {
-      "name": "MusicSmart - Liner Notes (Hacked)",
-      "bundleIdentifier": "br.com.marcosatanaka.musicwhiz",
-      "version": "2.3.4",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2189",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6d8f02a515d.jpg",
-      "size": 29284214
-    },
-    {
-      "name": "Sticky Widgets (Hacked)",
-      "bundleIdentifier": "com.tylerhillsman.Stickies",
-      "version": "5.1.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2352",
-      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a6d8f001b266.jpg",
-      "size": 53676605
-    },
-    {
-      "name": "Days (Hacked)",
-      "bundleIdentifier": "net.mattdavenport.daysuntil",
-      "version": "3.36",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2351",
-      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a6d8ef94c529.jpg",
-      "size": 104505596
-    },
-    {
-      "name": "Going Balls (Hacked)",
-      "bundleIdentifier": "com.pronetis.ironballride2",
-      "version": "1.4.32",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2307",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6d371fa5eb4.jpg",
-      "size": 283099742
     }
   ]
 }
