@@ -4,6 +4,102 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Grit",
+      "bundleIdentifier": "stoope.Grit",
+      "version": "5.8.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1429",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a725d74ec389.jpg",
+      "size": 59179258
+    },
+    {
+      "name": "Breeze (Hacked)",
+      "bundleIdentifier": "com.basenji.mood",
+      "version": "3.6.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2300",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a725d6e182ca.jpg",
+      "size": 195492542
+    },
+    {
+      "name": "Summary - AI Note Taker (Hacked)",
+      "bundleIdentifier": "io.labhouse.audioapp",
+      "version": "2.18.4",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2228",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a725d680282d.jpg",
+      "size": 112568219
+    },
+    {
+      "name": "SCRL: Photo Collage Maker (Hacked)",
+      "bundleIdentifier": "com.dopedevelopment.Panels",
+      "version": "9.47",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2130",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a720591e85d7.jpg",
+      "size": 76324695
+    },
+    {
+      "name": "Photoroom: AI Photo Editor (Hacked)",
+      "bundleIdentifier": "com.dr1ven.eraser",
+      "version": "2026.32.01",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2230",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a72058bb00cd.jpg",
+      "size": 244178722
+    },
+    {
+      "name": "Adult Coloring Book - Pigment (Hack)",
+      "bundleIdentifier": "com.pixite.pigment",
+      "version": "3.14",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2091",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7205853470a.jpg",
+      "size": 162283831
+    },
+    {
+      "name": "Zinnia",
+      "bundleIdentifier": "com.pixite.Zinnia",
+      "version": "1.48",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1539",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a71adaea4afd.jpg",
+      "size": 87350523
+    },
+    {
+      "name": "Astra - Life Advice (Hacked)",
+      "bundleIdentifier": "com.vertventures.stella",
+      "version": "3.12.44",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2159",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a71ada8716a4.jpg",
+      "size": 89225041
+    },
+    {
+      "name": "Bunpo: Language Learning (Hacked)",
+      "bundleIdentifier": "com.N2BunpouApp.yuki",
+      "version": "3.19.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2217",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a71ada23b2dc.jpg",
+      "size": 80238443
+    },
+    {
+      "name": "Structured",
+      "bundleIdentifier": "com.leomehlig.today",
+      "version": "4.5.3",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1411",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7155ccaf679.jpg",
+      "size": 148415087
+    },
+    {
+      "name": "Sofascore: Live Sports Scores (Hacked)",
+      "bundleIdentifier": "com.SofaScore.iOS",
+      "version": "26.07.20",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2164",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7155c698c9c.jpg",
+      "size": 104401150
+    },
+    {
+      "name": "MusicHarbor - Track New Music (Hacked)",
+      "bundleIdentifier": "br.com.marcosatanaka.music-harbor",
+      "version": "5.3.4",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2145",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7155bf72dd6.jpg",
+      "size": 59345513
+    },
+    {
       "name": "Stack (Hacked)",
       "bundleIdentifier": "com.ketchapp.stack",
       "version": "4.0.3",
@@ -18,14 +114,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2059",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a70fddeeaaf9.jpg",
       "size": 206475952
-    },
-    {
-      "name": "Summary - AI Note Taker (Hacked)",
-      "bundleIdentifier": "io.labhouse.audioapp",
-      "version": "2.18.3",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2228",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a70fdd8893d3.jpg",
-      "size": 112380916
     },
     {
       "name": "Carbon (Hacked)",
@@ -82,14 +170,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1611",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a6ff63c7fa8d.jpg",
       "size": 115945292
-    },
-    {
-      "name": "Photoroom: AI Photo Editor (Hacked)",
-      "bundleIdentifier": "com.dr1ven.eraser",
-      "version": "2026.31.01",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2230",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6ff635d2185.jpg",
-      "size": 241405798
     },
     {
       "name": "Focus Tomato - Let's focus now (Hacked)",
@@ -250,86 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2087",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a6e96ac41581.jpg",
       "size": 231374495
-    },
-    {
-      "name": "StepsApp Pedometer (Hacked)",
-      "bundleIdentifier": "com.gunthermarktl.stepapp",
-      "version": "8.12.3",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2151",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6e96a5e0276.jpg",
-      "size": 243218794
-    },
-    {
-      "name": "Bend: Stretching & Flexibility (Hacked)",
-      "bundleIdentifier": "com.bowery-digital.bend",
-      "version": "7.6.5",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2233",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6e969e6dec5.jpg",
-      "size": 199698109
-    },
-    {
-      "name": "D\u00e9sir\u00e9 (Paid App)",
-      "bundleIdentifier": "com.seccia.desire",
-      "version": "1.0.32",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2356",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6e41cb0658a.jpg",
-      "size": 270200640
-    },
-    {
-      "name": "WHAT THE GOLF? (Apple Arcade)",
-      "bundleIdentifier": "com.thelabelgames.golf",
-      "version": "20.5.30",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2355",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6e4128c2420.jpg",
-      "size": 200907920
-    },
-    {
-      "name": "Golf Peaks (Paid App)",
-      "bundleIdentifier": "com.Afterburn.GolfPeaks",
-      "version": "3.63",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2354",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6e40ef23bc0.jpg",
-      "size": 59417189
-    },
-    {
-      "name": "Terraforming Mars",
-      "bundleIdentifier": "com.asmodee-digital.terraformingmars",
-      "version": "2.11.7.130601",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1831",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6e4091ab655.jpg",
-      "size": 122679304
-    },
-    {
-      "name": "FAR: Lone Sails (Paid App)",
-      "bundleIdentifier": "de.mixtvision.farlonesails2020",
-      "version": "1.32",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2353",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6e3f3a66d89.jpg",
-      "size": 497280266
-    },
-    {
-      "name": "Kitchen Stories Easy Recipes (Hacked)",
-      "bundleIdentifier": "com.AJNSNewMedia.KitchenStories",
-      "version": "27.2.11",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2182",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6e3ec9a39b0.jpg",
-      "size": 78827469
-    },
-    {
-      "name": "Live Transcribe (Hacked)",
-      "bundleIdentifier": "com.robnorback.LiveTranscribe",
-      "version": "2.69",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2123",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6e3ec39e42a.jpg",
-      "size": 57852702
-    },
-    {
-      "name": "Persona: AI Beauty Editor (Hacked)",
-      "bundleIdentifier": "com.tickettothemoon.video.persona",
-      "version": "1.16.2",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2216",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6e3ebdb67fe.jpg",
-      "size": 205166763
     }
   ]
 }
