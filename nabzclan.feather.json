@@ -4,6 +4,110 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Summary - AI Note Taker (Hacked)",
+      "bundleIdentifier": "io.labhouse.audioapp",
+      "version": "2.18.5",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2228",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a751c972a6cf.jpg",
+      "size": 111342287
+    },
+    {
+      "name": "PlantSnap",
+      "bundleIdentifier": "net.plantsnap.freemium",
+      "version": "8.0.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/831",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a751c9112661.jpg",
+      "size": 86695719
+    },
+    {
+      "name": "HiiKER: The Hiking Maps App (Hacked)",
+      "bundleIdentifier": "com.hiiker.hiiker",
+      "version": "26.75",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2191",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a751c8ab2dc1.jpg",
+      "size": 122286812
+    },
+    {
+      "name": "CHANI",
+      "bundleIdentifier": "com.chaninicholas.chaniapp",
+      "version": "2.8.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/935",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a74c4b92e253.jpg",
+      "size": 46083718
+    },
+    {
+      "name": "Detail: AI Video Editor (Hacked)",
+      "bundleIdentifier": "co.detail.duo",
+      "version": "5.7.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2226",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a74c4b2c3a96.jpg",
+      "size": 239926175
+    },
+    {
+      "name": "Moon Phase Calendar Plus (hacked)",
+      "bundleIdentifier": "nz.co.petesmith.moonphasefree",
+      "version": "8.9.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2119",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a74c4abf278b.jpg",
+      "size": 45023307
+    },
+    {
+      "name": "Pinterest - Hacked",
+      "bundleIdentifier": "pinterest",
+      "version": "14.30",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2090",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a746cd37cda4.jpg",
+      "size": 150390404
+    },
+    {
+      "name": "Days (Hacked)",
+      "bundleIdentifier": "net.mattdavenport.daysuntil",
+      "version": "3.37",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2351",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a746ccd5c21d.jpg",
+      "size": 106765818
+    },
+    {
+      "name": "Podcast App (Hacked)",
+      "bundleIdentifier": "com.evolve.podcast",
+      "version": "7.14.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2133",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a746cc6db87f.jpg",
+      "size": 59205117
+    },
+    {
+      "name": "Balance: Meditation & Sleep (Hacked)",
+      "bundleIdentifier": "com.elevateapp.kamino.kamino",
+      "version": "1.207.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2225",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7414f1c6481.jpg",
+      "size": 123482483
+    },
+    {
+      "name": "DayGram - One Line a Day Diary (Hacked)",
+      "bundleIdentifier": "com.saltycrackers.daygram",
+      "version": "5.8.9",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2179",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7414eb8c14c.jpg",
+      "size": 36061249
+    },
+    {
+      "name": "Elevate - Brain Training Games (Hacked)",
+      "bundleIdentifier": "com.elevateapp.elevate",
+      "version": "5.251.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2163",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7414e582544.jpg",
+      "size": 415189338
+    },
+    {
+      "name": "1 2 3 4 Player Games (Hacked)",
+      "bundleIdentifier": "com.JindoBlu.FourPlayersIOS",
+      "version": "3.2.9",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2367",
+      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a7414e18a3c6.jpg",
+      "size": 92247444
+    },
+    {
       "name": "Stack (Hacked)",
       "bundleIdentifier": "com.ketchapp.stack",
       "version": "4.0.4",
@@ -76,14 +180,6 @@
       "size": 62161783
     },
     {
-      "name": "DayGram - One Line a Day Diary (Hacked)",
-      "bundleIdentifier": "com.saltycrackers.daygram",
-      "version": "5.8.8",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2179",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a72b55b71ed6.jpg",
-      "size": 37892443
-    },
-    {
       "name": "Tetris (Hacked)",
       "bundleIdentifier": "com.n3twork.tetris",
       "version": "7.7.9",
@@ -114,14 +210,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2300",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a725d6e182ca.jpg",
       "size": 195492542
-    },
-    {
-      "name": "Summary - AI Note Taker (Hacked)",
-      "bundleIdentifier": "io.labhouse.audioapp",
-      "version": "2.18.4",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2228",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a725d680282d.jpg",
-      "size": 112568219
     },
     {
       "name": "SCRL: Photo Collage Maker (Hacked)",
@@ -242,94 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1611",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a6ff63c7fa8d.jpg",
       "size": 115945292
-    },
-    {
-      "name": "Focus Tomato - Let's focus now (Hacked)",
-      "bundleIdentifier": "com.claushuang.FocusTomato",
-      "version": "6.1.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2247",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6ff62f249f9.jpg",
-      "size": 125281600
-    },
-    {
-      "name": "Hunter Assassin (Hacked)",
-      "bundleIdentifier": "com.rubygames.assassin",
-      "version": "2.043",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2282",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6f9e59c6417.jpg",
-      "size": 137009139
-    },
-    {
-      "name": "Podcast App (Hacked)",
-      "bundleIdentifier": "com.evolve.podcast",
-      "version": "7.13.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2133",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6f9e53c23f5.jpg",
-      "size": 58999988
-    },
-    {
-      "name": "Reframe: Drink Less & Thrive (Hacked)",
-      "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
-      "version": "3.9.81",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2271",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6f9e4d107d7.jpg",
-      "size": 261280626
-    },
-    {
-      "name": "The Lost City (Paid App)",
-      "bundleIdentifier": "com.firemaplegames.thelostcity",
-      "version": "1.16",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2366",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6f82231ac51.jpg",
-      "size": 107526188
-    },
-    {
-      "name": "Hyperforma Premium (Paid App)",
-      "bundleIdentifier": "com.NordUnit.HYPERFORMA",
-      "version": "1.43",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2365",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6f81a85f1d7.jpg",
-      "size": 227645280
-    },
-    {
-      "name": "Life Gallery (Paid App)",
-      "bundleIdentifier": "com.Games751.LifeGallery",
-      "version": "1.2.4",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2364",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6f814f4cde7.jpg",
-      "size": 218245842
-    },
-    {
-      "name": "Evoland (Paid App)",
-      "bundleIdentifier": "com.shirogames.evoland",
-      "version": "1.6.3",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2363",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6f804646a44.jpg",
-      "size": 47837977
-    },
-    {
-      "name": "Devil's Attorney (Paid App)",
-      "bundleIdentifier": "com.senri.da",
-      "version": "1.0.5",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2362",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6f7fa1eb3bc.jpg",
-      "size": 299437819
-    },
-    {
-      "name": "Apollo Justice Ace Attorney (Paid App)",
-      "bundleIdentifier": "jp.co.capcom.gyakusai4en",
-      "version": "1.00.06",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2360",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6f7dd0cb35a.jpg",
-      "size": 273120235
-    },
-    {
-      "name": "Ace Attorney Trilogy (Paid App)",
-      "bundleIdentifier": "jp.co.capcom.gyakusai123",
-      "version": "1.00.01",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2359",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6f7d9622ecd.jpg",
-      "size": 954637849
     }
   ]
 }
