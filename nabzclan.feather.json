@@ -4,6 +4,86 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Lyfta: Gym Workout Tracker Log (Hacked)",
+      "bundleIdentifier": "com.lyftaios",
+      "version": "1.153",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2259",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7783d0dfc4c.jpg",
+      "size": 60111481
+    },
+    {
+      "name": "Open: Breathwork + Meditation (Hacked)",
+      "bundleIdentifier": "com.o-p-e-n.open",
+      "version": "26.32.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2153",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7783cb19811.jpg",
+      "size": 225871718
+    },
+    {
+      "name": "StepsApp Pedometer (Hacked)",
+      "bundleIdentifier": "com.gunthermarktl.stepapp",
+      "version": "8.12.4",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2151",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7783c49ef7e.jpg",
+      "size": 243317025
+    },
+    {
+      "name": "Summary - AI Note Taker (Hacked)",
+      "bundleIdentifier": "io.labhouse.audioapp",
+      "version": "2.18.6",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2228",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a772bef83f56.jpg",
+      "size": 110478679
+    },
+    {
+      "name": "Lungy (Hacked)",
+      "bundleIdentifier": "com.pia.lungy",
+      "version": "3.1.5",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2320",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a772be99d2ee.jpg",
+      "size": 246602747
+    },
+    {
+      "name": "Stack (Hacked)",
+      "bundleIdentifier": "com.ketchapp.stack",
+      "version": "4.0.5",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2317",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a772be2b01bf.jpg",
+      "size": 90755309
+    },
+    {
+      "name": "Sticky Widgets (Hacked)",
+      "bundleIdentifier": "com.tylerhillsman.Stickies",
+      "version": "5.1.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2352",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a76d416e3c4c.jpg",
+      "size": 57227199
+    },
+    {
+      "name": "Offline Games (Hacked)",
+      "bundleIdentifier": "com.JindoBlu.OfflineGamesIOS",
+      "version": "3.14.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2286",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a76d40fb0537.jpg",
+      "size": 115857281
+    },
+    {
+      "name": "Cheatsheet",
+      "bundleIdentifier": "com.overdesigned.Cheatsheet",
+      "version": "6.0.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1601",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a76d408bab9e.jpg",
+      "size": 72873322
+    },
+    {
+      "name": "The Architect (Hacked)",
+      "bundleIdentifier": "com.adamsmaka.aivoicejournal",
+      "version": "1.0.15",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2368",
+      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a76d40393b7c.jpg",
+      "size": 55000719
+    },
+    {
       "name": "SnoreLab : Record Your Snoring (hacked)",
       "bundleIdentifier": "com.revivasoftworks.Snore-Lab",
       "version": "6.4.6",
@@ -34,14 +114,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2216",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a7624444833a.jpg",
       "size": 215511559
-    },
-    {
-      "name": "Lungy (Hacked)",
-      "bundleIdentifier": "com.pia.lungy",
-      "version": "3.1.4",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2320",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a76243e252ad.jpg",
-      "size": 245919569
     },
     {
       "name": "Astra - Life Advice (Hacked)",
@@ -98,14 +170,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1493",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a7574741e7cd.jpg",
       "size": 195442294
-    },
-    {
-      "name": "Summary - AI Note Taker (Hacked)",
-      "bundleIdentifier": "io.labhouse.audioapp",
-      "version": "2.18.5",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2228",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a751c972a6cf.jpg",
-      "size": 111342287
     },
     {
       "name": "PlantSnap",
@@ -204,14 +268,6 @@
       "size": 92247444
     },
     {
-      "name": "Stack (Hacked)",
-      "bundleIdentifier": "com.ketchapp.stack",
-      "version": "4.0.4",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2317",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a73bd039bc91.jpg",
-      "size": 89372601
-    },
-    {
       "name": "SolarWatch (Hacked)",
       "bundleIdentifier": "com.fifteenjugglers.solarwatch",
       "version": "2026.26.1",
@@ -274,62 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2181",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a730d30b707e.jpg",
       "size": 62161783
-    },
-    {
-      "name": "Tetris (Hacked)",
-      "bundleIdentifier": "com.n3twork.tetris",
-      "version": "7.7.9",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2303",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a72b555943d8.jpg",
-      "size": 152075403
-    },
-    {
-      "name": "Open: Breathwork + Meditation (Hacked)",
-      "bundleIdentifier": "com.o-p-e-n.open",
-      "version": "26.32",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2153",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a72b54f37afe.jpg",
-      "size": 226761048
-    },
-    {
-      "name": "Grit",
-      "bundleIdentifier": "stoope.Grit",
-      "version": "5.8.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1429",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a725d74ec389.jpg",
-      "size": 59179258
-    },
-    {
-      "name": "Breeze (Hacked)",
-      "bundleIdentifier": "com.basenji.mood",
-      "version": "3.6.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2300",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a725d6e182ca.jpg",
-      "size": 195492542
-    },
-    {
-      "name": "SCRL: Photo Collage Maker (Hacked)",
-      "bundleIdentifier": "com.dopedevelopment.Panels",
-      "version": "9.47",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2130",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a720591e85d7.jpg",
-      "size": 76324695
-    },
-    {
-      "name": "Photoroom: AI Photo Editor (Hacked)",
-      "bundleIdentifier": "com.dr1ven.eraser",
-      "version": "2026.32.01",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2230",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a72058bb00cd.jpg",
-      "size": 244178722
-    },
-    {
-      "name": "Adult Coloring Book - Pigment (Hack)",
-      "bundleIdentifier": "com.pixite.pigment",
-      "version": "3.14",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2091",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7205853470a.jpg",
-      "size": 162283831
     }
   ]
 }
