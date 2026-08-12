@@ -4,6 +4,102 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Liftoff - Ranked Gym Workouts (Hacked)",
+      "bundleIdentifier": "com.gymbros.app",
+      "version": "2.15.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2192",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7ba286e86e0.jpg",
+      "size": 150465614
+    },
+    {
+      "name": "HabitKit",
+      "bundleIdentifier": "com.roehl.habitkit",
+      "version": "1.16.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/991",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7ba27f8f108.jpg",
+      "size": 95585248
+    },
+    {
+      "name": "Breeze (Hacked)",
+      "bundleIdentifier": "com.basenji.mood",
+      "version": "3.6.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2300",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7ba27879c30.jpg",
+      "size": 196994807
+    },
+    {
+      "name": "Photoroom: AI Photo Editor (Hacked)",
+      "bundleIdentifier": "com.dr1ven.eraser",
+      "version": "2026.33.01",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2230",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7b4a9fb8cf1.jpg",
+      "size": 243951191
+    },
+    {
+      "name": "Summary - AI Note Taker (Hacked)",
+      "bundleIdentifier": "io.labhouse.audioapp",
+      "version": "2.18.7",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2228",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7b4a9978113.jpg",
+      "size": 113282094
+    },
+    {
+      "name": "I Am Sober (Hacked)",
+      "bundleIdentifier": "com.thehungrywasp.iamsober",
+      "version": "8.7.5",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2129",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7b4a93776e2.jpg",
+      "size": 46533591
+    },
+    {
+      "name": "Best Brew Guide: Filtru Coffee (Hacked)",
+      "bundleIdentifier": "com.przemyslawbobak.filtru",
+      "version": "4.7.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2240",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7af2ba70e97.jpg",
+      "size": 114286558
+    },
+    {
+      "name": "Coconote",
+      "bundleIdentifier": "com.bbauman.Scripty",
+      "version": "2.48",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/569",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7af2b36f14c.jpg",
+      "size": 56896043
+    },
+    {
+      "name": "Carbon (Hacked)",
+      "bundleIdentifier": "com.joincarbon.nutrition",
+      "version": "2.77.6010",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2285",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7af2ac44852.jpg",
+      "size": 60914890
+    },
+    {
+      "name": "Parking Jam 3D (Hacked)",
+      "bundleIdentifier": "com.uqxuwtxbbu.parkingjam",
+      "version": "232.0.11",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2087",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7a9ad3efac3.jpg",
+      "size": 230931861
+    },
+    {
+      "name": "Elevate - Brain Training Games (Hacked)",
+      "bundleIdentifier": "com.elevateapp.elevate",
+      "version": "5.252.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2163",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7a9ace1c002.jpg",
+      "size": 416977855
+    },
+    {
+      "name": "To Do List - Reminders & Tasks (Hacked)",
+      "bundleIdentifier": "app.monelyze.ToDo",
+      "version": "7.3.3",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2165",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7a9ac7bbe24.jpg",
+      "size": 35344171
+    },
+    {
       "name": "POV",
       "bundleIdentifier": "com.SixThree.POV",
       "version": "5.72",
@@ -212,14 +308,6 @@
       "size": 243317025
     },
     {
-      "name": "Summary - AI Note Taker (Hacked)",
-      "bundleIdentifier": "io.labhouse.audioapp",
-      "version": "2.18.6",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2228",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a772bef83f56.jpg",
-      "size": 110478679
-    },
-    {
       "name": "Lungy (Hacked)",
       "bundleIdentifier": "com.pia.lungy",
       "version": "3.1.5",
@@ -242,94 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2352",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a76d416e3c4c.jpg",
       "size": 57227199
-    },
-    {
-      "name": "Offline Games (Hacked)",
-      "bundleIdentifier": "com.JindoBlu.OfflineGamesIOS",
-      "version": "3.14.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2286",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a76d40fb0537.jpg",
-      "size": 115857281
-    },
-    {
-      "name": "Cheatsheet",
-      "bundleIdentifier": "com.overdesigned.Cheatsheet",
-      "version": "6.0.2",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1601",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a76d408bab9e.jpg",
-      "size": 72873322
-    },
-    {
-      "name": "The Architect (Hacked)",
-      "bundleIdentifier": "com.adamsmaka.aivoicejournal",
-      "version": "1.0.15",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2368",
-      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a76d40393b7c.jpg",
-      "size": 55000719
-    },
-    {
-      "name": "SnoreLab : Record Your Snoring (hacked)",
-      "bundleIdentifier": "com.revivasoftworks.Snore-Lab",
-      "version": "6.4.6",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2112",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a767c43cd1b5.jpg",
-      "size": 169405454
-    },
-    {
-      "name": "World Clock Time Zone Widget (Hacked)",
-      "bundleIdentifier": "com.lasmit.World-Time",
-      "version": "2026.9",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2227",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a767c3dae116.jpg",
-      "size": 46596850
-    },
-    {
-      "name": "Ahead: Emotional Companion (Hacked)",
-      "bundleIdentifier": "com.aheadsolutions.aHead",
-      "version": "1.60.27",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2146",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a767c1a43bfa.jpg",
-      "size": 420976733
-    },
-    {
-      "name": "Astra - Life Advice (Hacked)",
-      "bundleIdentifier": "com.vertventures.stella",
-      "version": "3.12.45",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2159",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a762437befae.jpg",
-      "size": 90038739
-    },
-    {
-      "name": "Idle Miner",
-      "bundleIdentifier": "com.fluffyfairygames.idleminertycoon",
-      "version": "5.60.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2115",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a75cc62af55b.jpg",
-      "size": 147123366
-    },
-    {
-      "name": "Live Transcribe (Hacked)",
-      "bundleIdentifier": "com.robnorback.LiveTranscribe",
-      "version": "2.72",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2123",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a75cc5bcf892.jpg",
-      "size": 59353150
-    },
-    {
-      "name": "Napper: Baby Sleep Tracker (Hacked)",
-      "bundleIdentifier": "com.napper",
-      "version": "6.64.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2155",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a75cc55a1f07.jpg",
-      "size": 57903506
-    },
-    {
-      "name": "Parking Jam 3D (Hacked)",
-      "bundleIdentifier": "com.uqxuwtxbbu.parkingjam",
-      "version": "232.0.10",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2087",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a757481da479.jpg",
-      "size": 229453826
     }
   ]
 }
