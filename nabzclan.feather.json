@@ -4,6 +4,86 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "aa (Hacked)",
+      "bundleIdentifier": "com.aagame.aagame",
+      "version": "7.1.5",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2289",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7f695b125a4.jpg",
+      "size": 47576756
+    },
+    {
+      "name": "CHANI",
+      "bundleIdentifier": "com.chaninicholas.chaniapp",
+      "version": "2.9.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/935",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7f6951adb5b.jpg",
+      "size": 47399401
+    },
+    {
+      "name": "Zen Color (Hacked)",
+      "bundleIdentifier": "happy.paint.color.coloring.number",
+      "version": "2.2.6",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2323",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7f694a691d2.jpg",
+      "size": 145168294
+    },
+    {
+      "name": "Coconote",
+      "bundleIdentifier": "com.bbauman.Scripty",
+      "version": "2.49",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/569",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7f116f366ab.jpg",
+      "size": 55771948
+    },
+    {
+      "name": "Shinobi: Read & Learn Japanese (Hacked)",
+      "bundleIdentifier": "com.shinobiapp.shinobi",
+      "version": "1.4.4",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2238",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7f11680038c.jpg",
+      "size": 58028158
+    },
+    {
+      "name": "The Way - Guided Meditation (Hacked)",
+      "bundleIdentifier": "com.thewayapp.mobile",
+      "version": "1.21.6",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2122",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7f116163401.jpg",
+      "size": 109424964
+    },
+    {
+      "name": "Astra - Life Advice (Hacked)",
+      "bundleIdentifier": "com.vertventures.stella",
+      "version": "3.12.46",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2159",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7eb993718cc.jpg",
+      "size": 90341440
+    },
+    {
+      "name": "Paraphrasing Tool: Rewriter (Hacked)",
+      "bundleIdentifier": "com.tr.paraphrasingtool.rewritertool.textrewriter",
+      "version": "1.7.4",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2184",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7eb98c68268.jpg",
+      "size": 17916852
+    },
+    {
+      "name": "MyVocab",
+      "bundleIdentifier": "vladchechura.VocabularyEN",
+      "version": "1.4.4",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1547",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7eb9857aab4.jpg",
+      "size": 95326406
+    },
+    {
+      "name": "Stretch (Hacked)",
+      "bundleIdentifier": "breakthroughapps.com.stretch",
+      "version": "6.9.8",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2371",
+      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a7eb97f64732.jpg",
+      "size": 76792848
+    },
+    {
       "name": "Captions",
       "bundleIdentifier": "boomer.Smart-Video",
       "version": "13.30.0",
@@ -122,14 +202,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2127",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a7db1d6148df.jpg",
       "size": 165402302
-    },
-    {
-      "name": "The Way - Guided Meditation (Hacked)",
-      "bundleIdentifier": "com.thewayapp.mobile",
-      "version": "1.21.5",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2122",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7db1cfc1ea0.jpg",
-      "size": 110262451
     },
     {
       "name": "Reframe: Drink Less & Thrive (Hacked)",
@@ -258,78 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/991",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a7ba27f8f108.jpg",
       "size": 95585248
-    },
-    {
-      "name": "Breeze (Hacked)",
-      "bundleIdentifier": "com.basenji.mood",
-      "version": "3.6.2",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2300",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7ba27879c30.jpg",
-      "size": 196994807
-    },
-    {
-      "name": "Photoroom: AI Photo Editor (Hacked)",
-      "bundleIdentifier": "com.dr1ven.eraser",
-      "version": "2026.33.01",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2230",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7b4a9fb8cf1.jpg",
-      "size": 243951191
-    },
-    {
-      "name": "Summary - AI Note Taker (Hacked)",
-      "bundleIdentifier": "io.labhouse.audioapp",
-      "version": "2.18.7",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2228",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7b4a9978113.jpg",
-      "size": 113282094
-    },
-    {
-      "name": "I Am Sober (Hacked)",
-      "bundleIdentifier": "com.thehungrywasp.iamsober",
-      "version": "8.7.5",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2129",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7b4a93776e2.jpg",
-      "size": 46533591
-    },
-    {
-      "name": "Best Brew Guide: Filtru Coffee (Hacked)",
-      "bundleIdentifier": "com.przemyslawbobak.filtru",
-      "version": "4.7.2",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2240",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7af2ba70e97.jpg",
-      "size": 114286558
-    },
-    {
-      "name": "Coconote",
-      "bundleIdentifier": "com.bbauman.Scripty",
-      "version": "2.48",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/569",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7af2b36f14c.jpg",
-      "size": 56896043
-    },
-    {
-      "name": "Carbon (Hacked)",
-      "bundleIdentifier": "com.joincarbon.nutrition",
-      "version": "2.77.6010",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2285",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7af2ac44852.jpg",
-      "size": 60914890
-    },
-    {
-      "name": "Parking Jam 3D (Hacked)",
-      "bundleIdentifier": "com.uqxuwtxbbu.parkingjam",
-      "version": "232.0.11",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2087",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7a9ad3efac3.jpg",
-      "size": 230931861
-    },
-    {
-      "name": "Elevate - Brain Training Games (Hacked)",
-      "bundleIdentifier": "com.elevateapp.elevate",
-      "version": "5.252.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2163",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7a9ace1c002.jpg",
-      "size": 416977855
     }
   ]
 }
