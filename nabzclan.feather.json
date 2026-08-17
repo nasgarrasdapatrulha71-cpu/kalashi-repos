@@ -4,6 +4,38 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Zinnia",
+      "bundleIdentifier": "com.pixite.Zinnia",
+      "version": "1.48.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1539",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a823d82299b7.jpg",
+      "size": 86849759
+    },
+    {
+      "name": "12min (Hacked)",
+      "bundleIdentifier": "com.br.12min.mobile",
+      "version": "2.12.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2288",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a81e59dbfc57.jpg",
+      "size": 56138045
+    },
+    {
+      "name": "Voloco: Vocal Recording Studio (Hacked)",
+      "bundleIdentifier": "com.resonantcavity.Voloco",
+      "version": "9.18.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2134",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a818db67b263.jpg",
+      "size": 114592101
+    },
+    {
+      "name": "BoxBox",
+      "bundleIdentifier": "club.boxbox.widgets-ios",
+      "version": "5.4.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1231",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8135d2bf978.jpg",
+      "size": 100682861
+    },
+    {
       "name": "Liftoff - Ranked Gym Workouts (Hacked)",
       "bundleIdentifier": "com.gymbros.app",
       "version": "2.15.2",
@@ -298,38 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2162",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a7e09bacde1c.jpg",
       "size": 100347074
-    },
-    {
-      "name": "Lungy (Hacked)",
-      "bundleIdentifier": "com.pia.lungy",
-      "version": "3.1.6",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2320",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7e09b4dba0b.jpg",
-      "size": 246288102
-    },
-    {
-      "name": "Podcast App (Hacked)",
-      "bundleIdentifier": "com.evolve.podcast",
-      "version": "7.15.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2133",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7db1dc26355.jpg",
-      "size": 56161407
-    },
-    {
-      "name": "Reframe: Drink Less & Thrive (Hacked)",
-      "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
-      "version": "3.9.84",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2271",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7d5a0064462.jpg",
-      "size": 268300029
-    },
-    {
-      "name": "MusicHarbor - Track New Music (Hacked)",
-      "bundleIdentifier": "br.com.marcosatanaka.music-harbor",
-      "version": "5.3.6",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2145",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7d59f9e5c91.jpg",
-      "size": 38504440
     }
   ]
 }
