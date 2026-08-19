@@ -4,6 +4,70 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "SolarWatch (Hacked)",
+      "bundleIdentifier": "com.fifteenjugglers.solarwatch",
+      "version": "2026.26.3",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2284",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a84a4be9894f.jpg",
+      "size": 67669392
+    },
+    {
+      "name": "INTVL (Hacked)",
+      "bundleIdentifier": "com.intvl.app",
+      "version": "4.0.5",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2168",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a844cd9af07f.jpg",
+      "size": 101276507
+    },
+    {
+      "name": "Eden: Daily Routine Planner (hacked)",
+      "bundleIdentifier": "com.mfagency.nurture",
+      "version": "5.3.3",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2118",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a83f4f96cb52.jpg",
+      "size": 171915774
+    },
+    {
+      "name": "Push Training (Hacked)",
+      "bundleIdentifier": "com.albernackee.blur",
+      "version": "1.1.2608162",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2373",
+      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a83f4f54aad1.jpg",
+      "size": 226359681
+    },
+    {
+      "name": "Stippl",
+      "bundleIdentifier": "com.stippl.stippl",
+      "version": "3.1.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1257",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a839d0ec1b87.jpg",
+      "size": 80952787
+    },
+    {
+      "name": "Astra - Life Advice (Hacked)",
+      "bundleIdentifier": "com.vertventures.stella",
+      "version": "3.12.47",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2159",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a83453141747.jpg",
+      "size": 97968218
+    },
+    {
+      "name": "Brain Test: Tricky Puzzles (Hacked)",
+      "bundleIdentifier": "com.unicostudio.braintest",
+      "version": "2.770.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2144",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a82ed4532ccf.jpg",
+      "size": 161481246
+    },
+    {
+      "name": "YogaPlus",
+      "bundleIdentifier": "com.breakthroughapps.Mary-Ochsner-Yoga",
+      "version": "6.9.8",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1419",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8295672e299.jpg",
+      "size": 78810896
+    },
+    {
       "name": "Zinnia",
       "bundleIdentifier": "com.pixite.Zinnia",
       "version": "1.48.1",
@@ -204,14 +268,6 @@
       "size": 109424964
     },
     {
-      "name": "Astra - Life Advice (Hacked)",
-      "bundleIdentifier": "com.vertventures.stella",
-      "version": "3.12.46",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2159",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7eb993718cc.jpg",
-      "size": 90341440
-    },
-    {
       "name": "Paraphrasing Tool: Rewriter (Hacked)",
       "bundleIdentifier": "com.tr.paraphrasingtool.rewritertool.textrewriter",
       "version": "1.7.4",
@@ -274,62 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1857",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a7e313e5fdb2.jpg",
       "size": 326941243
-    },
-    {
-      "name": "Threads (Hack)",
-      "bundleIdentifier": "com.burbn.barcelona",
-      "version": "442.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1851",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7e24944cdf8.jpg",
-      "size": 115529696
-    },
-    {
-      "name": "X - Twitter - Plus",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "version": "12.16",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2161",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7e244aac15c.jpg",
-      "size": 237371615
-    },
-    {
-      "name": "Youtube - YouTube Plus",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "version": "21.32.4",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1824",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7e205731705.jpg",
-      "size": 167566955
-    },
-    {
-      "name": "TikTok - GTok",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "version": "46.3.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2214",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7e2024eabdc.jpg",
-      "size": 456091995
-    },
-    {
-      "name": "MySwimPro: #1 Swim Workout App (Hacked)",
-      "bundleIdentifier": "com.myswimpro.apps.MySwimPro",
-      "version": "9.2.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2131",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7e1ed342973.jpg",
-      "size": 56394205
-    },
-    {
-      "name": "Cheatsheet",
-      "bundleIdentifier": "com.overdesigned.Cheatsheet",
-      "version": "6.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1601",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7e09c10653b.jpg",
-      "size": 61120612
-    },
-    {
-      "name": "Invoice Simple: Invoice Maker (Hacked)",
-      "bundleIdentifier": "com.logicalengine.qsei",
-      "version": "6.10.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2162",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7e09bacde1c.jpg",
-      "size": 100347074
     }
   ]
 }
