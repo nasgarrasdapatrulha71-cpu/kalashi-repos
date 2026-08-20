@@ -4,6 +4,54 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Elevate - Brain Training Games (Hacked)",
+      "bundleIdentifier": "com.elevateapp.elevate",
+      "version": "5.253.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2163",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a86044f257a7.jpg",
+      "size": 417035321
+    },
+    {
+      "name": "Cheatsheet",
+      "bundleIdentifier": "com.overdesigned.Cheatsheet",
+      "version": "6.1.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1601",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a85ac7337253.jpg",
+      "size": 61481687
+    },
+    {
+      "name": "VisualMind (Hacked)",
+      "bundleIdentifier": "com.asanarebel.visualgpt",
+      "version": "1.6.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2375",
+      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a85ac6f59ea4.jpg",
+      "size": 23311902
+    },
+    {
+      "name": "Lyfta: Gym Workout Tracker Log (Hacked)",
+      "bundleIdentifier": "com.lyftaios",
+      "version": "1.155",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2259",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a85548fe64b0.jpg",
+      "size": 63180526
+    },
+    {
+      "name": "Cash, Inc. (Hacked)",
+      "bundleIdentifier": "com.alegrium.cong2",
+      "version": "2.5.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2374",
+      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a85548b70f2e.jpg",
+      "size": 178642950
+    },
+    {
+      "name": "I Am Sober (Hacked)",
+      "bundleIdentifier": "com.thehungrywasp.iamsober",
+      "version": "8.7.6",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2129",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a84fca2f053f.jpg",
+      "size": 47918442
+    },
+    {
       "name": "SolarWatch (Hacked)",
       "bundleIdentifier": "com.fifteenjugglers.solarwatch",
       "version": "2026.26.3",
@@ -282,54 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1547",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a7eb9857aab4.jpg",
       "size": 95326406
-    },
-    {
-      "name": "Stretch (Hacked)",
-      "bundleIdentifier": "breakthroughapps.com.stretch",
-      "version": "6.9.8",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2371",
-      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a7eb97f64732.jpg",
-      "size": 76792848
-    },
-    {
-      "name": "Captions",
-      "bundleIdentifier": "boomer.Smart-Video",
-      "version": "13.30.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/415",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7e61b0e3f30.jpg",
-      "size": 127509628
-    },
-    {
-      "name": "Solid Starts: Baby First Foods (Hacked)",
-      "bundleIdentifier": "com.digitas.solidstarts",
-      "version": "6.2.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2183",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7e61aa62d00.jpg",
-      "size": 75378113
-    },
-    {
-      "name": "Pinterest - Hacked",
-      "bundleIdentifier": "pinterest",
-      "version": "14.31",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2090",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7e61a3a63e2.jpg",
-      "size": 149820986
-    },
-    {
-      "name": "Cooking Diary Restaurant Game - Hacked",
-      "bundleIdentifier": "com.mytonallc.cookingdiary",
-      "version": "2.56.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2093",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7e3182b814f.jpg",
-      "size": 428887704
-    },
-    {
-      "name": "Instagram - instagramBH",
-      "bundleIdentifier": "com.burbn.instagram",
-      "version": "442.0.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1857",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7e313e5fdb2.jpg",
-      "size": 326941243
     }
   ]
 }
