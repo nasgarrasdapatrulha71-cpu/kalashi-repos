@@ -4,6 +4,46 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Imprint: Visual Micro Learning (Hacked)",
+      "bundleIdentifier": "com.polywise.weekly",
+      "version": "5.3.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2218",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a88c3715b059.jpg",
+      "size": 158994187
+    },
+    {
+      "name": "Slime Rancher (Paid App)",
+      "bundleIdentifier": "com.playdigious.slimerancher",
+      "version": "1.0.5",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2376",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a88a6b3ecfaf.jpg",
+      "size": 0
+    },
+    {
+      "name": "Riverside Podcast Video Studio (Hacked)",
+      "bundleIdentifier": "RVS-Riverside.fm",
+      "version": "4.19.3",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2318",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a886b87df57e.jpg",
+      "size": 119156515
+    },
+    {
+      "name": "Pinterest - Hacked",
+      "bundleIdentifier": "pinterest",
+      "version": "14.32",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2090",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8813a8130b0.jpg",
+      "size": 152687304
+    },
+    {
+      "name": "Liftoff - Ranked Gym Workouts (Hacked)",
+      "bundleIdentifier": "com.gymbros.app",
+      "version": "2.15.3",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2192",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a87bbc3a2166.jpg",
+      "size": 150924342
+    },
+    {
       "name": "Astra - Life Advice (Hacked)",
       "bundleIdentifier": "com.vertventures.stella",
       "version": "3.12.48",
@@ -164,14 +204,6 @@
       "size": 100682861
     },
     {
-      "name": "Liftoff - Ranked Gym Workouts (Hacked)",
-      "bundleIdentifier": "com.gymbros.app",
-      "version": "2.15.2",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2192",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a80ddec0aae0.jpg",
-      "size": 152400153
-    },
-    {
       "name": "TikTok - plus (douyin)",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "version": "46.4.0",
@@ -268,14 +300,6 @@
       "size": 59588342
     },
     {
-      "name": "Riverside Podcast Video Studio (Hacked)",
-      "bundleIdentifier": "RVS-Riverside.fm",
-      "version": "4.19.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2318",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7fc132e61b4.jpg",
-      "size": 119006099
-    },
-    {
       "name": "World Clock Time Zone Widget (Hacked)",
       "bundleIdentifier": "com.lasmit.World-Time",
       "version": "2026.10",
@@ -306,30 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2323",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a7f694a691d2.jpg",
       "size": 145168294
-    },
-    {
-      "name": "Coconote",
-      "bundleIdentifier": "com.bbauman.Scripty",
-      "version": "2.49",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/569",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7f116f366ab.jpg",
-      "size": 55771948
-    },
-    {
-      "name": "Shinobi: Read & Learn Japanese (Hacked)",
-      "bundleIdentifier": "com.shinobiapp.shinobi",
-      "version": "1.4.4",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2238",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7f11680038c.jpg",
-      "size": 58028158
-    },
-    {
-      "name": "The Way - Guided Meditation (Hacked)",
-      "bundleIdentifier": "com.thewayapp.mobile",
-      "version": "1.21.6",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2122",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7f116163401.jpg",
-      "size": 109424964
     }
   ]
 }
