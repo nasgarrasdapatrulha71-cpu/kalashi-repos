@@ -4,6 +4,30 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "MealPrepPro Planner & Recipes (Hacked)",
+      "bundleIdentifier": "com.nibbleapps.MealPrepPro",
+      "version": "3.143",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2166",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8a116ea900e.jpg",
+      "size": 132930864
+    },
+    {
+      "name": "Live Transcribe (Hacked)",
+      "bundleIdentifier": "com.robnorback.LiveTranscribe",
+      "version": "2.78",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2123",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a89733c172d6.jpg",
+      "size": 52266906
+    },
+    {
+      "name": "Captions",
+      "bundleIdentifier": "boomer.Smart-Video",
+      "version": "13.31.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/415",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a891b55edff2.jpg",
+      "size": 106918441
+    },
+    {
       "name": "Imprint: Visual Micro Learning (Hacked)",
       "bundleIdentifier": "com.polywise.weekly",
       "version": "5.3.0",
@@ -306,30 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2227",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a7fc12c3feb5.jpg",
       "size": 47885716
-    },
-    {
-      "name": "aa (Hacked)",
-      "bundleIdentifier": "com.aagame.aagame",
-      "version": "7.1.5",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2289",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7f695b125a4.jpg",
-      "size": 47576756
-    },
-    {
-      "name": "CHANI",
-      "bundleIdentifier": "com.chaninicholas.chaniapp",
-      "version": "2.9.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/935",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7f6951adb5b.jpg",
-      "size": 47399401
-    },
-    {
-      "name": "Zen Color (Hacked)",
-      "bundleIdentifier": "happy.paint.color.coloring.number",
-      "version": "2.2.6",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2323",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7f694a691d2.jpg",
-      "size": 145168294
     }
   ]
 }
