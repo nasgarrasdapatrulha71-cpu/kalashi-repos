@@ -4,12 +4,196 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Roblox - Delta",
+      "bundleIdentifier": "com.roblox.robloxmobile",
+      "version": "2.735.1135",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1929",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8fb72f7d73a.jpg",
+      "size": 138150624
+    },
+    {
+      "name": "Slime Rancher (Paid App)",
+      "bundleIdentifier": "com.playdigious.slimerancher",
+      "version": "1.0.5",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2376",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9df44062a.jpg",
+      "size": 0
+    },
+    {
+      "name": "Snake.io+ (Apple Arcade)",
+      "bundleIdentifier": "com.kooapps.snakearcade",
+      "version": "1.0.18",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2325",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9de17e877.jpg",
+      "size": 69040199
+    },
+    {
+      "name": "Pocket City 2+ (Apple Arcade)",
+      "bundleIdentifier": "games.engaged.pocketcity2",
+      "version": "1.21",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2326",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9d364f5d7.jpg",
+      "size": 171114589
+    },
+    {
+      "name": "Everyday Puzzles: Mini Games+ (Arcade Games)",
+      "bundleIdentifier": "com.fanatee.epp",
+      "version": "1.0.5",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2388",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9ca50d727.jpg",
+      "size": 114872253
+    },
+    {
+      "name": "Dungeon Clawler+ (Apple Arcade)",
+      "bundleIdentifier": "com.strayfawnstudio.dungeonclawlermobileplus",
+      "version": "1.1.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2387",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9c6e9ed96.jpg",
+      "size": 347574403
+    },
+    {
+      "name": "Draw it+ (Apple Arcade)",
+      "bundleIdentifier": "com.kwalee.drawitplus",
+      "version": "1.0.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2386",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9c2806fa1.jpg",
+      "size": 126471037
+    },
+    {
+      "name": "Potion Punch 2+ (Arcade Games)",
+      "bundleIdentifier": "com.monstronauts.potionpunch2plus",
+      "version": "1.50.00",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2385",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9bf2b4677.jpg",
+      "size": 565577998
+    },
+    {
+      "name": "Pocket Love! (Arcade Games)",
+      "bundleIdentifier": "com.hyperbeard.pocketlove",
+      "version": "4.4.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2384",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9bccf2583.jpg",
+      "size": 305190508
+    },
+    {
+      "name": "Human Fall Flat+ (Arcade Games)",
+      "bundleIdentifier": "com.games505.Humanfallflatarcade",
+      "version": "2.6",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2383",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9b7adc26b.jpg",
+      "size": 676137451
+    },
+    {
+      "name": "My Town : Home - Family Games (Arcade Games)",
+      "bundleIdentifier": "mytown.home",
+      "version": "3.29",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2382",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9b4f326d8.jpg",
+      "size": 94667016
+    },
+    {
+      "name": "Sago Mini Trips+ (Apple Arcade)",
+      "bundleIdentifier": "com.sagomini.Trips",
+      "version": "1.3.210",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2381",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f99fb59b8e.jpg",
+      "size": 186810767
+    },
+    {
+      "name": "Cozy Caravan (Apple Arcade)",
+      "bundleIdentifier": "com.5livesstudios.cozycaravan",
+      "version": "1.5.23696",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2200",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f99d9d5949.jpg",
+      "size": 794476470
+    },
+    {
+      "name": "Toca Boca Jr Classics (Apple Arcade)",
+      "bundleIdentifier": "com.sagomini.TocaBocaJrClassics",
+      "version": "1.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2380",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f990e9a801.jpg",
+      "size": 548206323
+    },
+    {
+      "name": "Coffee Inc 2+ (Apple Arcade)",
+      "bundleIdentifier": "com.sidelabs.Boulder",
+      "version": "2.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2379",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f987137c9a.jpg",
+      "size": 344523082
+    },
+    {
+      "name": "X - Twitter - Plus",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "version": "12.20",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2161",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f976822ed9.jpg",
+      "size": 241068595
+    },
+    {
+      "name": "Youtube - YouTube Plus",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "version": "21.34.3",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1824",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f966bc0bdb.jpg",
+      "size": 165748632
+    },
+    {
+      "name": "Lyfta: Gym Workout Tracker Log (Hacked)",
+      "bundleIdentifier": "com.lyftaios",
+      "version": "1.157",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2259",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f852584c04.jpg",
+      "size": 56086794
+    },
+    {
       "name": "Bill Tracker Pro (Hacked)",
       "bundleIdentifier": "com.unofficialcalculators.payplan",
-      "version": "4.2.23",
+      "version": "4.2.26",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2127",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8ac13a037e0.jpg",
-      "size": 106447528
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f2d4298f34.jpg",
+      "size": 164555360
+    },
+    {
+      "name": "Cash, Inc. (Hacked)",
+      "bundleIdentifier": "com.alegrium.cong2",
+      "version": "2.5.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2374",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8ebcc182834.jpg",
+      "size": 175453536
+    },
+    {
+      "name": "Rest: Fix Your Sleep For Good (Hacked)",
+      "bundleIdentifier": "com.evolve.helm",
+      "version": "3.199.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2180",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8e64eb8ee92.jpg",
+      "size": 134423721
+    },
+    {
+      "name": "Kwit (Hacked)",
+      "bundleIdentifier": "geeo.Kwit",
+      "version": "4.35.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2378",
+      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a8e64e65b5b2.jpg",
+      "size": 123229896
+    },
+    {
+      "name": "Medication List (Hacked)",
+      "bundleIdentifier": "com.jojoapps.Medication-List",
+      "version": "1.8.13",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2251",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8d5d3b2bcd3.jpg",
+      "size": 27258290
+    },
+    {
+      "name": "OnTheWay (Hacked)",
+      "bundleIdentifier": "ideastudio.Weather-on-the-Way",
+      "version": "2.5.7",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2377",
+      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a8d5d359aeb1.jpg",
+      "size": 50654257
     },
     {
       "name": "Egg, Inc - (Hacked)",
@@ -50,14 +234,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2218",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a88c3715b059.jpg",
       "size": 158994187
-    },
-    {
-      "name": "Slime Rancher (Paid App)",
-      "bundleIdentifier": "com.playdigious.slimerancher",
-      "version": "1.0.5",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2376",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a88a6b3ecfaf.jpg",
-      "size": 0
     },
     {
       "name": "Riverside Podcast Video Studio (Hacked)",
@@ -132,22 +308,6 @@
       "size": 23311902
     },
     {
-      "name": "Lyfta: Gym Workout Tracker Log (Hacked)",
-      "bundleIdentifier": "com.lyftaios",
-      "version": "1.155",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2259",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a85548fe64b0.jpg",
-      "size": 63180526
-    },
-    {
-      "name": "Cash, Inc. (Hacked)",
-      "bundleIdentifier": "com.alegrium.cong2",
-      "version": "2.5.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2374",
-      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a85548b70f2e.jpg",
-      "size": 178642950
-    },
-    {
       "name": "I Am Sober (Hacked)",
       "bundleIdentifier": "com.thehungrywasp.iamsober",
       "version": "8.7.6",
@@ -170,166 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2118",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a83f4f96cb52.jpg",
       "size": 171915774
-    },
-    {
-      "name": "Push Training (Hacked)",
-      "bundleIdentifier": "com.albernackee.blur",
-      "version": "1.1.2608162",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2373",
-      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a83f4f54aad1.jpg",
-      "size": 226359681
-    },
-    {
-      "name": "Stippl",
-      "bundleIdentifier": "com.stippl.stippl",
-      "version": "3.1.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1257",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a839d0ec1b87.jpg",
-      "size": 80952787
-    },
-    {
-      "name": "Brain Test: Tricky Puzzles (Hacked)",
-      "bundleIdentifier": "com.unicostudio.braintest",
-      "version": "2.770.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2144",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a82ed4532ccf.jpg",
-      "size": 161481246
-    },
-    {
-      "name": "YogaPlus",
-      "bundleIdentifier": "com.breakthroughapps.Mary-Ochsner-Yoga",
-      "version": "6.9.8",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1419",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8295672e299.jpg",
-      "size": 78810896
-    },
-    {
-      "name": "Zinnia",
-      "bundleIdentifier": "com.pixite.Zinnia",
-      "version": "1.48.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1539",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a823d82299b7.jpg",
-      "size": 86849759
-    },
-    {
-      "name": "12min (Hacked)",
-      "bundleIdentifier": "com.br.12min.mobile",
-      "version": "2.12.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2288",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a81e59dbfc57.jpg",
-      "size": 56138045
-    },
-    {
-      "name": "Voloco: Vocal Recording Studio (Hacked)",
-      "bundleIdentifier": "com.resonantcavity.Voloco",
-      "version": "9.18.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2134",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a818db67b263.jpg",
-      "size": 114592101
-    },
-    {
-      "name": "BoxBox",
-      "bundleIdentifier": "club.boxbox.widgets-ios",
-      "version": "5.4.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1231",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8135d2bf978.jpg",
-      "size": 100682861
-    },
-    {
-      "name": "TikTok - plus (douyin)",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "version": "46.4.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1971",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a809ad0231d7.jpg",
-      "size": 455015739
-    },
-    {
-      "name": "Dopamine (Jailbreak)",
-      "bundleIdentifier": "com.dopamine.new",
-      "version": "3.0.7",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1979",
-      "iconURL": "https://appstore.sidelix.vip/images/1774418667.png",
-      "size": 57282928
-    },
-    {
-      "name": "Hill Climb Racing (Hacked)",
-      "bundleIdentifier": "com.fingersoft.hillclimbracing",
-      "version": "1.71.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1951",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a80939927184.jpg",
-      "size": 136130259
-    },
-    {
-      "name": "Truck Simulator EVO: Drive USA (Hacked)",
-      "bundleIdentifier": "com.ovilex.truckerzoneamericanroadways",
-      "version": "2.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2372",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a809341b8a68.jpg",
-      "size": 1130583173
-    },
-    {
-      "name": "My Dear Farm+ (Apple Arcade)",
-      "bundleIdentifier": "com.hyperbeard.mydearfarmplus",
-      "version": "1.11.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2212",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a809255a4038.jpg",
-      "size": 193745521
-    },
-    {
-      "name": "Bridge Constructor Playground",
-      "bundleIdentifier": "com.headupgames.bridgeconstructorplayground",
-      "version": "2.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1839",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a809207e257b.jpg",
-      "size": 115292399
-    },
-    {
-      "name": "Good Pizza, Great Pizza+ (Apple arcade games)",
-      "bundleIdentifier": "com.tapblaze.pizzabusinessplus",
-      "version": "5.54.3",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2080",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8091c82a14f.jpg",
-      "size": 373525907
-    },
-    {
-      "name": "Day R Premium: Survival RPG",
-      "bundleIdentifier": "dayr",
-      "version": "1.891.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1924",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a809147ad937.jpg",
-      "size": 394283609
-    },
-    {
-      "name": "Minecraft",
-      "bundleIdentifier": "com.mojang.minecraftpe",
-      "version": "26.44",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1834",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a80911258d63.jpg",
-      "size": 726525029
-    },
-    {
-      "name": "MoneyCoach: Budget Planner (Hacked)",
-      "bundleIdentifier": "com.duuro.moneyCoach",
-      "version": "11.4.6",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2158",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a808609b0c8d.jpg",
-      "size": 118269851
-    },
-    {
-      "name": "Napper: Baby Sleep Tracker (Hacked)",
-      "bundleIdentifier": "com.napper",
-      "version": "6.65.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2155",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7fc13955a9e.jpg",
-      "size": 59588342
-    },
-    {
-      "name": "World Clock Time Zone Widget (Hacked)",
-      "bundleIdentifier": "com.lasmit.World-Time",
-      "version": "2026.10",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2227",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7fc12c3feb5.jpg",
-      "size": 47885716
     }
   ]
 }
