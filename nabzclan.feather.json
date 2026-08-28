@@ -4,6 +4,30 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Pinterest - Hacked",
+      "bundleIdentifier": "pinterest",
+      "version": "14.33",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2090",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a90905daa784.jpg",
+      "size": 151913344
+    },
+    {
+      "name": "365Scores: Live Sports Scores (Hacked)",
+      "bundleIdentifier": "com.365scores.365scroesapp",
+      "version": "6.6.5",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2234",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8fdd11d602e.jpg",
+      "size": 99530917
+    },
+    {
+      "name": "Seniors Workout (Hacked)",
+      "bundleIdentifier": "com.oneothergame.workout-for-older-adults-app",
+      "version": "6.4.8",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2389",
+      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a8fdd0ca6fb6.jpg",
+      "size": 363838840
+    },
+    {
       "name": "Roblox - Delta",
       "bundleIdentifier": "com.roblox.robloxmobile",
       "version": "2.735.1135",
@@ -244,14 +268,6 @@
       "size": 119156515
     },
     {
-      "name": "Pinterest - Hacked",
-      "bundleIdentifier": "pinterest",
-      "version": "14.32",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2090",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8813a8130b0.jpg",
-      "size": 152687304
-    },
-    {
       "name": "Liftoff - Ranked Gym Workouts (Hacked)",
       "bundleIdentifier": "com.gymbros.app",
       "version": "2.15.3",
@@ -314,22 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2129",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a84fca2f053f.jpg",
       "size": 47918442
-    },
-    {
-      "name": "SolarWatch (Hacked)",
-      "bundleIdentifier": "com.fifteenjugglers.solarwatch",
-      "version": "2026.26.3",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2284",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a84a4be9894f.jpg",
-      "size": 67669392
-    },
-    {
-      "name": "Eden: Daily Routine Planner (hacked)",
-      "bundleIdentifier": "com.mfagency.nurture",
-      "version": "5.3.3",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2118",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a83f4f96cb52.jpg",
-      "size": 171915774
     }
   ]
 }
