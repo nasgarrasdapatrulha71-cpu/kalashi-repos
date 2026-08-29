@@ -4,6 +4,46 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "SCRL: Photo Collage Maker (Hacked)",
+      "bundleIdentifier": "com.dopedevelopment.Panels",
+      "version": "9.50",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2130",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9247c9f1e23.jpg",
+      "size": 81682854
+    },
+    {
+      "name": "MySwimPro: #1 Swim Workout App (Hacked)",
+      "bundleIdentifier": "com.myswimpro.apps.MySwimPro",
+      "version": "9.3.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2131",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a91efe8dc0d2.jpg",
+      "size": 56394205
+    },
+    {
+      "name": "Block\u00a0Blast - No ads",
+      "bundleIdentifier": "com.blockpuzzle.us.ios",
+      "version": "7.3.7",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1958",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a91980448e55.jpg",
+      "size": 88044687
+    },
+    {
+      "name": "Planta: Plant & Garden Care (Hacked)",
+      "bundleIdentifier": "com.stromming.Plants",
+      "version": "3.119.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2152",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a91401e9a2c4.jpg",
+      "size": 177293019
+    },
+    {
+      "name": "Liftoff - Ranked Gym Workouts (Hacked)",
+      "bundleIdentifier": "com.gymbros.app",
+      "version": "2.15.4",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2192",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a90e83f2867e.jpg",
+      "size": 139820728
+    },
+    {
       "name": "Pinterest - Hacked",
       "bundleIdentifier": "pinterest",
       "version": "14.33",
@@ -268,14 +308,6 @@
       "size": 119156515
     },
     {
-      "name": "Liftoff - Ranked Gym Workouts (Hacked)",
-      "bundleIdentifier": "com.gymbros.app",
-      "version": "2.15.3",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2192",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a87bbc3a2166.jpg",
-      "size": 150924342
-    },
-    {
       "name": "Astra - Life Advice (Hacked)",
       "bundleIdentifier": "com.vertventures.stella",
       "version": "3.12.48",
@@ -298,38 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2168",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a865c359480b.jpg",
       "size": 102456322
-    },
-    {
-      "name": "Elevate - Brain Training Games (Hacked)",
-      "bundleIdentifier": "com.elevateapp.elevate",
-      "version": "5.253.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2163",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a86044f257a7.jpg",
-      "size": 417035321
-    },
-    {
-      "name": "Cheatsheet",
-      "bundleIdentifier": "com.overdesigned.Cheatsheet",
-      "version": "6.1.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1601",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a85ac7337253.jpg",
-      "size": 61481687
-    },
-    {
-      "name": "VisualMind (Hacked)",
-      "bundleIdentifier": "com.asanarebel.visualgpt",
-      "version": "1.6.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2375",
-      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a85ac6f59ea4.jpg",
-      "size": 23311902
-    },
-    {
-      "name": "I Am Sober (Hacked)",
-      "bundleIdentifier": "com.thehungrywasp.iamsober",
-      "version": "8.7.6",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2129",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a84fca2f053f.jpg",
-      "size": 47918442
     }
   ]
 }
