@@ -4,6 +4,30 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Dune! (Mod menu)",
+      "bundleIdentifier": "io.voodoo.dune",
+      "version": "5.6.07",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2086",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a962e3ba817e.jpg",
+      "size": 99150924
+    },
+    {
+      "name": "Fishbrain - Fishing App (Hacked)",
+      "bundleIdentifier": "com.fishbrain.app",
+      "version": "9.61.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2224",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a95d65a8baa1.jpg",
+      "size": 112544553
+    },
+    {
+      "name": "Oniri - Your Dream Journal (Hacked)",
+      "bundleIdentifier": "com.sublime.capture",
+      "version": "6.0.8",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2157",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a929fafd8ab8.jpg",
+      "size": 81249825
+    },
+    {
       "name": "SCRL: Photo Collage Maker (Hacked)",
       "bundleIdentifier": "com.dopedevelopment.Panels",
       "version": "9.50",
@@ -306,30 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2318",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a886b87df57e.jpg",
       "size": 119156515
-    },
-    {
-      "name": "Astra - Life Advice (Hacked)",
-      "bundleIdentifier": "com.vertventures.stella",
-      "version": "3.12.48",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2159",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8763de193c9.jpg",
-      "size": 99263870
-    },
-    {
-      "name": "Solid Starts: Baby First Foods (Hacked)",
-      "bundleIdentifier": "com.digitas.solidstarts",
-      "version": "6.3.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2183",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a86b417e2223.jpg",
-      "size": 74352641
-    },
-    {
-      "name": "INTVL (Hacked)",
-      "bundleIdentifier": "com.intvl.app",
-      "version": "4.0.6",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2168",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a865c359480b.jpg",
-      "size": 102456322
     }
   ]
 }
