@@ -4,12 +4,60 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Chattyai",
+      "bundleIdentifier": "com.livintis.chatty",
+      "version": "2.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1417",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9735e85f4ae.jpg",
+      "size": 60257247
+    },
+    {
+      "name": "Chess Universe+",
+      "bundleIdentifier": "com.kingsofgames.chessuniverseplus",
+      "version": "1.27.4",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2390",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a96fab5a812e.jpg",
+      "size": 78566554
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "version": "26.45",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1834",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a96f8be6c92e.jpg",
+      "size": 725373363
+    },
+    {
+      "name": "Youtube - YouTube Plus",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "version": "21.35.3",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1824",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a96e07e6dabf.jpg",
+      "size": 166097887
+    },
+    {
+      "name": "MySwimPro",
+      "bundleIdentifier": "com.myswimpro.apps.MySwimPro",
+      "version": "9.3.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1467",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a96ddffaee50.jpg",
+      "size": 59312394
+    },
+    {
       "name": "Dune! (Mod menu)",
       "bundleIdentifier": "io.voodoo.dune",
       "version": "5.6.07",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2086",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a962e3ba817e.jpg",
-      "size": 99150924
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a96dd1c55999.jpg",
+      "size": 99449183
+    },
+    {
+      "name": "PlantSnap",
+      "bundleIdentifier": "net.plantsnap.freemium",
+      "version": "8.0.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/831",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a96861e16fb4.jpg",
+      "size": 86817383
     },
     {
       "name": "Fishbrain - Fishing App (Hacked)",
@@ -34,14 +82,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2130",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a9247c9f1e23.jpg",
       "size": 81682854
-    },
-    {
-      "name": "MySwimPro: #1 Swim Workout App (Hacked)",
-      "bundleIdentifier": "com.myswimpro.apps.MySwimPro",
-      "version": "9.3.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2131",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a91efe8dc0d2.jpg",
-      "size": 56394205
     },
     {
       "name": "Block\u00a0Blast - No ads",
@@ -220,14 +260,6 @@
       "size": 241068595
     },
     {
-      "name": "Youtube - YouTube Plus",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "version": "21.34.3",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1824",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f966bc0bdb.jpg",
-      "size": 165748632
-    },
-    {
       "name": "Lyfta: Gym Workout Tracker Log (Hacked)",
       "bundleIdentifier": "com.lyftaios",
       "version": "1.157",
@@ -298,38 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2166",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a8a116ea900e.jpg",
       "size": 132930864
-    },
-    {
-      "name": "Live Transcribe (Hacked)",
-      "bundleIdentifier": "com.robnorback.LiveTranscribe",
-      "version": "2.78",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2123",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a89733c172d6.jpg",
-      "size": 52266906
-    },
-    {
-      "name": "Captions",
-      "bundleIdentifier": "boomer.Smart-Video",
-      "version": "13.31.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/415",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a891b55edff2.jpg",
-      "size": 106918441
-    },
-    {
-      "name": "Imprint: Visual Micro Learning (Hacked)",
-      "bundleIdentifier": "com.polywise.weekly",
-      "version": "5.3.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2218",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a88c3715b059.jpg",
-      "size": 158994187
-    },
-    {
-      "name": "Riverside Podcast Video Studio (Hacked)",
-      "bundleIdentifier": "RVS-Riverside.fm",
-      "version": "4.19.3",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2318",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a886b87df57e.jpg",
-      "size": 119156515
     }
   ]
 }
