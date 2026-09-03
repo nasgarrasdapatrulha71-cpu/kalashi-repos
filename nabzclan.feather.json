@@ -4,6 +4,62 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Focus Tomato - Let's focus now (Hacked)",
+      "bundleIdentifier": "com.claushuang.FocusTomato",
+      "version": "6.1.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2247",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a989589966b7.jpg",
+      "size": 92484801
+    },
+    {
+      "name": "famefy (Hacked)",
+      "bundleIdentifier": "com.wavera.ios.famefy",
+      "version": "3.0.13",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2393",
+      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a9895856e89e.jpg",
+      "size": 44554879
+    },
+    {
+      "name": "Reframe: Drink Less & Thrive (Hacked)",
+      "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
+      "version": "3.9.88",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2271",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a983dab776d3.jpg",
+      "size": 296323638
+    },
+    {
+      "name": "Speak4Me (Hacked)",
+      "bundleIdentifier": "com.yadux.Speak4Me",
+      "version": "6.3.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2392",
+      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a983da61cc61.jpg",
+      "size": 96208687
+    },
+    {
+      "name": "MySwimPro",
+      "bundleIdentifier": "com.myswimpro.apps.MySwimPro",
+      "version": "9.4.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1467",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a97e5c10b164.jpg",
+      "size": 59312394
+    },
+    {
+      "name": "Mileways (Hacked)",
+      "bundleIdentifier": "com.mileways.app",
+      "version": "4.7.5",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2391",
+      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a97e5bc3275b.jpg",
+      "size": 118503852
+    },
+    {
+      "name": "Gronda: Recipes for Chefs (Hacked)",
+      "bundleIdentifier": "gronda.gmbh",
+      "version": "8.31.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2181",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a978dc85bada.jpg",
+      "size": 62928296
+    },
+    {
       "name": "Chattyai",
       "bundleIdentifier": "com.livintis.chatty",
       "version": "2.0",
@@ -34,14 +90,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1824",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a96e07e6dabf.jpg",
       "size": 166097887
-    },
-    {
-      "name": "MySwimPro",
-      "bundleIdentifier": "com.myswimpro.apps.MySwimPro",
-      "version": "9.3.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1467",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a96ddffaee50.jpg",
-      "size": 59312394
     },
     {
       "name": "Dune! (Mod menu)",
@@ -282,54 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2374",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a8ebcc182834.jpg",
       "size": 175453536
-    },
-    {
-      "name": "Rest: Fix Your Sleep For Good (Hacked)",
-      "bundleIdentifier": "com.evolve.helm",
-      "version": "3.199.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2180",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8e64eb8ee92.jpg",
-      "size": 134423721
-    },
-    {
-      "name": "Kwit (Hacked)",
-      "bundleIdentifier": "geeo.Kwit",
-      "version": "4.35.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2378",
-      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a8e64e65b5b2.jpg",
-      "size": 123229896
-    },
-    {
-      "name": "Medication List (Hacked)",
-      "bundleIdentifier": "com.jojoapps.Medication-List",
-      "version": "1.8.13",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2251",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8d5d3b2bcd3.jpg",
-      "size": 27258290
-    },
-    {
-      "name": "OnTheWay (Hacked)",
-      "bundleIdentifier": "ideastudio.Weather-on-the-Way",
-      "version": "2.5.7",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2377",
-      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a8d5d359aeb1.jpg",
-      "size": 50654257
-    },
-    {
-      "name": "Egg, Inc - (Hacked)",
-      "bundleIdentifier": "com.auxbrain.egginc",
-      "version": "1.37.2",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2088",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8a694fc209a.jpg",
-      "size": 61044521
-    },
-    {
-      "name": "MealPrepPro Planner & Recipes (Hacked)",
-      "bundleIdentifier": "com.nibbleapps.MealPrepPro",
-      "version": "3.143",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2166",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8a116ea900e.jpg",
-      "size": 132930864
     }
   ]
 }
