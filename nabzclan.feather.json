@@ -4,6 +4,70 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Soundscape: Focus & Deep Sleep (Hacked)",
+      "bundleIdentifier": "com.soundscape.music",
+      "version": "10.1.57",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2174",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a99f5172173b.jpg",
+      "size": 63268359
+    },
+    {
+      "name": "Colourtone (Hacked)",
+      "bundleIdentifier": "com.colorpresets.colourtone",
+      "version": "5.6.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2397",
+      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a99f510532e3.jpg",
+      "size": 0
+    },
+    {
+      "name": "ADHDWhiteNoise",
+      "bundleIdentifier": "io.mindist.noise",
+      "version": "2.1.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1431",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a999d3b160ef.jpg",
+      "size": 39082834
+    },
+    {
+      "name": "Grounded (Hacked)",
+      "bundleIdentifier": "com.ifeanyi.Grounded",
+      "version": "3.1.24",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2396",
+      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a999d35733f5.jpg",
+      "size": 109534974
+    },
+    {
+      "name": "intoLive",
+      "bundleIdentifier": "me.imgbase.intolive",
+      "version": "4.4.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1639",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a99454cf37c3.jpg",
+      "size": 147137911
+    },
+    {
+      "name": "TapeKit (Hacked)",
+      "bundleIdentifier": "com.widget-kid",
+      "version": "3.5.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2395",
+      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a9945488ed70.jpg",
+      "size": 144741165
+    },
+    {
+      "name": "OnTheWay (Hacked)",
+      "bundleIdentifier": "ideastudio.Weather-on-the-Way",
+      "version": "2.5.9",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2377",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a98ed668e245.jpg",
+      "size": 51979808
+    },
+    {
+      "name": "Flow Legends (Hacked)",
+      "bundleIdentifier": "com.vladk.pipemasters",
+      "version": "1.16.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2394",
+      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a98ed6297afb.jpg",
+      "size": 128796802
+    },
+    {
       "name": "Focus Tomato - Let's focus now (Hacked)",
       "bundleIdentifier": "com.claushuang.FocusTomato",
       "version": "6.1.2",
@@ -266,70 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2382",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9b4f326d8.jpg",
       "size": 94667016
-    },
-    {
-      "name": "Sago Mini Trips+ (Apple Arcade)",
-      "bundleIdentifier": "com.sagomini.Trips",
-      "version": "1.3.210",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2381",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f99fb59b8e.jpg",
-      "size": 186810767
-    },
-    {
-      "name": "Cozy Caravan (Apple Arcade)",
-      "bundleIdentifier": "com.5livesstudios.cozycaravan",
-      "version": "1.5.23696",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2200",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f99d9d5949.jpg",
-      "size": 794476470
-    },
-    {
-      "name": "Toca Boca Jr Classics (Apple Arcade)",
-      "bundleIdentifier": "com.sagomini.TocaBocaJrClassics",
-      "version": "1.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2380",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f990e9a801.jpg",
-      "size": 548206323
-    },
-    {
-      "name": "Coffee Inc 2+ (Apple Arcade)",
-      "bundleIdentifier": "com.sidelabs.Boulder",
-      "version": "2.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2379",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f987137c9a.jpg",
-      "size": 344523082
-    },
-    {
-      "name": "X - Twitter - Plus",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "version": "12.20",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2161",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f976822ed9.jpg",
-      "size": 241068595
-    },
-    {
-      "name": "Lyfta: Gym Workout Tracker Log (Hacked)",
-      "bundleIdentifier": "com.lyftaios",
-      "version": "1.157",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2259",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f852584c04.jpg",
-      "size": 56086794
-    },
-    {
-      "name": "Bill Tracker Pro (Hacked)",
-      "bundleIdentifier": "com.unofficialcalculators.payplan",
-      "version": "4.2.26",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2127",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f2d4298f34.jpg",
-      "size": 164555360
-    },
-    {
-      "name": "Cash, Inc. (Hacked)",
-      "bundleIdentifier": "com.alegrium.cong2",
-      "version": "2.5.2",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2374",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8ebcc182834.jpg",
-      "size": 175453536
     }
   ]
 }
