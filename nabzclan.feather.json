@@ -4,20 +4,44 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Pinterest - Hacked",
+      "bundleIdentifier": "pinterest",
+      "version": "14.34",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2090",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9b549d9d4cd.jpg",
+      "size": 147364879
+    },
+    {
+      "name": "Gronda: Recipes for Chefs (Hacked)",
+      "bundleIdentifier": "gronda.gmbh",
+      "version": "8.32.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2181",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9afcc31d15d.jpg",
+      "size": 60753739
+    },
+    {
+      "name": "Colourtone (Hacked)",
+      "bundleIdentifier": "com.colorpresets.colourtone",
+      "version": "5.6.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2397",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9aa4d45a705.jpg",
+      "size": 0
+    },
+    {
+      "name": "Liftoff - Ranked Gym Workouts (Hacked)",
+      "bundleIdentifier": "com.gymbros.app",
+      "version": "2.15.6",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2192",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9a4cec873ce.jpg",
+      "size": 141732914
+    },
+    {
       "name": "Soundscape: Focus & Deep Sleep (Hacked)",
       "bundleIdentifier": "com.soundscape.music",
       "version": "10.1.57",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2174",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a99f5172173b.jpg",
       "size": 63268359
-    },
-    {
-      "name": "Colourtone (Hacked)",
-      "bundleIdentifier": "com.colorpresets.colourtone",
-      "version": "5.6.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2397",
-      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a99f510532e3.jpg",
-      "size": 0
     },
     {
       "name": "ADHDWhiteNoise",
@@ -116,14 +140,6 @@
       "size": 118503852
     },
     {
-      "name": "Gronda: Recipes for Chefs (Hacked)",
-      "bundleIdentifier": "gronda.gmbh",
-      "version": "8.31.2",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2181",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a978dc85bada.jpg",
-      "size": 62928296
-    },
-    {
       "name": "Chattyai",
       "bundleIdentifier": "com.livintis.chatty",
       "version": "2.0",
@@ -210,22 +226,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2152",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a91401e9a2c4.jpg",
       "size": 177293019
-    },
-    {
-      "name": "Liftoff - Ranked Gym Workouts (Hacked)",
-      "bundleIdentifier": "com.gymbros.app",
-      "version": "2.15.4",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2192",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a90e83f2867e.jpg",
-      "size": 139820728
-    },
-    {
-      "name": "Pinterest - Hacked",
-      "bundleIdentifier": "pinterest",
-      "version": "14.33",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2090",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a90905daa784.jpg",
-      "size": 151913344
     },
     {
       "name": "365Scores: Live Sports Scores (Hacked)",
