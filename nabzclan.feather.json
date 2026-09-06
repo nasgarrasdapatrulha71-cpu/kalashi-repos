@@ -4,6 +4,38 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Bill Tracker Pro (Hacked)",
+      "bundleIdentifier": "com.unofficialcalculators.payplan",
+      "version": "4.2.30",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2127",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9cb42ae36c9.jpg",
+      "size": 104681735
+    },
+    {
+      "name": "Parking Jam 3D (Hacked)",
+      "bundleIdentifier": "com.uqxuwtxbbu.parkingjam",
+      "version": "232.0.13",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2087",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9c5c467ec33.jpg",
+      "size": 227942931
+    },
+    {
+      "name": "Soundscape: Focus & Deep Sleep (Hacked)",
+      "bundleIdentifier": "com.soundscape.music",
+      "version": "10.1.58",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2174",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9c046546d20.jpg",
+      "size": 62913054
+    },
+    {
+      "name": "Captions",
+      "bundleIdentifier": "boomer.Smart-Video",
+      "version": "13.32.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/415",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9bac7e733d0.jpg",
+      "size": 100361418
+    },
+    {
       "name": "Pinterest - Hacked",
       "bundleIdentifier": "pinterest",
       "version": "14.34",
@@ -34,14 +66,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2192",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a9a4cec873ce.jpg",
       "size": 141732914
-    },
-    {
-      "name": "Soundscape: Focus & Deep Sleep (Hacked)",
-      "bundleIdentifier": "com.soundscape.music",
-      "version": "10.1.57",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2174",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a99f5172173b.jpg",
-      "size": 63268359
     },
     {
       "name": "ADHDWhiteNoise",
@@ -306,30 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2385",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9bf2b4677.jpg",
       "size": 565577998
-    },
-    {
-      "name": "Pocket Love! (Arcade Games)",
-      "bundleIdentifier": "com.hyperbeard.pocketlove",
-      "version": "4.4.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2384",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9bccf2583.jpg",
-      "size": 305190508
-    },
-    {
-      "name": "Human Fall Flat+ (Arcade Games)",
-      "bundleIdentifier": "com.games505.Humanfallflatarcade",
-      "version": "2.6",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2383",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9b7adc26b.jpg",
-      "size": 676137451
-    },
-    {
-      "name": "My Town : Home - Family Games (Arcade Games)",
-      "bundleIdentifier": "mytown.home",
-      "version": "3.29",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2382",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9b4f326d8.jpg",
-      "size": 94667016
     }
   ]
 }
