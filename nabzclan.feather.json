@@ -6,10 +6,34 @@
     {
       "name": "Bill Tracker Pro (Hacked)",
       "bundleIdentifier": "com.unofficialcalculators.payplan",
-      "version": "4.2.30",
+      "version": "4.2.31",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2127",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9cb42ae36c9.jpg",
-      "size": 104681735
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9e13bd5bacf.jpg",
+      "size": 105772498
+    },
+    {
+      "name": "Captions",
+      "bundleIdentifier": "boomer.Smart-Video",
+      "version": "13.33.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/415",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9dbbe2147cb.jpg",
+      "size": 98088606
+    },
+    {
+      "name": "Knight Lancer (hacked)",
+      "bundleIdentifier": "com.ToweringTower.KnightLancer",
+      "version": "1.66",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2066",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9d63f48796c.jpg",
+      "size": 117144452
+    },
+    {
+      "name": "MySwimPro",
+      "bundleIdentifier": "com.myswimpro.apps.MySwimPro",
+      "version": "9.5.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1467",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9d0c0c60863.jpg",
+      "size": 59312394
     },
     {
       "name": "Parking Jam 3D (Hacked)",
@@ -26,14 +50,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2174",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a9c046546d20.jpg",
       "size": 62913054
-    },
-    {
-      "name": "Captions",
-      "bundleIdentifier": "boomer.Smart-Video",
-      "version": "13.32.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/415",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9bac7e733d0.jpg",
-      "size": 100361418
     },
     {
       "name": "Pinterest - Hacked",
@@ -146,14 +162,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2392",
       "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a983da61cc61.jpg",
       "size": 96208687
-    },
-    {
-      "name": "MySwimPro",
-      "bundleIdentifier": "com.myswimpro.apps.MySwimPro",
-      "version": "9.4.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1467",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a97e5c10b164.jpg",
-      "size": 59312394
     },
     {
       "name": "Mileways (Hacked)",
@@ -322,14 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2386",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9c2806fa1.jpg",
       "size": 126471037
-    },
-    {
-      "name": "Potion Punch 2+ (Arcade Games)",
-      "bundleIdentifier": "com.monstronauts.potionpunch2plus",
-      "version": "1.50.00",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2385",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9bf2b4677.jpg",
-      "size": 565577998
     }
   ]
 }
