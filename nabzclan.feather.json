@@ -4,6 +4,30 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Clarido (Hacked)",
+      "bundleIdentifier": "com.jabhi.clarido",
+      "version": "3.4.3",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2287",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9f1b6a34dc7.jpg",
+      "size": 32003817
+    },
+    {
+      "name": "Open: Breathwork + Meditation (Hacked)",
+      "bundleIdentifier": "com.o-p-e-n.open",
+      "version": "26.36",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2153",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9ec387b755d.jpg",
+      "size": 152755038
+    },
+    {
+      "name": "Idle Miner",
+      "bundleIdentifier": "com.fluffyfairygames.idleminertycoon",
+      "version": "5.62.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2115",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9e6b9d5fde0.jpg",
+      "size": 146326246
+    },
+    {
       "name": "Bill Tracker Pro (Hacked)",
       "bundleIdentifier": "com.unofficialcalculators.payplan",
       "version": "4.2.31",
@@ -306,30 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2326",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9d364f5d7.jpg",
       "size": 171114589
-    },
-    {
-      "name": "Everyday Puzzles: Mini Games+ (Arcade Games)",
-      "bundleIdentifier": "com.fanatee.epp",
-      "version": "1.0.5",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2388",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9ca50d727.jpg",
-      "size": 114872253
-    },
-    {
-      "name": "Dungeon Clawler+ (Apple Arcade)",
-      "bundleIdentifier": "com.strayfawnstudio.dungeonclawlermobileplus",
-      "version": "1.1.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2387",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9c6e9ed96.jpg",
-      "size": 347574403
-    },
-    {
-      "name": "Draw it+ (Apple Arcade)",
-      "bundleIdentifier": "com.kwalee.drawitplus",
-      "version": "1.0.2",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2386",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9c2806fa1.jpg",
-      "size": 126471037
     }
   ]
 }
