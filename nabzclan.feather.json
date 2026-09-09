@@ -4,6 +4,38 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Crossword Master - Word Puzzle (Hacked)",
+      "bundleIdentifier": "com.easybrain.crossword.puzzles",
+      "version": "2.2.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2173",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa07b01d1b11.jpg",
+      "size": 91697788
+    },
+    {
+      "name": "ShoppingList",
+      "bundleIdentifier": "jp.tyabaken.kaimono",
+      "version": "4.5.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1461",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa023157183b.jpg",
+      "size": 14806968
+    },
+    {
+      "name": "Elevate - Brain Training Games (Hacked)",
+      "bundleIdentifier": "com.elevateapp.elevate",
+      "version": "5.256.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2163",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9fcb2da9e90.jpg",
+      "size": 147046662
+    },
+    {
+      "name": "Stippl",
+      "bundleIdentifier": "com.stippl.stippl",
+      "version": "3.1.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1257",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9f73503ceeb.jpg",
+      "size": 81690980
+    },
+    {
       "name": "Clarido (Hacked)",
       "bundleIdentifier": "com.jabhi.clarido",
       "version": "3.4.3",
@@ -298,38 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2389",
       "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a8fdd0ca6fb6.jpg",
       "size": 363838840
-    },
-    {
-      "name": "Roblox - Delta",
-      "bundleIdentifier": "com.roblox.robloxmobile",
-      "version": "2.735.1135",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1929",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8fb72f7d73a.jpg",
-      "size": 138150624
-    },
-    {
-      "name": "Slime Rancher (Paid App)",
-      "bundleIdentifier": "com.playdigious.slimerancher",
-      "version": "1.0.5",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2376",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9df44062a.jpg",
-      "size": 0
-    },
-    {
-      "name": "Snake.io+ (Apple Arcade)",
-      "bundleIdentifier": "com.kooapps.snakearcade",
-      "version": "1.0.18",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2325",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9de17e877.jpg",
-      "size": 69040199
-    },
-    {
-      "name": "Pocket City 2+ (Apple Arcade)",
-      "bundleIdentifier": "games.engaged.pocketcity2",
-      "version": "1.21",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2326",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9d364f5d7.jpg",
-      "size": 171114589
     }
   ]
 }
