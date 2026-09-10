@@ -4,6 +4,62 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Going Balls (Hacked)",
+      "bundleIdentifier": "com.pronetis.ironballride2",
+      "version": "1.4.34",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2307",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa1da9897834.jpg",
+      "size": 283322783
+    },
+    {
+      "name": "Colourtone (Hacked)",
+      "bundleIdentifier": "com.colorpresets.colourtone",
+      "version": "5.6.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2400",
+      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6aa1da938ad07.jpg",
+      "size": 0
+    },
+    {
+      "name": "Moon Phase Calendar Plus (hacked)",
+      "bundleIdentifier": "nz.co.petesmith.moonphasefree",
+      "version": "8.10.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2119",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa182a74eab9.jpg",
+      "size": 45804445
+    },
+    {
+      "name": "DayGram - One Line a Day Diary (Hacked)",
+      "bundleIdentifier": "com.saltycrackers.daygram",
+      "version": "5.9.4",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2179",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa12ac5d120d.jpg",
+      "size": 35713710
+    },
+    {
+      "name": "Loopsie (Hacked)",
+      "bundleIdentifier": "com.gamelounge.loopsie.ios",
+      "version": "8.20.4",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2399",
+      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6aa12ac196a19.jpg",
+      "size": 191204921
+    },
+    {
+      "name": "Reframe: Drink Less & Thrive (Hacked)",
+      "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
+      "version": "3.9.89",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2271",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa0d2e418a33.jpg",
+      "size": 306488361
+    },
+    {
+      "name": "Stronger (Hacked)",
+      "bundleIdentifier": "com.strongermobileapp.stronger",
+      "version": "6.0.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2398",
+      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6aa0d2dfdd645.jpg",
+      "size": 121242160
+    },
+    {
       "name": "Crossword Master - Word Puzzle (Hacked)",
       "bundleIdentifier": "com.easybrain.crossword.puzzles",
       "version": "2.2.0",
@@ -124,14 +180,6 @@
       "size": 60753739
     },
     {
-      "name": "Colourtone (Hacked)",
-      "bundleIdentifier": "com.colorpresets.colourtone",
-      "version": "5.6.2",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2397",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9aa4d45a705.jpg",
-      "size": 0
-    },
-    {
       "name": "Liftoff - Ranked Gym Workouts (Hacked)",
       "bundleIdentifier": "com.gymbros.app",
       "version": "2.15.6",
@@ -202,14 +250,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2393",
       "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a9895856e89e.jpg",
       "size": 44554879
-    },
-    {
-      "name": "Reframe: Drink Less & Thrive (Hacked)",
-      "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
-      "version": "3.9.88",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2271",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a983dab776d3.jpg",
-      "size": 296323638
     },
     {
       "name": "Speak4Me (Hacked)",
@@ -290,46 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2157",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a929fafd8ab8.jpg",
       "size": 81249825
-    },
-    {
-      "name": "SCRL: Photo Collage Maker (Hacked)",
-      "bundleIdentifier": "com.dopedevelopment.Panels",
-      "version": "9.50",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2130",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9247c9f1e23.jpg",
-      "size": 81682854
-    },
-    {
-      "name": "Block\u00a0Blast - No ads",
-      "bundleIdentifier": "com.blockpuzzle.us.ios",
-      "version": "7.3.7",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1958",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a91980448e55.jpg",
-      "size": 88044687
-    },
-    {
-      "name": "Planta: Plant & Garden Care (Hacked)",
-      "bundleIdentifier": "com.stromming.Plants",
-      "version": "3.119.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2152",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a91401e9a2c4.jpg",
-      "size": 177293019
-    },
-    {
-      "name": "365Scores: Live Sports Scores (Hacked)",
-      "bundleIdentifier": "com.365scores.365scroesapp",
-      "version": "6.6.5",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2234",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8fdd11d602e.jpg",
-      "size": 99530917
-    },
-    {
-      "name": "Seniors Workout (Hacked)",
-      "bundleIdentifier": "com.oneothergame.workout-for-older-adults-app",
-      "version": "6.4.8",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2389",
-      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a8fdd0ca6fb6.jpg",
-      "size": 363838840
     }
   ]
 }
