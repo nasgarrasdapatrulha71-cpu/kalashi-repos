@@ -4,6 +4,54 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Best Brew Guide: Filtru Coffee (Hacked)",
+      "bundleIdentifier": "com.przemyslawbobak.filtru",
+      "version": "4.7.3",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2240",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa499b21ad35.jpg",
+      "size": 124556911
+    },
+    {
+      "name": "FotMob (Hacked)",
+      "bundleIdentifier": "com.mobilefootie.fotmobpro",
+      "version": "1241.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2402",
+      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6aa499acece20.jpg",
+      "size": 75857382
+    },
+    {
+      "name": "Open: Breathwork + Meditation (Hacked)",
+      "bundleIdentifier": "com.o-p-e-n.open",
+      "version": "26.37",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2153",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa441cceaaed.jpg",
+      "size": 228661226
+    },
+    {
+      "name": "Reframe: Drink Less & Thrive (Hacked)",
+      "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
+      "version": "3.9.90",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2271",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa3e9e1e87d6.jpg",
+      "size": 308929853
+    },
+    {
+      "name": "Parking Jam 3D (Hacked)",
+      "bundleIdentifier": "com.uqxuwtxbbu.parkingjam",
+      "version": "232.0.14",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2087",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa392096ab0c.jpg",
+      "size": 231511446
+    },
+    {
+      "name": "Dreams (Hacked)",
+      "bundleIdentifier": "com.thelostproject.dreams",
+      "version": "2.6.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2401",
+      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6aa39203276f3.jpg",
+      "size": 19234839
+    },
+    {
       "name": "Pinterest - Hacked",
       "bundleIdentifier": "pinterest",
       "version": "14.35",
@@ -76,14 +124,6 @@
       "size": 191204921
     },
     {
-      "name": "Reframe: Drink Less & Thrive (Hacked)",
-      "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
-      "version": "3.9.89",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2271",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa0d2e418a33.jpg",
-      "size": 306488361
-    },
-    {
       "name": "Stronger (Hacked)",
       "bundleIdentifier": "com.strongermobileapp.stronger",
       "version": "6.0.0",
@@ -132,14 +172,6 @@
       "size": 32003817
     },
     {
-      "name": "Open: Breathwork + Meditation (Hacked)",
-      "bundleIdentifier": "com.o-p-e-n.open",
-      "version": "26.36",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2153",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9ec387b755d.jpg",
-      "size": 152755038
-    },
-    {
       "name": "Idle Miner",
       "bundleIdentifier": "com.fluffyfairygames.idleminertycoon",
       "version": "5.62.1",
@@ -170,14 +202,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1467",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a9d0c0c60863.jpg",
       "size": 59312394
-    },
-    {
-      "name": "Parking Jam 3D (Hacked)",
-      "bundleIdentifier": "com.uqxuwtxbbu.parkingjam",
-      "version": "232.0.13",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2087",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9c5c467ec33.jpg",
-      "size": 227942931
     },
     {
       "name": "Soundscape: Focus & Deep Sleep (Hacked)",
@@ -306,30 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1834",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a96f8be6c92e.jpg",
       "size": 725373363
-    },
-    {
-      "name": "Youtube - YouTube Plus",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "version": "21.35.3",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1824",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a96e07e6dabf.jpg",
-      "size": 166097887
-    },
-    {
-      "name": "Dune! (Mod menu)",
-      "bundleIdentifier": "io.voodoo.dune",
-      "version": "5.6.07",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2086",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a96dd1c55999.jpg",
-      "size": 99449183
-    },
-    {
-      "name": "PlantSnap",
-      "bundleIdentifier": "net.plantsnap.freemium",
-      "version": "8.0.2",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/831",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a96861e16fb4.jpg",
-      "size": 86817383
     }
   ]
 }
