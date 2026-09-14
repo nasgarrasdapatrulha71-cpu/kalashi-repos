@@ -4,6 +4,38 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Countdown - Pretty Progress (Hacked)",
+      "bundleIdentifier": "com.keinois.PrettyProgressApp",
+      "version": "2.1.4",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2252",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa758caa2c58.jpg",
+      "size": 128485959
+    },
+    {
+      "name": "MoneyCoach: Budget Planner (Hacked)",
+      "bundleIdentifier": "com.duuro.moneyCoach",
+      "version": "12.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2158",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa700ee56cbd.jpg",
+      "size": 122180839
+    },
+    {
+      "name": "Teleprompter",
+      "bundleIdentifier": "io.fadel.TeleprompterX",
+      "version": "1.0.133",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1521",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa6a90045f0e.jpg",
+      "size": 40017907
+    },
+    {
+      "name": "Summarify: AI For YouTube (Hacked)",
+      "bundleIdentifier": "nz.digitaltools.Tube-GPT",
+      "version": "3.14.159265",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2237",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa6511f00d54.jpg",
+      "size": 35169716
+    },
+    {
       "name": "SolarWatch (Hacked)",
       "bundleIdentifier": "com.fifteenjugglers.solarwatch",
       "version": "2026.27",
@@ -114,14 +146,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2127",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6aa2e23948049.jpg",
       "size": 164260440
-    },
-    {
-      "name": "Teleprompter",
-      "bundleIdentifier": "io.fadel.TeleprompterX",
-      "version": "1.0.132",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1521",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa28a4fad260.jpg",
-      "size": 37752365
     },
     {
       "name": "Astra - Life Advice (Hacked)",
@@ -306,30 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2377",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a98ed668e245.jpg",
       "size": 51979808
-    },
-    {
-      "name": "Flow Legends (Hacked)",
-      "bundleIdentifier": "com.vladk.pipemasters",
-      "version": "1.16.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2394",
-      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a98ed6297afb.jpg",
-      "size": 128796802
-    },
-    {
-      "name": "Focus Tomato - Let's focus now (Hacked)",
-      "bundleIdentifier": "com.claushuang.FocusTomato",
-      "version": "6.1.2",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2247",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a989589966b7.jpg",
-      "size": 92484801
-    },
-    {
-      "name": "famefy (Hacked)",
-      "bundleIdentifier": "com.wavera.ios.famefy",
-      "version": "3.0.13",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2393",
-      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a9895856e89e.jpg",
-      "size": 44554879
     }
   ]
 }
