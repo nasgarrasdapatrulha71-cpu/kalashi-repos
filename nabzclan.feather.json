@@ -4,6 +4,30 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Scanner App: Genius Scan (Hacked)",
+      "bundleIdentifier": "com.geniussoftware.GeniusScan",
+      "version": "8.14",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2229",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa86080009ac.jpg",
+      "size": 68867125
+    },
+    {
+      "name": "ShoppingList",
+      "bundleIdentifier": "jp.tyabaken.kaimono",
+      "version": "4.5.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1461",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa80898ccac4.jpg",
+      "size": 13711308
+    },
+    {
+      "name": "Shinobi: Read & Learn Japanese (Hacked)",
+      "bundleIdentifier": "com.shinobiapp.shinobi",
+      "version": "1.4.7",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2238",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa7b0b19fadd.jpg",
+      "size": 59800274
+    },
+    {
       "name": "Countdown - Pretty Progress (Hacked)",
       "bundleIdentifier": "com.keinois.PrettyProgressApp",
       "version": "2.1.4",
@@ -204,14 +228,6 @@
       "size": 91697788
     },
     {
-      "name": "ShoppingList",
-      "bundleIdentifier": "jp.tyabaken.kaimono",
-      "version": "4.5.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1461",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa023157183b.jpg",
-      "size": 14806968
-    },
-    {
       "name": "Elevate - Brain Training Games (Hacked)",
       "bundleIdentifier": "com.elevateapp.elevate",
       "version": "5.256.0",
@@ -314,22 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1639",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a99454cf37c3.jpg",
       "size": 147137911
-    },
-    {
-      "name": "TapeKit (Hacked)",
-      "bundleIdentifier": "com.widget-kid",
-      "version": "3.5.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2395",
-      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a9945488ed70.jpg",
-      "size": 144741165
-    },
-    {
-      "name": "OnTheWay (Hacked)",
-      "bundleIdentifier": "ideastudio.Weather-on-the-Way",
-      "version": "2.5.9",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2377",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a98ed668e245.jpg",
-      "size": 51979808
     }
   ]
 }
