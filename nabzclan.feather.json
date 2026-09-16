@@ -4,6 +4,54 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "BoxBox",
+      "bundleIdentifier": "club.boxbox.widgets-ios",
+      "version": "5.5.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1231",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa9c00d9c6f4.jpg",
+      "size": 104533549
+    },
+    {
+      "name": "SolarWatch (Hacked)",
+      "bundleIdentifier": "com.fifteenjugglers.solarwatch",
+      "version": "2026.27.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2284",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa968339b554.jpg",
+      "size": 73898060
+    },
+    {
+      "name": "Flourish (Hacked)",
+      "bundleIdentifier": "vladchechura.AffirmationsEN",
+      "version": "1.9.4",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2406",
+      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6aa9682ee28a5.jpg",
+      "size": 70848266
+    },
+    {
+      "name": "BeFreed: Personalized Learning (Hacked)",
+      "bundleIdentifier": "ai.befreed.freed-frontend-rn",
+      "version": "4.5.8",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2147",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa91044b4ce0.jpg",
+      "size": 108336086
+    },
+    {
+      "name": "Paku",
+      "bundleIdentifier": "com.kylebashour.aqi-wtf",
+      "version": "7.3.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1525",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa8b869003e6.jpg",
+      "size": 81654776
+    },
+    {
+      "name": "QuoteUp (Hacked)",
+      "bundleIdentifier": "vladchechura.MotivationEN",
+      "version": "1.5.9",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2405",
+      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6aa8b864789ab.jpg",
+      "size": 93335696
+    },
+    {
       "name": "Scanner App: Genius Scan (Hacked)",
       "bundleIdentifier": "com.geniussoftware.GeniusScan",
       "version": "8.14",
@@ -60,28 +108,12 @@
       "size": 35169716
     },
     {
-      "name": "SolarWatch (Hacked)",
-      "bundleIdentifier": "com.fifteenjugglers.solarwatch",
-      "version": "2026.27",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2284",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa5f93fd4e26.jpg",
-      "size": 71206471
-    },
-    {
       "name": "Colourtone (Hacked)",
       "bundleIdentifier": "com.colorpresets.colourtone",
       "version": "5.6.2",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2404",
       "iconURL": "https://appstore.sidelix.vip/images/ritfy_6aa5f93ae772f.jpg",
       "size": 0
-    },
-    {
-      "name": "Paku",
-      "bundleIdentifier": "com.kylebashour.aqi-wtf",
-      "version": "7.2.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1525",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa5a15a19233.jpg",
-      "size": 81238963
     },
     {
       "name": "Lyfta: Gym Workout Tracker Log (Hacked)",
@@ -298,38 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2181",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a9afcc31d15d.jpg",
       "size": 60753739
-    },
-    {
-      "name": "Liftoff - Ranked Gym Workouts (Hacked)",
-      "bundleIdentifier": "com.gymbros.app",
-      "version": "2.15.6",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2192",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9a4cec873ce.jpg",
-      "size": 141732914
-    },
-    {
-      "name": "ADHDWhiteNoise",
-      "bundleIdentifier": "io.mindist.noise",
-      "version": "2.1.2",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1431",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a999d3b160ef.jpg",
-      "size": 39082834
-    },
-    {
-      "name": "Grounded (Hacked)",
-      "bundleIdentifier": "com.ifeanyi.Grounded",
-      "version": "3.1.24",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2396",
-      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a999d35733f5.jpg",
-      "size": 109534974
-    },
-    {
-      "name": "intoLive",
-      "bundleIdentifier": "me.imgbase.intolive",
-      "version": "4.4.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1639",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a99454cf37c3.jpg",
-      "size": 147137911
     }
   ]
 }
