@@ -4,6 +4,46 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Petty: Petrol Prices AU + UK (Hacked)",
+      "bundleIdentifier": "zachsim.one.Petty",
+      "version": "8.1.7",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2125",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aab1fa2b0469.jpg",
+      "size": 25258692
+    },
+    {
+      "name": "Liftoff - Ranked Gym Workouts (Hacked)",
+      "bundleIdentifier": "com.gymbros.app",
+      "version": "2.16.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2192",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aaac7c548194.jpg",
+      "size": 137021963
+    },
+    {
+      "name": "Rest: Fix Your Sleep For Good (Hacked)",
+      "bundleIdentifier": "com.evolve.helm",
+      "version": "3.202.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2180",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aaa6fd4d19bd.jpg",
+      "size": 137498249
+    },
+    {
+      "name": "Sticky Widgets (Hacked)",
+      "bundleIdentifier": "com.tylerhillsman.Stickies",
+      "version": "5.2.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2352",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aaa17f7a28f3.jpg",
+      "size": 61161748
+    },
+    {
+      "name": "Factly (Hacked)",
+      "bundleIdentifier": "vladchechura.FactsEN",
+      "version": "1.3.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2407",
+      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6aaa17f376f24.jpg",
+      "size": 74746011
+    },
+    {
       "name": "BoxBox",
       "bundleIdentifier": "club.boxbox.widgets-ios",
       "version": "5.5.1",
@@ -290,46 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2115",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a9e6b9d5fde0.jpg",
       "size": 146326246
-    },
-    {
-      "name": "Captions",
-      "bundleIdentifier": "boomer.Smart-Video",
-      "version": "13.33.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/415",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9dbbe2147cb.jpg",
-      "size": 98088606
-    },
-    {
-      "name": "Knight Lancer (hacked)",
-      "bundleIdentifier": "com.ToweringTower.KnightLancer",
-      "version": "1.66",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2066",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9d63f48796c.jpg",
-      "size": 117144452
-    },
-    {
-      "name": "MySwimPro",
-      "bundleIdentifier": "com.myswimpro.apps.MySwimPro",
-      "version": "9.5.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1467",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9d0c0c60863.jpg",
-      "size": 59312394
-    },
-    {
-      "name": "Soundscape: Focus & Deep Sleep (Hacked)",
-      "bundleIdentifier": "com.soundscape.music",
-      "version": "10.1.58",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2174",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9c046546d20.jpg",
-      "size": 62913054
-    },
-    {
-      "name": "Gronda: Recipes for Chefs (Hacked)",
-      "bundleIdentifier": "gronda.gmbh",
-      "version": "8.32.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2181",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9afcc31d15d.jpg",
-      "size": 60753739
     }
   ]
 }
