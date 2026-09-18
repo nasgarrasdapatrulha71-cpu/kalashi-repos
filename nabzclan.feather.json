@@ -4,6 +4,38 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Detail: AI Video Editor (Hacked)",
+      "bundleIdentifier": "co.detail.duo",
+      "version": "6.0.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2226",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aac7f351b0f2.jpg",
+      "size": 206730070
+    },
+    {
+      "name": "Tide Guide: Charts & Tables (Hacked)",
+      "bundleIdentifier": "com.condor.digital.Tide-Over",
+      "version": "27.0.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2249",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aac2751ac31e.jpg",
+      "size": 169871177
+    },
+    {
+      "name": "Bill Tracker Pro (Hacked)",
+      "bundleIdentifier": "com.unofficialcalculators.payplan",
+      "version": "4.2.33",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2127",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aabcf6531ce1.jpg",
+      "size": 165969757
+    },
+    {
+      "name": "TapeKit (Hacked)",
+      "bundleIdentifier": "com.widget-kid",
+      "version": "3.6.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2395",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aab77831321d.jpg",
+      "size": 149157062
+    },
+    {
       "name": "Petty: Petrol Prices AU + UK (Hacked)",
       "bundleIdentifier": "zachsim.one.Petty",
       "version": "8.1.7",
@@ -236,14 +268,6 @@
       "size": 184236931
     },
     {
-      "name": "Bill Tracker Pro (Hacked)",
-      "bundleIdentifier": "com.unofficialcalculators.payplan",
-      "version": "4.2.32",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2127",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa2e23948049.jpg",
-      "size": 164260440
-    },
-    {
       "name": "Astra - Life Advice (Hacked)",
       "bundleIdentifier": "com.vertventures.stella",
       "version": "3.12.53",
@@ -306,30 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2163",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6a9fcb2da9e90.jpg",
       "size": 147046662
-    },
-    {
-      "name": "Stippl",
-      "bundleIdentifier": "com.stippl.stippl",
-      "version": "3.1.2",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1257",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9f73503ceeb.jpg",
-      "size": 81690980
-    },
-    {
-      "name": "Clarido (Hacked)",
-      "bundleIdentifier": "com.jabhi.clarido",
-      "version": "3.4.3",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2287",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9f1b6a34dc7.jpg",
-      "size": 32003817
-    },
-    {
-      "name": "Idle Miner",
-      "bundleIdentifier": "com.fluffyfairygames.idleminertycoon",
-      "version": "5.62.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2115",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a9e6b9d5fde0.jpg",
-      "size": 146326246
     }
   ]
 }
