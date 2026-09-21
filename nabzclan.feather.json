@@ -4,6 +4,30 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "MoneyCoach: Budget Planner (Hacked)",
+      "bundleIdentifier": "com.duuro.moneyCoach",
+      "version": "12.0.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2158",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6ab046003ea66.jpg",
+      "size": 124052352
+    },
+    {
+      "name": "Solar Smash (Hacked)",
+      "bundleIdentifier": "com.paradyme.solarsmasher",
+      "version": "2.7.5",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2357",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aafee1b8e91a.jpg",
+      "size": 322090639
+    },
+    {
+      "name": "Tide Guide: Charts & Tables (Hacked)",
+      "bundleIdentifier": "com.condor.digital.Tide-Over",
+      "version": "27.0.3",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2249",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aaf962fcb6a0.jpg",
+      "size": 171412506
+    },
+    {
       "name": "SolarWatch (Hacked)",
       "bundleIdentifier": "com.fifteenjugglers.solarwatch",
       "version": "2026.27.3",
@@ -42,14 +66,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2226",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6aac7f351b0f2.jpg",
       "size": 206730070
-    },
-    {
-      "name": "Tide Guide: Charts & Tables (Hacked)",
-      "bundleIdentifier": "com.condor.digital.Tide-Over",
-      "version": "27.0.2",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2249",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6aac2751ac31e.jpg",
-      "size": 169871177
     },
     {
       "name": "Bill Tracker Pro (Hacked)",
@@ -178,14 +194,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2252",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6aa758caa2c58.jpg",
       "size": 128485959
-    },
-    {
-      "name": "MoneyCoach: Budget Planner (Hacked)",
-      "bundleIdentifier": "com.duuro.moneyCoach",
-      "version": "12.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2158",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa700ee56cbd.jpg",
-      "size": 122180839
     },
     {
       "name": "Teleprompter",
@@ -322,14 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2179",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6aa12ac5d120d.jpg",
       "size": 35713710
-    },
-    {
-      "name": "Loopsie (Hacked)",
-      "bundleIdentifier": "com.gamelounge.loopsie.ios",
-      "version": "8.20.4",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2399",
-      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6aa12ac196a19.jpg",
-      "size": 191204921
     }
   ]
 }
