@@ -4,6 +4,38 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "VisualMind (Hacked)",
+      "bundleIdentifier": "com.asanarebel.visualgpt",
+      "version": "1.6.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2375",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6ab47d2ec9b38.jpg",
+      "size": 25633805
+    },
+    {
+      "name": "Riverside Podcast Video Studio (Hacked)",
+      "bundleIdentifier": "RVS-Riverside.fm",
+      "version": "4.21.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2318",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6ab42548aad4e.jpg",
+      "size": 118376607
+    },
+    {
+      "name": "Bill Tracker Pro (Hacked)",
+      "bundleIdentifier": "com.unofficialcalculators.payplan",
+      "version": "4.2.36",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2127",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6ab3cd7a3ba0d.jpg",
+      "size": 163614454
+    },
+    {
+      "name": "Focus Tomato - Let's focus now (Hacked)",
+      "bundleIdentifier": "com.claushuang.FocusTomato",
+      "version": "6.1.3",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2247",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6ab3757d075f9.jpg",
+      "size": 125519707
+    },
+    {
       "name": "MySwimPro",
       "bundleIdentifier": "com.myswimpro.apps.MySwimPro",
       "version": "9.5.3",
@@ -122,14 +154,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2226",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6aac7f351b0f2.jpg",
       "size": 206730070
-    },
-    {
-      "name": "Bill Tracker Pro (Hacked)",
-      "bundleIdentifier": "com.unofficialcalculators.payplan",
-      "version": "4.2.33",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2127",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6aabcf6531ce1.jpg",
-      "size": 165969757
     },
     {
       "name": "TapeKit (Hacked)",
@@ -306,30 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2402",
       "iconURL": "https://appstore.sidelix.vip/images/ritfy_6aa499acece20.jpg",
       "size": 75857382
-    },
-    {
-      "name": "Open: Breathwork + Meditation (Hacked)",
-      "bundleIdentifier": "com.o-p-e-n.open",
-      "version": "26.37",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2153",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa441cceaaed.jpg",
-      "size": 228661226
-    },
-    {
-      "name": "Reframe: Drink Less & Thrive (Hacked)",
-      "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
-      "version": "3.9.90",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2271",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa3e9e1e87d6.jpg",
-      "size": 308929853
-    },
-    {
-      "name": "Parking Jam 3D (Hacked)",
-      "bundleIdentifier": "com.uqxuwtxbbu.parkingjam",
-      "version": "232.0.14",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2087",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa392096ab0c.jpg",
-      "size": 231511446
     }
   ]
 }
