@@ -4,6 +4,38 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Crossword Master - Word Puzzle (Hacked)",
+      "bundleIdentifier": "com.easybrain.crossword.puzzles",
+      "version": "2.3.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2173",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6ab5dcbee9608.jpg",
+      "size": 97101718
+    },
+    {
+      "name": "Knife Hit (Hacked)",
+      "bundleIdentifier": "com.ketchapp.knifehit",
+      "version": "1.9.27",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2292",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6ab584db10eec.jpg",
+      "size": 86265812
+    },
+    {
+      "name": "DaVinciEye",
+      "bundleIdentifier": "com.cumbemg.davinci",
+      "version": "5.0.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1437",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6ab52cef7bb4a.jpg",
+      "size": 127640774
+    },
+    {
+      "name": "Balance: Meditation & Sleep (Hacked)",
+      "bundleIdentifier": "com.elevateapp.kamino.kamino",
+      "version": "1.212.0",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2225",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6ab4d50f5d101.jpg",
+      "size": 125788791
+    },
+    {
       "name": "VisualMind (Hacked)",
       "bundleIdentifier": "com.asanarebel.visualgpt",
       "version": "1.6.2",
@@ -298,38 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2259",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6aa54971e48d9.jpg",
       "size": 57925581
-    },
-    {
-      "name": "HTTPBot (Hacked)",
-      "bundleIdentifier": "com.behindtechlines.HTTPBot",
-      "version": "2026.6",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2141",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa4f193c75a0.jpg",
-      "size": 42457496
-    },
-    {
-      "name": "Vintage Slideshow (Hacked)",
-      "bundleIdentifier": "com.pastel.lifeonfilm",
-      "version": "1.1.72",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2403",
-      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6aa4f18ed96db.jpg",
-      "size": 204604276
-    },
-    {
-      "name": "Best Brew Guide: Filtru Coffee (Hacked)",
-      "bundleIdentifier": "com.przemyslawbobak.filtru",
-      "version": "4.7.3",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2240",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa499b21ad35.jpg",
-      "size": 124556911
-    },
-    {
-      "name": "FotMob (Hacked)",
-      "bundleIdentifier": "com.mobilefootie.fotmobpro",
-      "version": "1241.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2402",
-      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6aa499acece20.jpg",
-      "size": 75857382
     }
   ]
 }
