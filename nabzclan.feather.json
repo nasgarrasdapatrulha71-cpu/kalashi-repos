@@ -4,6 +4,38 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "MoneyCoach: Budget Planner (Hacked)",
+      "bundleIdentifier": "com.duuro.moneyCoach",
+      "version": "12.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2158",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6ab9b89d55b11.jpg",
+      "size": 122357448
+    },
+    {
+      "name": "SolarWatch (Hacked)",
+      "bundleIdentifier": "com.fifteenjugglers.solarwatch",
+      "version": "2026.27.6",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2284",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6ab960c4e98d9.jpg",
+      "size": 73402983
+    },
+    {
+      "name": "Reframe: Drink Less & Thrive (Hacked)",
+      "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
+      "version": "3.9.93",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2271",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6ab908d693714.jpg",
+      "size": 247082762
+    },
+    {
+      "name": "Detail: AI Video Editor (Hacked)",
+      "bundleIdentifier": "co.detail.duo",
+      "version": "6.0.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2226",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6ab8b0f2a3134.jpg",
+      "size": 208726025
+    },
+    {
       "name": "Scenic Motorcycle Navigation (Hacked)",
       "bundleIdentifier": "com.pinguido.scenic",
       "version": "4.45",
@@ -172,14 +204,6 @@
       "size": 40111200
     },
     {
-      "name": "MoneyCoach: Budget Planner (Hacked)",
-      "bundleIdentifier": "com.duuro.moneyCoach",
-      "version": "12.0.2",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2158",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6ab046003ea66.jpg",
-      "size": 124052352
-    },
-    {
       "name": "Solar Smash (Hacked)",
       "bundleIdentifier": "com.paradyme.solarsmasher",
       "version": "2.7.5",
@@ -194,14 +218,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2249",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6aaf962fcb6a0.jpg",
       "size": 171412506
-    },
-    {
-      "name": "SolarWatch (Hacked)",
-      "bundleIdentifier": "com.fifteenjugglers.solarwatch",
-      "version": "2026.27.3",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2284",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6aaf3e4f1bccc.jpg",
-      "size": 73383062
     },
     {
       "name": "Imprint: Visual Micro Learning (Hacked)",
@@ -226,14 +242,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2304",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6aae36a2b23af.jpg",
       "size": 194067993
-    },
-    {
-      "name": "Detail: AI Video Editor (Hacked)",
-      "bundleIdentifier": "co.detail.duo",
-      "version": "6.0.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2226",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6aac7f351b0f2.jpg",
-      "size": 206730070
     },
     {
       "name": "TapeKit (Hacked)",
@@ -322,14 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2229",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6aa86080009ac.jpg",
       "size": 68867125
-    },
-    {
-      "name": "ShoppingList",
-      "bundleIdentifier": "jp.tyabaken.kaimono",
-      "version": "4.5.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1461",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa80898ccac4.jpg",
-      "size": 13711308
     }
   ]
 }
