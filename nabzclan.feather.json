@@ -4,6 +4,38 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "ScannerPro",
+      "bundleIdentifier": "com.readdle.Scanner",
+      "version": "9.0.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1493",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6abb18349ed35.jpg",
+      "size": 194758201
+    },
+    {
+      "name": "Astra - Life Advice (Hacked)",
+      "bundleIdentifier": "com.vertventures.stella",
+      "version": "3.12.64",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2159",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6abac04c76a97.jpg",
+      "size": 102841761
+    },
+    {
+      "name": "Countdown - Pretty Progress (Hacked)",
+      "bundleIdentifier": "com.keinois.PrettyProgressApp",
+      "version": "2.1.8",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2252",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aba687187a58.jpg",
+      "size": 127053723
+    },
+    {
+      "name": "INTVL (Hacked)",
+      "bundleIdentifier": "com.intvl.app",
+      "version": "4.0.9",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2168",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6aba10803b029.jpg",
+      "size": 89400783
+    },
+    {
       "name": "MoneyCoach: Budget Planner (Hacked)",
       "bundleIdentifier": "com.duuro.moneyCoach",
       "version": "12.1",
@@ -172,14 +204,6 @@
       "size": 92711870
     },
     {
-      "name": "Astra - Life Advice (Hacked)",
-      "bundleIdentifier": "com.vertventures.stella",
-      "version": "3.12.60",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2159",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6ab154bc8ad43.jpg",
-      "size": 104961250
-    },
-    {
       "name": "Sunset Predictions: Alpenglow (Hacked)",
       "bundleIdentifier": "com.andydev.alpenglow",
       "version": "12.0.3",
@@ -306,30 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2147",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6aa91044b4ce0.jpg",
       "size": 108336086
-    },
-    {
-      "name": "Paku",
-      "bundleIdentifier": "com.kylebashour.aqi-wtf",
-      "version": "7.3.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1525",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa8b869003e6.jpg",
-      "size": 81654776
-    },
-    {
-      "name": "QuoteUp (Hacked)",
-      "bundleIdentifier": "vladchechura.MotivationEN",
-      "version": "1.5.9",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2405",
-      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6aa8b864789ab.jpg",
-      "size": 93335696
-    },
-    {
-      "name": "Scanner App: Genius Scan (Hacked)",
-      "bundleIdentifier": "com.geniussoftware.GeniusScan",
-      "version": "8.14",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2229",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa86080009ac.jpg",
-      "size": 68867125
     }
   ]
 }
