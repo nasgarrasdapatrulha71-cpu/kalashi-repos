@@ -4,6 +4,38 @@
   "iconURL": "https://cdn.nabzclan.vip/sidelix/images/logo/logosidelix.jpg",
   "apps": [
     {
+      "name": "Knight Lancer (hacked)",
+      "bundleIdentifier": "com.ToweringTower.KnightLancer",
+      "version": "1.67",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2066",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6abc77c0092b6.jpg",
+      "size": 118436272
+    },
+    {
+      "name": "DaVinciEye",
+      "bundleIdentifier": "com.cumbemg.davinci",
+      "version": "5.0.1",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1437",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6abc1fdc2dfd6.jpg",
+      "size": 128942689
+    },
+    {
+      "name": "Dune! (Mod menu)",
+      "bundleIdentifier": "io.voodoo.dune",
+      "version": "5.7.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2086",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6abbc7f5a191d.jpg",
+      "size": 109286235
+    },
+    {
+      "name": "I Am Sober (Hacked)",
+      "bundleIdentifier": "com.thehungrywasp.iamsober",
+      "version": "8.8.2",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2129",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6abb700d8ed4f.jpg",
+      "size": 47538026
+    },
+    {
       "name": "ScannerPro",
       "bundleIdentifier": "com.readdle.Scanner",
       "version": "9.0.1",
@@ -138,14 +170,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2292",
       "iconURL": "https://appstore.sidelix.vip/images/icon_6ab584db10eec.jpg",
       "size": 86265812
-    },
-    {
-      "name": "DaVinciEye",
-      "bundleIdentifier": "com.cumbemg.davinci",
-      "version": "5.0.0",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1437",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6ab52cef7bb4a.jpg",
-      "size": 127640774
     },
     {
       "name": "Balance: Meditation & Sleep (Hacked)",
@@ -306,30 +330,6 @@
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2407",
       "iconURL": "https://appstore.sidelix.vip/images/ritfy_6aaa17f376f24.jpg",
       "size": 74746011
-    },
-    {
-      "name": "BoxBox",
-      "bundleIdentifier": "club.boxbox.widgets-ios",
-      "version": "5.5.1",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1231",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa9c00d9c6f4.jpg",
-      "size": 104533549
-    },
-    {
-      "name": "Flourish (Hacked)",
-      "bundleIdentifier": "vladchechura.AffirmationsEN",
-      "version": "1.9.4",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2406",
-      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6aa9682ee28a5.jpg",
-      "size": 70848266
-    },
-    {
-      "name": "BeFreed: Personalized Learning (Hacked)",
-      "bundleIdentifier": "ai.befreed.freed-frontend-rn",
-      "version": "4.5.8",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2147",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6aa91044b4ce0.jpg",
-      "size": 108336086
     }
   ]
 }
